@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [indonesia, investment, bureaucracy, governance]
-sources: [sources/002-endgame-245-purbaya-sadewa]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong]
 status: active
 ---
 
@@ -27,6 +27,10 @@ New rules proliferate to “fix” each failure mode; on paper, obstacles vanish
 
 Finance ministry as more than “juru bayar”: withhold or delay transfers if ministries don’t execute — a **credible threat**, plus regular reporting to the president. Past meetings without threat → promised rule changes that never landed.
 
+## Adjacent: licensing incentives (#248)
+
+[[entities/tom-lembong|Tom]] frames chronic permit scarcity as a **rent incentive** problem (parties/officials monetize recommendations), not only a case-clearance problem. Complementary fix path: [[concepts/ownership-society|ownership society]] + party finance, alongside satgas-style [[concepts/decentralization-paradox|local empowerment with accountability]].
+
 ## Related
 
-[[concepts/fdi-climate]], [[concepts/uncertainty-to-risk-translation]], [[sources/002-endgame-245-purbaya-sadewa]]
+[[concepts/fdi-climate]], [[concepts/uncertainty-to-risk-translation]], [[concepts/ownership-society]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]]

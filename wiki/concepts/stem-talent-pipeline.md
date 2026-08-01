@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [education, stem, indonesia, human-capital]
-sources: [sources/002-endgame-245-purbaya-sadewa]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong]
 status: active
 ---
 
@@ -40,6 +40,10 @@ He refuses “print more engineers” while the economy is soft — graduates al
 
 Offer of funded S3 tracks declined (ITB picks + LPS staff) — generational risk tolerance vs multi-year uncertain payoff. Needs different psychology/design, not only scholarships.
 
+## Upstream: teachers
+
+[[entities/tom-lembong|Tom]] / [[entities/gita-wirjawan|Gita]] (#248) push the bottleneck earlier: without [[concepts/soft-infrastructure-teachers|teacher quality and pay]], scaling STEM degrees won’t fix the leadership/talent pool. Autodidact + substance media can partially substitute weak formal credentials — but teacher investment remains the scalable soft-infra bet.
+
 ## Related
 
-[[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[sources/002-endgame-245-purbaya-sadewa]]
+[[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[concepts/soft-infrastructure-teachers]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]]
