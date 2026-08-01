@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [ai, strategy, indonesia, applications]
-sources: [sources/007-bravo-500-ai-panel, sources/009-endgame-239-keyu-jin]
+sources: [sources/007-bravo-500-ai-panel, sources/009-endgame-239-keyu-jin, sources/010-indrawan-perang-ai-china-vs-amerika]
 status: active
 ---
 
@@ -33,6 +33,10 @@ Gita’s framing pushes AI *creator* status via electrification and talent. Fran
 
 [[entities/keyu-jin|Keyu]]’s [[concepts/process-and-diffusion-innovation|process and diffusion innovation]] thesis is the China-side rationale for Franky’s posture: developing economies need adoptable cost-cut tech more than zero-to-one prestige; China’s scale+production+tech stack is the cheap allocator Gita already uses (OPPO vs iPhone). DeepSeek is [[concepts/crisis-innovation-and-tech-restrictions|crisis innovation]] under restrictions — inspiration, not a template for every SEA capital budget.
 
+## Indrawan bridge (#010): cheap stacks for developing markets
+
+[[entities/indrawan-nugroho|Indrawan]] argues Chinese OSS + distribution is hard to contain where price and tech-sovereignty sensitivity are high — same pull Franky rides. He also warns: don’t confuse DeepSeek’s [[concepts/value-creation-vs-value-capture|value creation]] shock with owning the industry; enterprise lock-in and distribution still decide [[concepts/ai-commoditization-and-enterprise-lock-in|capture]].
+
 ## Related
 
-[[concepts/deep-tech-long-termism]] (exportable IP vs app short-termism — different axis; Franky is *application pragmatism*, not consumer-app flip culture), [[concepts/process-and-diffusion-innovation]], [[concepts/crisis-innovation-and-tech-restrictions]], [[concepts/ai-electrification-threshold]], [[concepts/stem-talent-pipeline]], [[entities/franky-widjaja]], [[entities/keyu-jin]]
+[[concepts/deep-tech-long-termism]] (exportable IP vs app short-termism — different axis; Franky is *application pragmatism*, not consumer-app flip culture), [[concepts/process-and-diffusion-innovation]], [[concepts/crisis-innovation-and-tech-restrictions]], [[concepts/ai-electrification-threshold]], [[concepts/stem-talent-pipeline]], [[concepts/value-creation-vs-value-capture]], [[concepts/ai-commoditization-and-enterprise-lock-in]], [[entities/franky-widjaja]], [[entities/keyu-jin]], [[entities/indrawan-nugroho]]

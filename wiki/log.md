@@ -198,3 +198,23 @@ Ninth ingest — **China political economy** layer (emphasis **A** confirmed: ma
 **Key takeaways filed:** mayor economy (local tournament + firm exit) as China’s growth/tech machine; entrepreneurial state capacity underweighted in Western models; process/diffusion > first-mover; crisis innovation under 2018+ export controls; leverage weaponization spawns substitutes; restructuring not deglobalization; SEA needs savings/education/stability/own investment; China as cheap tech allocator.
 
 **Bridges / contested:** mayor economy = mechanism inside decentralization paradox (Tom #248 cited Keyu; #239 primary); process innovation ↔ copy-with-pride; Keyu/Chatib/Bravo multipolar managed rivalry vs Jiang intra-elite civil-war frame (logged, not overwritten).
+
+## [2026-08-01] ingest | Indrawan — Perang AI China vs Amerika + NVIDIA AI PC
+
+Tenth and eleventh ingest — **AI industry strategy** and **platform/edge hardware** layers from [[entities/indrawan-nugroho|Indrawan Nugroho]] YouTube essays (emphasis as discussed: create vs capture, commoditization, platform leadership; career-closing morals kept light). Claims filed as **attributed**.
+
+**Raw:** `raw/media/indrawan-nugroho/perang-ai-china-vs-amerika_indrawan-nugroho.md`, `raw/media/indrawan-nugroho/transkrip_nvidia_ai_pc_indrawan_nugroho.md`
+
+**Created:**
+- `wiki/sources/010-indrawan-perang-ai-china-vs-amerika.md`
+- `wiki/sources/011-indrawan-nvidia-ai-pc.md`
+- `wiki/entities/indrawan-nugroho.md`
+- `wiki/concepts/value-creation-vs-value-capture.md`
+- `wiki/concepts/ai-commoditization-and-enterprise-lock-in.md`
+- `wiki/concepts/platform-leadership-and-ecosystem-expansion.md`
+
+**Updated:** `wiki/concepts/crisis-innovation-and-tech-restrictions.md`, `process-and-diffusion-innovation.md`, `copy-with-pride-application-layer.md`, `weaponized-interdependence-and-substitutes.md`, `ai-electrification-threshold.md`; `wiki/index.md`, `wiki/overview.md`
+
+**Key takeaways filed:** DeepSeek shock under chip bans → efficiency commoditized by 2026; value creation ≠ value capture; US enterprise switching costs vs China mass distribution/OSS; Nvidia RTX Spark as CUDA platform expansion to AI PC (Gawer/Cusumano); success blind spot + role expansion + position-before-certainty.
+
+**Bridges:** crisis-innovation aftershock (Keyu DeepSeek signal → Indrawan create/capture); process/diffusion ↔ mass industrialization; copy-with-pride ↔ cheap Chinese stacks for developing markets; electrification still binds inference + edge compute.

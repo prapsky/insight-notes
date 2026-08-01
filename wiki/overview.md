@@ -4,7 +4,7 @@ type: overview
 created: 2026-08-01
 updated: 2026-08-01
 tags: [meta, synthesis]
-sources: [sources/001-llm-wiki-pattern, sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin, sources/009-endgame-239-keyu-jin]
+sources: [sources/001-llm-wiki-pattern, sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin, sources/009-endgame-239-keyu-jin, sources/010-indrawan-perang-ai-china-vs-amerika, sources/011-indrawan-nvidia-ai-pc]
 status: active
 ---
 
@@ -14,7 +14,7 @@ This is **insight-notes** — a personal LLM Wiki (second brain). Knowledge comp
 
 ## Current shape
 
-Nine layers of content:
+Eleven layers of content:
 
 1. **Meta** — How the wiki itself works ([[sources/001-llm-wiki-pattern|LLM Wiki pattern]]).
 2. **Indonesia macro / liquidity** — [[sources/002-endgame-245-purbaya-sadewa|Endgame #245]] with [[entities/purbaya-yudi-sadewa|Purbaya]]: money growth, expectation management, satgas debottlenecking, path to 8%.
@@ -25,6 +25,8 @@ Nine layers of content:
 7. **AI infrastructure & sovereignty** — [[sources/007-bravo-500-ai-panel|Bravo 500 panel]] with [[entities/budi-gunadi-sadikin|Budi]], [[entities/franky-widjaja|Franky]], [[entities/sai-prasad|Sai]]: electrification threshold, cryptographic vs physical sovereignty, copy-with-pride application layer.
 8. **Consciousness / elites / media** — [[sources/008-endgame-259-jiang-xueqin|Endgame #259]] with [[entities/jiang-xueqin|Jiang Xueqin]]: attention-as-wealth, Techno-Marxism, elite overproduction, journalism fracture (speculative geopolitics filed thin).
 9. **China political economy** — [[sources/009-endgame-239-keyu-jin|Endgame #239]] with [[entities/keyu-jin|Keyu Jin]]: [[concepts/mayor-economy|mayor economy]], entrepreneurial state capacity, process/crisis innovation; US–China rivalry and SEA tech-allocator window as secondaries.
+10. **AI industry strategy (US–China)** — [[sources/010-indrawan-perang-ai-china-vs-amerika|Indrawan #010]]: DeepSeek shock → [[concepts/value-creation-vs-value-capture|value creation vs capture]] / [[concepts/ai-commoditization-and-enterprise-lock-in|commoditization + enterprise lock-in]].
+11. **AI platform / edge hardware** — [[sources/011-indrawan-nvidia-ai-pc|Indrawan #011]]: Nvidia RTX Spark / AI PC as [[concepts/platform-leadership-and-ecosystem-expansion|platform leadership]] (CUDA → edge).
 
 Shared bridges:
 
@@ -35,7 +37,8 @@ Shared bridges:
 - Between (5) and (9): meritocracy/patronage (Martyn Indonesia) ↔ Keyu’s China talent-recruitment / tech-literate mayor contrast.
 - Between (3) and (6): middle-class policy gap + inequality → populism risk ([[concepts/middle-class-squeeze]] ↔ [[concepts/idea-contest-and-centrism]]).
 - Between (6), (7), and (9): Government 4.0 + multipolar optionality + Keyu’s coalition-of-the-willing / managed rivalry ([[concepts/multipolar-balancing-and-asean]], [[concepts/weaponized-interdependence-and-substitutes]]).
-- Between (7) and (9): [[concepts/copy-with-pride-application-layer]] ↔ [[concepts/process-and-diffusion-innovation]]; DeepSeek as [[concepts/crisis-innovation-and-tech-restrictions|crisis innovation]] signal not SEA vanity template.
+- Between (7) and (9)/(10): [[concepts/copy-with-pride-application-layer]] ↔ [[concepts/process-and-diffusion-innovation]]; DeepSeek as [[concepts/crisis-innovation-and-tech-restrictions|crisis innovation]] signal; Indrawan adds aftershock — create ≠ capture; mass industrialization + US enterprise lock-in.
+- Between (7)/(10) and (11): commoditized models push value to sticky layers — enterprise workflows (#010) *and* CUDA/platform edge (#011); both sit inside [[concepts/ai-electrification-threshold|power constraints]].
 - Between (7) and (8): **Contested altitude** — builder sovereignty/electrification vs [[concepts/techno-marxism|Techno-Marxism]] consciousness capture; same AI object.
 - Between (6)/(9) and (8): **Contested frame** — multipolar nation/club balancing + managed interstate rivalry vs Jiang’s intra-elite [[concepts/elite-overproduction|civil war within states]].
 - Between (3) and (8): idea contest as culture-building (Tom) vs resist-capture / [[concepts/journalism-fracture|journalism fracture]] (Jiang); soft infra ↔ Great Books + “you matter.”
@@ -51,11 +54,11 @@ Shared bridges:
 | Investment & talent | Active (cross-source) | [[concepts/investment-debottlenecking]], [[concepts/uncertainty-to-risk-translation]], [[concepts/stem-talent-pipeline]], [[concepts/brain-gain-and-circulation]] |
 | Governance & culture | Active (Tom + Martyn + Chatib + Keyu) | [[concepts/soft-infrastructure-teachers]], [[concepts/decentralization-paradox]], [[concepts/mayor-economy]], [[concepts/ownership-society]], [[concepts/risk-as-innovation-fuel]], [[concepts/idea-contest-and-centrism]], [[concepts/meritocracy-vs-patronage]], [[concepts/middle-class-squeeze]], [[concepts/government-4-0-and-agile-regulation]] |
 | Geopolitics / trade posture | Active (Chatib + Bravo + Keyu; Jiang contested) | [[concepts/multipolar-balancing-and-asean]], [[concepts/weaponized-interdependence-and-substitutes]], [[concepts/elite-overproduction]] |
-| China innovation / industrial policy | Active (Keyu-led) | [[concepts/process-and-diffusion-innovation]], [[concepts/crisis-innovation-and-tech-restrictions]], [[concepts/mayor-economy]] |
-| AI infra & sovereignty | Active (Bravo 500-led) | [[concepts/ai-electrification-threshold]], [[concepts/physical-vs-cryptographic-sovereignty]], [[concepts/copy-with-pride-application-layer]] |
+| China innovation / industrial policy | Active (Keyu-led; Indrawan aftershock) | [[concepts/process-and-diffusion-innovation]], [[concepts/crisis-innovation-and-tech-restrictions]], [[concepts/mayor-economy]], [[concepts/value-creation-vs-value-capture]] |
+| AI infra & sovereignty | Active (Bravo + Indrawan) | [[concepts/ai-electrification-threshold]], [[concepts/physical-vs-cryptographic-sovereignty]], [[concepts/copy-with-pride-application-layer]], [[concepts/ai-commoditization-and-enterprise-lock-in]], [[concepts/platform-leadership-and-ecosystem-expansion]] |
 | Consciousness / media | Active (Jiang-led) | [[concepts/attention-as-wealth]], [[concepts/techno-marxism]], [[concepts/journalism-fracture]] |
 | Deep tech / startups | Active (Martyn-led) | [[concepts/deep-tech-long-termism]], [[entities/bhumi-varta-technology]] |
-| People / history | Mixed | [[entities/vannevar-bush]], [[entities/michael-levitt]], [[entities/keyu-jin]], [[entities/jiang-xueqin]], [[entities/purbaya-yudi-sadewa]], [[entities/tom-lembong]], [[entities/martyn-terpilowski]], [[entities/chatib-basri]], [[entities/budi-gunadi-sadikin]], [[entities/franky-widjaja]], [[entities/sai-prasad]], [[entities/sinarmas]], era stubs (Prabowo / SBY / Jokowi) |
+| People / history | Mixed | [[entities/vannevar-bush]], [[entities/michael-levitt]], [[entities/keyu-jin]], [[entities/jiang-xueqin]], [[entities/indrawan-nugroho]], [[entities/purbaya-yudi-sadewa]], [[entities/tom-lembong]], [[entities/martyn-terpilowski]], [[entities/chatib-basri]], [[entities/budi-gunadi-sadikin]], [[entities/franky-widjaja]], [[entities/sai-prasad]], [[entities/sinarmas]], era stubs (Prabowo / SBY / Jokowi) |
 
 ## Working theses
 
@@ -77,17 +80,20 @@ Shared bridges:
 
 > *(Attributed — Keyu)* China’s model = centralized politics + decentralized entrepreneurial competition ([[concepts/mayor-economy|mayor economy]]) with state capacity Western textbooks underweight. Process/diffusion and crisis innovation under restrictions matter as much as zero-to-one. US–China is rivalry to manage, not civilizational opposite; leverage weaponization spawns substitutes; SEA can ride restructuring (not deglobalization) if it builds savings, education, stability, and own investment.
 
+> *(Attributed — Indrawan)* Shocking an industry ≠ owning it. DeepSeek created a cheap-AI paradigm; value capture migrated to enterprise embedding and switching costs as efficiency commoditized. Platform leaders expand roles (CUDA → AI PC) before categories clear — today’s success can be tomorrow’s blind spot.
+
 ## Gaps / next
 
 - Endgame voices still interview-depth; corroborate money-growth, M/GDP, STEM conversion shares, education-budget composition, FDI, tax-gap, middle-class shares, permit-density, **GW/kWh/DC-MW**, LLM energy-multipliers, and Keyu’s student-exchange / manufacturing-share / inflation-pass-through figures
-- Natural comparison pages: Purbaya vs Tom vs Martyn vs Chatib on path-to-growth; Bravo 500 sovereignty vs Jiang Techno-Marxism; multipolar balancing vs elite civil-war frame; **Keyu mayor economy vs Tom Indonesia decentralization gap**
+- Corroborate Indrawan’s Nvidia $593B one-day figure, DeepSeek V4 market narrative, RTX Spark Computex specs/partners
+- Natural comparison pages: Purbaya vs Tom vs Martyn vs Chatib on path-to-growth; Bravo 500 sovereignty vs Jiang Techno-Marxism; multipolar balancing vs elite civil-war frame; **Keyu mayor economy vs Tom Indonesia decentralization gap**; Indrawan create/capture vs Keyu process/diffusion
 - Bio-X / random seed-grant design vs Indonesian STEM pipeline — unexplored comparison
 - Great Books / “you matter” pedagogy vs Indonesia teacher soft-infra — unexplored comparison
 - Era stubs (SBY / Jokowi / Prabowo) need independent sources
 - Levitt COVID claims filed contested-only; elevate only with dedicated epidemiology sources
 - Jiang speculative geopolitics (Iran eschatology, election integrity, Board of Peace) stay source-only until corroborated
-- Bhumi Varta / Sinarmas / panelist bios still interview-thin (stubs)
-- Schema may need `policy` / `episode` / `panel` conventions if media ingest becomes routine
+- Bhumi Varta / Sinarmas / panelist bios still interview-thin (stubs); Indrawan bio stub-thin
+- Schema may need `policy` / `episode` / `panel` / `essay` conventions if media ingest becomes routine
 - Search tooling (e.g. qmd) still deferred
 
 ## How to grow this

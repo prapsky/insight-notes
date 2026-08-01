@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [geopolitics, finance, trade, china, us]
-sources: [sources/009-endgame-239-keyu-jin]
+sources: [sources/009-endgame-239-keyu-jin, sources/010-indrawan-perang-ai-china-vs-amerika]
 status: active
 ---
 
@@ -32,7 +32,8 @@ Claim ([[entities/keyu-jin|Keyu Jin]], [[sources/009-endgame-239-keyu-jin|Endgam
 - Aligns with [[concepts/multipolar-balancing-and-asean|multipolar balancing]]: third countries and middle powers seek optionality as bilaterals and weaponization rise
 - Complements [[concepts/crisis-innovation-and-tech-restrictions]]: tech bans as another leverage→substitute loop
 - Contested altitude vs Jiang’s intra-elite civil-war frame ([[concepts/elite-overproduction]]) — Keyu keeps **interstate rivalry + managed competition** primary
+- [[sources/010-indrawan-perang-ai-china-vs-amerika|Indrawan #010]]: DeepSeek competitive under chip restrictions = AI-instance of leverage→substitute; he adds US still races to widen the chip/cloud gap *and* win ecosystem lock-in — bans alone don’t settle capture
 
 ## Related
 
-[[concepts/multipolar-balancing-and-asean]], [[concepts/crisis-innovation-and-tech-restrictions]], [[concepts/fdi-climate]], [[entities/keyu-jin]], [[sources/009-endgame-239-keyu-jin]]
+[[concepts/multipolar-balancing-and-asean]], [[concepts/crisis-innovation-and-tech-restrictions]], [[concepts/fdi-climate]], [[concepts/ai-commoditization-and-enterprise-lock-in]], [[entities/keyu-jin]], [[entities/indrawan-nugroho]], [[sources/009-endgame-239-keyu-jin]], [[sources/010-indrawan-perang-ai-china-vs-amerika]]

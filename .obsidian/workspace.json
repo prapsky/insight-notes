@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/soft-infrastructure-teachers.md",
+                "file": "wiki/concepts/value-creation-vs-value-capture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "soft-infrastructure-teachers"
+              "title": "value-creation-vs-value-capture"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/soft-infrastructure-teachers.md",
+                "file": "wiki/concepts/value-creation-vs-value-capture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/concepts/soft-infrastructure-teachers.md",
+                "file": "wiki/concepts/value-creation-vs-value-capture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/concepts/soft-infrastructure-teachers.md",
+                "file": "wiki/concepts/value-creation-vs-value-capture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,20 @@
   },
   "active": "6732a5af50f41210",
   "lastOpenFiles": [
+    "wiki/concepts/platform-leadership-and-ecosystem-expansion.md",
+    "wiki/concepts/ai-commoditization-and-enterprise-lock-in.md",
+    "wiki/concepts/value-creation-vs-value-capture.md",
+    "wiki/entities/indrawan-nugroho.md",
+    "wiki/sources/011-indrawan-nvidia-ai-pc.md",
+    "wiki/sources/010-indrawan-perang-ai-china-vs-amerika.md",
+    "raw/media/indrawan-nugroho/perang-ai-china-vs-amerika_indrawan-nugroho.md",
+    "raw/media/indrawan-nugroho/transkrip_nvidia_ai_pc_indrawan_nugroho.md",
+    "raw/media/indrawan-nugroho",
+    "raw/media/untitled folder",
+    "raw/media/endgame/transkrip_nvidia_ai_pc_indrawan_nugroho.md",
+    "raw/media/endgame/perang-ai-china-vs-amerika_indrawan-nugroho.md",
+    "wiki/concepts/fdi-climate.md",
+    "wiki/concepts/soft-infrastructure-teachers.md",
     "wiki/concepts/weaponized-interdependence-and-substitutes.md",
     "wiki/concepts/crisis-innovation-and-tech-restrictions.md",
     "wiki/concepts/process-and-diffusion-innovation.md",
@@ -203,18 +217,6 @@
     "wiki/concepts/techno-marxism.md",
     "wiki/concepts/attention-as-wealth.md",
     "wiki/entities/jiang-xueqin.md",
-    "wiki/sources/008-endgame-259-jiang-xueqin.md",
-    "wiki/concepts/risk-as-innovation-fuel.md",
-    "raw/media/endgame/259_jiang-xueqin.md",
-    "wiki/concepts/physical-vs-cryptographic-sovereignty.md",
-    "wiki/concepts/copy-with-pride-application-layer.md",
-    "wiki/concepts/ai-electrification-threshold.md",
-    "wiki/entities/sinarmas.md",
-    "wiki/entities/sai-prasad.md",
-    "wiki/entities/franky-widjaja.md",
-    "wiki/entities/budi-gunadi-sadikin.md",
-    "wiki/sources/007-bravo-500-ai-panel.md",
-    "raw/media/endgame/When_Businessman_Ex_Policymaker_and_Engineer_Collide_to_Talk_About_AI_qTig2IGAwwg.md",
-    "wiki/concepts/multipolar-balancing-and-asean.md"
+    "wiki/sources/008-endgame-259-jiang-xueqin.md"
   ]
 }
