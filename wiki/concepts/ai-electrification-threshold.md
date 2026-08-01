@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [ai, energy, indonesia, infrastructure]
-sources: [sources/007-bravo-500-ai-panel, sources/006-endgame-216-chatib-basri]
+sources: [sources/007-bravo-500-ai-panel, sources/006-endgame-216-chatib-basri, sources/008-endgame-259-jiang-xueqin]
 status: active
 ---
 
@@ -37,6 +37,8 @@ Without power, “data sovereignty” collapses into **data dependence** — ons
 
 > **Verify:** GW, kWh/capita, 5 GW/yr, and “10–50× search energy” multipliers need PLN/MEMR/IEA and model-provider disclosures — filed as attributed panel rhetoric until corroborated.
 
+> **Altitude note (2026-08-01):** Jiang (#008) barely treats electrons; his AI threat model is [[concepts/techno-marxism|consciousness capture]], not GW shortfall. Panel answers “can we build?”; Jiang answers “who owns attention?” Keep both.
+
 ## Related
 
-[[concepts/physical-vs-cryptographic-sovereignty]], [[concepts/fdi-climate]], [[concepts/copy-with-pride-application-layer]], [[concepts/government-4-0-and-agile-regulation]]
+[[concepts/physical-vs-cryptographic-sovereignty]], [[concepts/techno-marxism]], [[concepts/fdi-climate]], [[concepts/copy-with-pride-application-layer]], [[concepts/government-4-0-and-agile-regulation]]

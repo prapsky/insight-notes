@@ -25,6 +25,7 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[sources/005-endgame-272-martyn-terpilowski|Endgame #272 — Martyn Terpilowski]] — Technocracy in business: meritocracy, FDI sponge, deep-tech long-termism
 - [[sources/006-endgame-216-chatib-basri|Endgame #216 — Chatib Basri]] — Middle-class squeeze, tax compliance, FDI-when-space-thin, Government 4.0, multipolar balancing
 - [[sources/007-bravo-500-ai-panel|Bravo 500 AI Panel — Budi, Franky, Sai]] — AI electrification, sovereignty (physical vs cryptographic), copy-with-pride apps
+- [[sources/008-endgame-259-jiang-xueqin|Endgame #259 — Jiang Xueqin]] — Attention-as-wealth, Techno-Marxism, elite overproduction, journalism fracture
 
 ## Entities
 
@@ -36,6 +37,10 @@ Catalog of all wiki pages. Read this first when answering queries.
 
 - [[entities/michael-levitt|Michael Levitt]] — Nobel Chemistry 2013; computational biology; BI/diversity/AI-as-tutor
 - [[entities/sai-prasad|Sai Prasad]] — Google Cloud SEA voice; cryptographic sovereignty, sandboxes, stack optionality (stub)
+
+### Geopolitics / consciousness
+
+- [[entities/jiang-xueqin|Jiang Xueqin]] — Educator/commentator; attention-as-wealth, Techno-Marxism, elite overproduction, Great Books
 
 ### Indonesia / policy
 
@@ -101,6 +106,13 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[concepts/ai-electrification-threshold|AI Electrification Threshold]] — ~10k kWh/capita as AI-creator precondition; ID ~1.3k / century-scale catch-up math
 - [[concepts/physical-vs-cryptographic-sovereignty|Physical vs Cryptographic Sovereignty]] — Local hyperscale vs trace/control of data use under power/chip constraints
 - [[concepts/copy-with-pride-application-layer|Copy with Pride — Application Layer]] — Localize platforms; skip national-DeepSeek vanity; sovereign data ≠ sovereign LLM
+
+### Consciousness / elites / media
+
+- [[concepts/attention-as-wealth|Attention as Wealth]] — Wealth = attention/consciousness; power = directing attention
+- [[concepts/techno-marxism|Techno-Marxism]] — AI companions + tokens; consciousness Matrix / compliance thesis
+- [[concepts/elite-overproduction|Elite Overproduction]] — Turchin frame; Wall Street vs Silicon Valley reality-fight
+- [[concepts/journalism-fracture|Journalism Fracture]] — Shared narrative dead; bubbles → AI moderation risk; individual truth-seeking
 
 ## Comparisons
 

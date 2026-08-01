@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [geopolitics, asean, indonesia, trade]
-sources: [sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel]
+sources: [sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin]
 status: active
 ---
 
@@ -35,6 +35,10 @@ As multilateralism frays, bilateral deals favor the strong (Gita’s “tailor 1
 
 Same Gita thesis at AI infra altitude: SEA (~700M people, ~$4T GDP) must keep **optionality** — not be cornered into US *or* China. [[entities/sai-prasad|Sai]] (Google): coexistence with Chinese players is workable; pick best available tech; AI is ~**10%** of the problem (engine vs airline — brand, ops, safety, customers are local). Complements [[concepts/copy-with-pride-application-layer]] and [[concepts/physical-vs-cryptographic-sovereignty]].
 
+## Contested: Jiang (#008) — civil war within states
+
+> **Contested (2026-08-01):** [[entities/jiang-xueqin|Jiang]] argues the primary conflict is **intra-elite civil war inside nation-states** (esp. US), not multipolar war among nations — external moves as domestic-power expressions ([[concepts/elite-overproduction]]). Chatib/Bravo keep **nation/club/stack balancing** as the actionable SEA frame. Both can be partially true at different altitudes; do not overwrite. Sources: [[sources/008-endgame-259-jiang-xueqin]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]].
+
 ## Related
 
-[[concepts/fdi-climate]], [[concepts/government-4-0-and-agile-regulation]], [[concepts/deep-tech-long-termism]], [[concepts/copy-with-pride-application-layer]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]]
+[[concepts/fdi-climate]], [[concepts/government-4-0-and-agile-regulation]], [[concepts/deep-tech-long-termism]], [[concepts/copy-with-pride-application-layer]], [[concepts/elite-overproduction]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]], [[sources/008-endgame-259-jiang-xueqin]]

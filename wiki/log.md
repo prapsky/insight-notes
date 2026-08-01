@@ -158,3 +158,23 @@ Seventh ingest — **AI infrastructure & sovereignty** layer (emphasis confirmed
 **Key takeaways filed:** AI-creator ≈ ~10k kWh/capita (ID ~1.3k → ~600 GW / century-scale at ~5 GW/yr); Jensen layers 1–3 bind (energy, chips, DC); power wheeling blocked; physical vs cryptographic sovereignty; agentic energy + edge compute; copy-with-pride apps over national DeepSeek; SEA stack optionality (AI ≈ 10% of airline); STEM playground + steered LPDP / three Bays.
 
 **No hard contradictions** — electrification math aligns with Chatib #216 energy-transition framing; principle-based regulation reinforces Government 4.0; optionality reinforces multipolar ASEAN; Franky application pragmatism layers atop (not against) deep-tech long-termism.
+
+## [2026-08-01] ingest | Endgame #259 — Jiang Xueqin
+
+Eighth ingest — **consciousness / elites / media** layer (emphasis confirmed). Claims filed as **attributed** to Jiang Xueqin (and Gita as interlocutor). Speculative geopolitics (Iran eschatology, election integrity, Board of Peace, Pax Judaica) kept **source-only**, not elevated to standing theses.
+
+**Raw:** `raw/media/endgame/259_jiang-xueqin.md`
+
+**Created:**
+- `wiki/sources/008-endgame-259-jiang-xueqin.md`
+- `wiki/entities/jiang-xueqin.md`
+- `wiki/concepts/attention-as-wealth.md`
+- `wiki/concepts/techno-marxism.md`
+- `wiki/concepts/elite-overproduction.md`
+- `wiki/concepts/journalism-fracture.md`
+
+**Updated:** `wiki/concepts/multipolar-balancing-and-asean.md`, `physical-vs-cryptographic-sovereignty.md`, `idea-contest-and-centrism.md`, `soft-infrastructure-teachers.md`, `ai-electrification-threshold.md`; `wiki/entities/endgame-podcast.md`, `gita-wirjawan.md`; `wiki/index.md`, `wiki/overview.md`
+
+**Key takeaways filed:** wealth = attention/consciousness; power = directing attention; Techno-Marxism (AI companions + tokens → compliance Matrix); elite overproduction (Wall Street vs SV/AI); journalism fracture → individual truth-seeking + open AI; Great Books + “You matter.”
+
+**Contested (logged, not overwritten):** multipolar nation/club balancing (Chatib/Bravo) vs Jiang’s intra-elite civil-war frame; Bravo builder sovereignty vs Techno-Marxism consciousness capture.

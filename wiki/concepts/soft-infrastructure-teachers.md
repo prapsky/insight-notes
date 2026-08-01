@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [education, governance, indonesia, human-capital]
-sources: [sources/003-endgame-248-tom-lembong, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel]
+sources: [sources/003-endgame-248-tom-lembong, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin]
 status: active
 ---
 
@@ -36,6 +36,10 @@ Post-GFC admiration of China’s capital-heavy model; China now faces overcapaci
 
 Gita reprises Sabang–Merauke ~88% and teachers as injectors of ambition / imagination / practiced serendipity. [[entities/budi-gunadi-sadikin|Budi]]: Singapore preschool coding buses = 10–20y horizon; Indonesia can’t wait on government alone — private curricula (e.g. [[entities/sinarmas|Sinarmas]] education) must aim at that horizon. [[entities/sai-prasad|Sai]]: personalized learning outside school extends creativity; institutions still supply knowledge and intent to think.
 
+## Jiang (#008): Great Books + “You matter”
+
+Different pedagogy, same soft-infra spirit: [[entities/jiang-xueqin|Jiang]] teaches Great Books (Plato, Homer, Dante, Milton, Shakespeare) as portal to meaning/consciousness; message to developing-economy audiences — **you matter**, choose to wake up and seek wisdom ([[concepts/attention-as-wealth]]). Complements storyteller-teachers without speaking to Indonesian pay/budget composition.
+
 ## Related
 
-[[concepts/stem-talent-pipeline]] (higher-ed / STEM scale is downstream of basic teaching quality), [[concepts/brain-gain-and-circulation]], [[entities/gita-wirjawan]], [[sources/003-endgame-248-tom-lembong]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]]
+[[concepts/stem-talent-pipeline]] (higher-ed / STEM scale is downstream of basic teaching quality), [[concepts/brain-gain-and-circulation]], [[concepts/attention-as-wealth]], [[entities/gita-wirjawan]], [[entities/jiang-xueqin]], [[sources/003-endgame-248-tom-lembong]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]], [[sources/008-endgame-259-jiang-xueqin]]

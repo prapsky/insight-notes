@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [ai, data, sovereignty, cloud, indonesia]
-sources: [sources/007-bravo-500-ai-panel]
+sources: [sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin]
 status: active
 ---
 
@@ -28,6 +28,10 @@ Policy instinct: “I need to *see* it here to believe it is here.” Sai’s cl
 - **Hello-world then guardrails** — learn by doing (sandboxes); ring-fence after value paths exist ([[concepts/government-4-0-and-agile-regulation]])
 - Franky’s complement: sovereign *data control* ≠ building a national DeepSeek ([[concepts/copy-with-pride-application-layer]])
 
+## Contested bridge: Jiang Techno-Marxism
+
+> **Contested (2026-08-01):** Sai’s frame is **agency under constraint** (cryptographic control + mid-level ops). [[entities/jiang-xueqin|Jiang]]’s [[concepts/techno-marxism|Techno-Marxism]] is **centralized consciousness capture** via AI companions/assistants. Same tech object; opposite default outcome assumption. Keep both; don’t merge. Source: [[sources/008-endgame-259-jiang-xueqin]].
+
 ## Related
 
-[[concepts/ai-electrification-threshold]], [[concepts/multipolar-balancing-and-asean]], [[concepts/government-4-0-and-agile-regulation]], [[entities/sai-prasad]]
+[[concepts/ai-electrification-threshold]], [[concepts/multipolar-balancing-and-asean]], [[concepts/government-4-0-and-agile-regulation]], [[concepts/techno-marxism]], [[entities/sai-prasad]]
