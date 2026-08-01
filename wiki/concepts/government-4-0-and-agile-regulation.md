@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [governance, regulation, technology, indonesia]
-sources: [sources/006-endgame-216-chatib-basri]
+sources: [sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel]
 status: active
 ---
 
@@ -31,6 +31,10 @@ Pairs with private-sector **reskilling** (double tax deduction for firm training
 
 AI is framed as **capital-intensive engineering** (scale, data centers), not “just software.” Supremacy concentrates in US/China megafirms; watching from the sidelines without joining capital/talent networks worsens [[concepts/middle-class-squeeze|elitization]]. Regulation that can’t keep up amplifies that lag.
 
+## Bravo 500 panel (#007): same prescription, infra stakes
+
+[[entities/budi-gunadi-sadikin|Budi]]: competitive tech sectors need **principle-based** (light-touch) regulation; monopolies can stay rule-based — else rules can’t catch technology. [[entities/sai-prasad|Sai]]: exponential product side vs linear regulator comprehension → **sandboxes** (Singapore govtech), digital literacy for officials, start with today’s stack then add guardrails (“hello world” before ring-fence). Ties to [[concepts/physical-vs-cryptographic-sovereignty]] (don’t freeze adoption waiting for perfect local hyperscale law) and blocked **power wheeling** as a concrete deregulation miss under [[concepts/ai-electrification-threshold]].
+
 ## Related
 
-[[concepts/tax-compliance-and-administration]], [[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[concepts/multipolar-balancing-and-asean]], [[sources/006-endgame-216-chatib-basri]]
+[[concepts/tax-compliance-and-administration]], [[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[concepts/multipolar-balancing-and-asean]], [[concepts/physical-vs-cryptographic-sovereignty]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]]

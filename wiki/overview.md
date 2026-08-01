@@ -4,7 +4,7 @@ type: overview
 created: 2026-08-01
 updated: 2026-08-01
 tags: [meta, synthesis]
-sources: [sources/001-llm-wiki-pattern, sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri]
+sources: [sources/001-llm-wiki-pattern, sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel]
 status: active
 ---
 
@@ -14,7 +14,7 @@ This is **insight-notes** — a personal LLM Wiki (second brain). Knowledge comp
 
 ## Current shape
 
-Six layers of content:
+Seven layers of content:
 
 1. **Meta** — How the wiki itself works ([[sources/001-llm-wiki-pattern|LLM Wiki pattern]]).
 2. **Indonesia macro / liquidity** — [[sources/002-endgame-245-purbaya-sadewa|Endgame #245]] with [[entities/purbaya-yudi-sadewa|Purbaya]]: money growth, expectation management, satgas debottlenecking, path to 8%.
@@ -22,13 +22,15 @@ Six layers of content:
 4. **Science / intelligence** — [[sources/004-endgame-193-michael-levitt|Endgame #193]] with [[entities/michael-levitt|Michael Levitt]]: biological intelligence, diversity-as-strategy, interdisciplinary silos, serendipity/failure (COVID kept light).
 5. **Technocracy / business meritocracy** — [[sources/005-endgame-272-martyn-terpilowski|Endgame #272]] with [[entities/martyn-terpilowski|Martyn Terpilowski]]: meritocracy vs patronage, FDI/talent sponge, deep-tech long-termism ([[entities/bhumi-varta-technology|Bhumi Varta]] as counterexample).
 6. **Indonesia fiscal / middle class / geopolitics** — [[sources/006-endgame-216-chatib-basri|Endgame #216]] with [[entities/chatib-basri|Chatib Basri]]: middle-class squeeze, tax compliance, FDI-when-space-thin, Government 4.0, multipolar ASEAN balancing.
+7. **AI infrastructure & sovereignty** — [[sources/007-bravo-500-ai-panel|Bravo 500 panel]] with [[entities/budi-gunadi-sadikin|Budi]], [[entities/franky-widjaja|Franky]], [[entities/sai-prasad|Sai]]: electrification threshold, cryptographic vs physical sovereignty, copy-with-pride application layer.
 
 Shared bridges:
 
-- Between (2), (3), (5), and (6): [[concepts/fdi-climate|FDI climate]] = rule of law + [[concepts/uncertainty-to-risk-translation|uncertainty → priced risk]]; Chatib adds savings/ICOR ceiling and “incentives ≠ certainty.”
+- Between (2), (3), (5), (6), and (7): [[concepts/fdi-climate|FDI climate]] = rule of law + [[concepts/uncertainty-to-risk-translation|uncertainty → priced risk]]; Chatib adds savings/ICOR ceiling; Bravo 500 adds **electrons + chips** as AI-FDI gates.
 - Between (3) and (4): productive failure — [[concepts/risk-as-innovation-fuel|risk as innovation fuel]] ↔ [[concepts/scientific-serendipity-and-failure|scientific serendipity & failure]].
-- Between (2)/(3)/(5)/(6): FDI sponge + [[concepts/meritocracy-vs-patronage|meritocracy]] + [[concepts/brain-gain-and-circulation|brain gain]]; M/GDP scarcity on [[concepts/money-supply-vs-interest-rates|money supply]]; teachers/storytellers on [[concepts/soft-infrastructure-teachers|soft infra]].
+- Between (2)/(3)/(5)/(6)/(7): FDI sponge + [[concepts/meritocracy-vs-patronage|meritocracy]] + [[concepts/brain-gain-and-circulation|brain gain]]; teachers/storytellers on [[concepts/soft-infrastructure-teachers|soft infra]]; STEM playground + steered LPDP.
 - Between (3) and (6): middle-class policy gap + inequality → populism risk ([[concepts/middle-class-squeeze]] ↔ [[concepts/idea-contest-and-centrism]]).
+- Between (6) and (7): Government 4.0 principles + multipolar optionality applied to AI stacks ([[concepts/physical-vs-cryptographic-sovereignty]], [[concepts/copy-with-pride-application-layer]]).
 
 ## Major topics
 
@@ -40,9 +42,10 @@ Shared bridges:
 | Indonesia growth & liquidity | Active (Purbaya + Chatib) | [[concepts/money-supply-vs-interest-rates]], [[concepts/expectation-management]], [[concepts/fdi-climate]], [[concepts/tax-compliance-and-administration]] |
 | Investment & talent | Active (cross-source) | [[concepts/investment-debottlenecking]], [[concepts/uncertainty-to-risk-translation]], [[concepts/stem-talent-pipeline]], [[concepts/brain-gain-and-circulation]] |
 | Governance & culture | Active (Tom + Martyn + Chatib) | [[concepts/soft-infrastructure-teachers]], [[concepts/decentralization-paradox]], [[concepts/ownership-society]], [[concepts/risk-as-innovation-fuel]], [[concepts/idea-contest-and-centrism]], [[concepts/meritocracy-vs-patronage]], [[concepts/middle-class-squeeze]], [[concepts/government-4-0-and-agile-regulation]] |
-| Geopolitics / trade posture | Active (Chatib-led) | [[concepts/multipolar-balancing-and-asean]] |
+| Geopolitics / trade posture | Active (Chatib + Bravo 500) | [[concepts/multipolar-balancing-and-asean]] |
+| AI infra & sovereignty | Active (Bravo 500-led) | [[concepts/ai-electrification-threshold]], [[concepts/physical-vs-cryptographic-sovereignty]], [[concepts/copy-with-pride-application-layer]] |
 | Deep tech / startups | Active (Martyn-led) | [[concepts/deep-tech-long-termism]], [[entities/bhumi-varta-technology]] |
-| People / history | Mixed | [[entities/vannevar-bush]], [[entities/michael-levitt]], [[entities/purbaya-yudi-sadewa]], [[entities/tom-lembong]], [[entities/martyn-terpilowski]], [[entities/chatib-basri]], era stubs (Prabowo / SBY / Jokowi) |
+| People / history | Mixed | [[entities/vannevar-bush]], [[entities/michael-levitt]], [[entities/purbaya-yudi-sadewa]], [[entities/tom-lembong]], [[entities/martyn-terpilowski]], [[entities/chatib-basri]], [[entities/budi-gunadi-sadikin]], [[entities/franky-widjaja]], [[entities/sai-prasad]], [[entities/sinarmas]], era stubs (Prabowo / SBY / Jokowi) |
 
 ## Working theses
 
@@ -58,15 +61,17 @@ Shared bridges:
 
 > *(Attributed — Chatib)* When monetary and fiscal space are thin, growth room is FDI + legal certainty; raise the tax ratio via compliance/admin not rate theater; don’t leave the middle class without specific policy (Chile paradox); fear Government 4.0 lag more than Industry 4.0; escape US–China binary via ASEAN/multipolar balancing.
 
+> *(Attributed — Bravo 500 panel)* AI creator status needs electrification near ~10k kWh/capita; until then pursue cryptographic data control and application-layer adoption (copy with pride) rather than waiting for local hyperscale or a national DeepSeek — while keeping US–China stack optionality.
+
 ## Gaps / next
 
-- Endgame voices still interview-depth; corroborate money-growth, M/GDP, STEM conversion shares, education-budget composition, FDI, tax-gap, middle-class shares, and permit-density figures from official series
-- Natural comparison pages: Purbaya vs Tom vs Martyn vs Chatib on path-to-growth (liquidity/satgas vs teachers/incentives vs meritocracy/sponge vs fiscal-compliance/middle-class/FDI)
+- Endgame voices still interview-depth; corroborate money-growth, M/GDP, STEM conversion shares, education-budget composition, FDI, tax-gap, middle-class shares, permit-density, **GW/kWh/DC-MW**, and LLM energy-multiplier figures from official series
+- Natural comparison pages: Purbaya vs Tom vs Martyn vs Chatib on path-to-growth; add Bravo 500 on AI infra vs Chatib energy-transition finance
 - Bio-X / random seed-grant design vs Indonesian STEM pipeline — unexplored comparison
 - Era stubs (SBY / Jokowi / Prabowo) need independent sources
 - Levitt COVID claims filed contested-only; elevate only with dedicated epidemiology sources
-- Bhumi Varta product claims still interview-only (stub)
-- Schema may need `policy` / `episode` conventions if media ingest becomes routine
+- Bhumi Varta / Sinarmas / panelist bios still interview-thin (stubs)
+- Schema may need `policy` / `episode` / `panel` conventions if media ingest becomes routine
 - Search tooling (e.g. qmd) still deferred
 
 ## How to grow this

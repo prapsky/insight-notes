@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [talent, diaspora, fdi, stem, indonesia]
-sources: [sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri]
+sources: [sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel]
 status: active
 ---
 
@@ -41,6 +41,10 @@ Indonesia’s diaspora (~2–300k over 50 years in Gita’s figure) is small vs 
 - Open campus to foreign best-in-subject teachers (even FEUI historically hired own alumni first)
 - Soft-power storytelling capacity as the international face of circulation — India/Singapore as narrators of Asia; see [[concepts/multipolar-balancing-and-asean]]
 
+## Bravo 500 panel (#007): playground + pay + steered scholarships
+
+Gita reprises the four models; [[entities/budi-gunadi-sadikin|Budi]] stresses **STEM without a playground** → Singapore absorbs Indonesian talent. Steered scholarships toward digital economy and three hubs (SF Bay, Beijing/Tsinghua, Bangalore) beat open MBA menus. [[entities/franky-widjaja|Franky]]: retain with **higher pay** + import mentors; people are the only asset. Complements Martyn’s sponge and Chatib’s prep/faculty moves — under AI infra scarcity ([[concepts/ai-electrification-threshold]]).
+
 ## Related
 
-[[concepts/stem-talent-pipeline]], [[concepts/fdi-climate]], [[concepts/deep-tech-long-termism]], [[concepts/soft-infrastructure-teachers]], [[sources/006-endgame-216-chatib-basri]]
+[[concepts/stem-talent-pipeline]], [[concepts/fdi-climate]], [[concepts/deep-tech-long-termism]], [[concepts/soft-infrastructure-teachers]], [[concepts/ai-electrification-threshold]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]]

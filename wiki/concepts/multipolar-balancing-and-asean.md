@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [geopolitics, asean, indonesia, trade]
-sources: [sources/006-endgame-216-chatib-basri]
+sources: [sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel]
 status: active
 ---
 
@@ -31,6 +31,10 @@ Economic-security / friend-shoring era: **foreign policy leads**, economics supp
 
 As multilateralism frays, bilateral deals favor the strong (Gita’s “tailor 10 coats / you make 5 — take my factory” image). ASEAN collective bargaining was partly invented to avoid that trap. Chatib: developing countries are structurally disadvantaged in pure bilaterals — hence RCEP/ASEAN logic still matters even if plurilateral/bilateral tactics rise.
 
+## Bravo 500 panel (#007): tech stack optionality
+
+Same Gita thesis at AI infra altitude: SEA (~700M people, ~$4T GDP) must keep **optionality** — not be cornered into US *or* China. [[entities/sai-prasad|Sai]] (Google): coexistence with Chinese players is workable; pick best available tech; AI is ~**10%** of the problem (engine vs airline — brand, ops, safety, customers are local). Complements [[concepts/copy-with-pride-application-layer]] and [[concepts/physical-vs-cryptographic-sovereignty]].
+
 ## Related
 
-[[concepts/fdi-climate]], [[concepts/government-4-0-and-agile-regulation]], [[concepts/deep-tech-long-termism]], [[sources/006-endgame-216-chatib-basri]]
+[[concepts/fdi-climate]], [[concepts/government-4-0-and-agile-regulation]], [[concepts/deep-tech-long-termism]], [[concepts/copy-with-pride-application-layer]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]]

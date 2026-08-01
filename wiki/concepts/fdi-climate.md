@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [indonesia, investment, growth]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel]
 status: active
 ---
 
@@ -53,6 +53,10 @@ Investors don’t need a finished reform today; they enter when **tomorrow looks
 - **Incentives cannot substitute legal certainty**; energy/AI scale needs blended finance + multilateral derisking for private megafunds — still blocked without rule of law
 - Geopolitical posture that keeps optionality: [[concepts/multipolar-balancing-and-asean]]
 
+## Bravo 500 panel (#007): electrons + chips as climate
+
+AI/data-center FDI is gated by [[concepts/ai-electrification-threshold|power]] (wheeling, green supply, 7y plant lead times), chip access (TSMC), and whether policy accepts [[concepts/physical-vs-cryptographic-sovereignty|cryptographic sovereignty]] while physical hyperscale catches up. Private builders ([[entities/sinarmas|Sinarmas]]) already add MW; national climate still decides whether Indonesia is AI creator geography or permanent consumer.
+
 ## Related
 
-[[entities/susilo-bambang-yudhoyono]], [[entities/joko-widodo]], [[entities/chatib-basri]], [[concepts/decentralization-paradox]], [[concepts/deep-tech-long-termism]], [[concepts/middle-class-squeeze]], [[concepts/tax-compliance-and-administration]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]]
+[[entities/susilo-bambang-yudhoyono]], [[entities/joko-widodo]], [[entities/chatib-basri]], [[concepts/decentralization-paradox]], [[concepts/deep-tech-long-termism]], [[concepts/middle-class-squeeze]], [[concepts/tax-compliance-and-administration]], [[concepts/ai-electrification-threshold]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]]

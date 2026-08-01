@@ -139,3 +139,22 @@ Sixth ingest — Indonesia fiscal / middle-class / geopolitics layer. Emphasis a
 **Key takeaways filed:** middle squeezed between poor-targeted aid and rich-captured growth; tax ratio via Madya/compliance + digital exchange; FDI + legal certainty as residual growth room (ICOR/savings gap); Government 4.0 principles > detailed rules; escape US–China binary via ASEAN/BRICS–OECD/trilateral; LPDP prep + storyteller faculty.
 
 **No hard contradictions** — complementary to Purbaya (liquidity vs Chatib’s financing-ceiling/FDI residual), Tom (teachers/certainty), Martyn (sponge/networks); sharpens FDI climate with Chile-paradox distribution lens.
+
+## [2026-08-01] ingest | Bravo 500 AI Panel — Budi, Franky, Sai
+
+Seventh ingest — **AI infrastructure & sovereignty** layer (emphasis confirmed). Endgame × XLSMART Bravo 500 Summit 2026 panel. Claims filed as **attributed** to Budi Gunadi Sadikin, Franky O. Widjaja, Sai Prasad, and Gita as moderator.
+
+**Raw:** `raw/media/endgame/When_Businessman_Ex_Policymaker_and_Engineer_Collide_to_Talk_About_AI_qTig2IGAwwg.md`
+
+**Created:**
+- `wiki/sources/007-bravo-500-ai-panel.md`
+- `wiki/entities/budi-gunadi-sadikin.md`, `franky-widjaja.md`, `sai-prasad.md`, `sinarmas.md` (stubs)
+- `wiki/concepts/ai-electrification-threshold.md`
+- `wiki/concepts/physical-vs-cryptographic-sovereignty.md`
+- `wiki/concepts/copy-with-pride-application-layer.md`
+
+**Updated:** `wiki/concepts/government-4-0-and-agile-regulation.md`, `multipolar-balancing-and-asean.md`, `brain-gain-and-circulation.md`, `stem-talent-pipeline.md`, `soft-infrastructure-teachers.md`, `fdi-climate.md`; `wiki/entities/endgame-podcast.md`, `gita-wirjawan.md`; `wiki/index.md`, `wiki/overview.md`
+
+**Key takeaways filed:** AI-creator ≈ ~10k kWh/capita (ID ~1.3k → ~600 GW / century-scale at ~5 GW/yr); Jensen layers 1–3 bind (energy, chips, DC); power wheeling blocked; physical vs cryptographic sovereignty; agentic energy + edge compute; copy-with-pride apps over national DeepSeek; SEA stack optionality (AI ≈ 10% of airline); STEM playground + steered LPDP / three Bays.
+
+**No hard contradictions** — electrification math aligns with Chatib #216 energy-transition framing; principle-based regulation reinforces Government 4.0; optionality reinforces multipolar ASEAN; Franky application pragmatism layers atop (not against) deep-tech long-termism.

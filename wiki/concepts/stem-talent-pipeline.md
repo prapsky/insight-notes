@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [education, stem, indonesia, human-capital]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel]
 status: active
 ---
 
@@ -54,6 +54,10 @@ Deep-tech employers (e.g. [[entities/bhumi-varta-technology|Bhumi Varta]]) can a
 
 [[entities/chatib-basri|Chatib]] (LPDP co-architect framing): scholarships alone favor those already SAT/GRE-ready; China/India **nurture and prep**. Add prep pipelines; build discussion culture that forces reading (Cornell-audience problem); allow diaspora work abroad for network density; **open faculty hiring** (Singapore LKY SPP model — buy world-class professors + endowment). Storyteller teachers convert more students than mute experts — upstream bridge to [[concepts/soft-infrastructure-teachers]]. AI-era pedagogy: train students to **ask questions** models can’t answer well. Private-sector reskilling with double tax deduction > lagging BLK tools.
 
+## Bravo 500 panel (#007): demand-side playground + steered LPDP
+
+Same ~250k STEM/yr figure. [[entities/budi-gunadi-sadikin|Budi]]: without fields to *deliver* what grads learned, they leave (Singapore). LPDP should pick **future brands** (digital economy; SF / Beijing / Bangalore) not let candidates default to generic MBAs. [[entities/franky-widjaja|Franky]] / [[entities/sai-prasad|Sai]]: private retain-and-pay + personalized AI learning; productionization gap > ideation. Infra constraint: [[concepts/ai-electrification-threshold]].
+
 ## Related
 
-[[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[concepts/soft-infrastructure-teachers]], [[concepts/brain-gain-and-circulation]], [[concepts/meritocracy-vs-patronage]], [[concepts/government-4-0-and-agile-regulation]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]]
+[[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[concepts/soft-infrastructure-teachers]], [[concepts/brain-gain-and-circulation]], [[concepts/meritocracy-vs-patronage]], [[concepts/government-4-0-and-agile-regulation]], [[concepts/ai-electrification-threshold]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]]
