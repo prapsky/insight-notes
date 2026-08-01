@@ -29,6 +29,7 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[sources/009-endgame-239-keyu-jin|Endgame #239 — Keyu Jin]] — Mayor economy, state capacity, process/crisis innovation, US–China rivalry, SEA window
 - [[sources/010-indrawan-perang-ai-china-vs-amerika|Indrawan — Perang AI China vs Amerika]] — DeepSeek shock→commoditization; value creation vs capture; US enterprise lock-in
 - [[sources/011-indrawan-nvidia-ai-pc|Indrawan — NVIDIA AI PC / RTX Spark]] — Platform leadership; CUDA→AI PC; role expansion before category clarity
+- [[sources/012-endgame-65-indrawan-nugroho|Endgame #65 — Indrawan Nugroho]] — Meaning-full storytelling; innovation theater vs real; patient capital (*uang sabar*)
 
 ## Entities
 
@@ -41,7 +42,7 @@ Catalog of all wiki pages. Read this first when answering queries.
 
 - [[entities/michael-levitt|Michael Levitt]] — Nobel Chemistry 2013; computational biology; BI/diversity/AI-as-tutor
 - [[entities/sai-prasad|Sai Prasad]] — Google Cloud SEA voice; cryptographic sovereignty, sandboxes, stack optionality (stub)
-- [[entities/indrawan-nugroho|Indrawan Nugroho]] — YouTube AI-strategy essays; value capture, commoditization, platform leadership
+- [[entities/indrawan-nugroho|Indrawan Nugroho]] — Cipta Innovation / Endgame #65 + AI essays; storytelling, patient capital, value capture, platform leadership
 
 
 ### China / political economy
@@ -127,6 +128,11 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[concepts/ai-commoditization-and-enterprise-lock-in|AI Commoditization and Enterprise Lock-In]] — Tech edge→table stakes; value migrates to workflows/switching costs
 - [[concepts/platform-leadership-and-ecosystem-expansion|Platform Leadership and Ecosystem Expansion]] — CUDA→AI PC; own the ecosystem center before category clears
 
+### Innovation culture / capital duration
+
+- [[concepts/meaning-full-storytelling|Meaning-Full Storytelling]] — Not more narrators — narrators with meaning; artifacts need story
+- [[concepts/innovation-theater-vs-real-innovation|Innovation Theater vs Real Innovation]] — Events/prizes ≠ shipped change; open doors > incentives; tech is shell
+- [[concepts/patient-capital-uang-sabar|Patient Capital (*Uang Sabar*)]] — 20–30y pools vs ~7y recycle; M/GDP duration cut; bootstrap when VC clocks clash
 
 ### Consciousness / elites / media
 

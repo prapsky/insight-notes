@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [education, governance, indonesia, human-capital]
-sources: [sources/003-endgame-248-tom-lembong, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin]
+sources: [sources/003-endgame-248-tom-lembong, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin, sources/012-endgame-65-indrawan-nugroho]
 status: active
 ---
 
@@ -40,6 +40,10 @@ Gita reprises Sabang–Merauke ~88% and teachers as injectors of ambition / imag
 
 Different pedagogy, same soft-infra spirit: [[entities/jiang-xueqin|Jiang]] teaches Great Books (Plato, Homer, Dante, Milton, Shakespeare) as portal to meaning/consciousness; message to developing-economy audiences — **you matter**, choose to wake up and seek wisdom ([[concepts/attention-as-wealth]]). Complements storyteller-teachers without speaking to Indonesian pay/budget composition.
 
+## Indrawan (#65): meaning-full vs gossip narrators
+
+[[entities/indrawan-nugroho|Indrawan]] sharpens the storyteller ask: Indonesia already has mass narrators (TikTok, gossip TV); the gap is [[concepts/meaning-full-storytelling|meaning-full storytelling]] that activates idealism — plus teaching history as fuel for *making* future history, not only past events. Soft infra here is narrative *standard*, not only teacher pay.
+
 ## Related
 
-[[concepts/stem-talent-pipeline]] (higher-ed / STEM scale is downstream of basic teaching quality), [[concepts/brain-gain-and-circulation]], [[concepts/attention-as-wealth]], [[entities/gita-wirjawan]], [[entities/jiang-xueqin]], [[sources/003-endgame-248-tom-lembong]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]], [[sources/008-endgame-259-jiang-xueqin]]
+[[concepts/stem-talent-pipeline]] (higher-ed / STEM scale is downstream of basic teaching quality), [[concepts/brain-gain-and-circulation]], [[concepts/attention-as-wealth]], [[concepts/meaning-full-storytelling]], [[entities/gita-wirjawan]], [[entities/jiang-xueqin]], [[entities/indrawan-nugroho]], [[sources/003-endgame-248-tom-lembong]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]], [[sources/008-endgame-259-jiang-xueqin]], [[sources/012-endgame-65-indrawan-nugroho]]

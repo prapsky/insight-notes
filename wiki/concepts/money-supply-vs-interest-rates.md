@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [macro, monetary-policy, indonesia]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/012-endgame-65-indrawan-nugroho]
 status: active
 ---
 
@@ -32,9 +32,13 @@ Thesis (as argued by [[entities/purbaya-yudi-sadewa|Purbaya]] via Friedman): **w
 
 [[entities/chatib-basri|Chatib]] cites money/GDP ~**45%** as a **domestic financing ceiling**: ICOR ~6.6–6.8 → 7% growth needs I/GDP ~48% vs domestic savings ~37% → capital must come from abroad ([[concepts/fdi-climate]]). Under a strong-dollar / stuck-Fed scenario, BI rate cuts are constrained by 1998 trauma; fiscal expansion crowded by debt service — so liquidity theses and FDI theses meet at the same binding wall. Aligns directionally with Gita’s low M/GDP scarcity story without adopting Purbaya’s M0-targeting prescription.
 
+## Indrawan duration bridge (#65)
+
+[[entities/indrawan-nugroho|Indrawan]] cites the same ~**45%** ballpark vs advanced ~**150–250%** / Singapore ~**125%**, but stresses **duration**: US pension-style pools can wait ~20–30 years (Amazon-class horizons); Indonesian capital often recycles in ~7 years. Raising M/GDP without [[concepts/patient-capital-uang-sabar|patient capital]] still starves long builds. Complements stock-of-money theses with a maturity/patience cut.
+
 ## Related
 
-[[concepts/expectation-management]], [[concepts/fdi-climate]], [[concepts/meritocracy-vs-patronage]], [[concepts/deep-tech-long-termism]], [[concepts/tax-compliance-and-administration]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]]
+[[concepts/expectation-management]], [[concepts/fdi-climate]], [[concepts/meritocracy-vs-patronage]], [[concepts/deep-tech-long-termism]], [[concepts/patient-capital-uang-sabar]], [[concepts/tax-compliance-and-administration]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]], [[sources/012-endgame-65-indrawan-nugroho]]
 
 ## Contested
 

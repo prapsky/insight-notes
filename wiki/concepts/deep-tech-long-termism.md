@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [deep-tech, startups, venture-capital, indonesia, strategy]
-sources: [sources/005-endgame-272-martyn-terpilowski]
+sources: [sources/005-endgame-272-martyn-terpilowski, sources/012-endgame-65-indrawan-nugroho]
 status: active
 ---
 
@@ -39,6 +39,7 @@ Aligns with — but sharpens — vault themes on capital:
 - [[concepts/money-supply-vs-interest-rates|Money growth]] can widen who can fund ideas (Gita’s M/GDP bridge), yet misallocated boom capital still destroys value
 - [[concepts/fdi-climate|FDI]] into real capability (chips, EV, deep tech partnerships) > protecting middlemen
 - [[concepts/risk-as-innovation-fuel|Risk as fuel]] needs *honest* failure, not recycled prestige after blowing up companies
+- [[concepts/patient-capital-uang-sabar|Patient capital]] (Indrawan #65): even when money exists, **7-year recycle clocks** (vs US 20–30y pools) structurally block Amazon-style horizons — duration mates Martyn’s decade-build ask
 
 ## Pivot hope
 
@@ -46,4 +47,4 @@ Tech “bloodshed” may force short- → long-termism — *if* elites accept no
 
 ## Related
 
-[[concepts/brain-gain-and-circulation]], [[concepts/stem-talent-pipeline]], [[concepts/ownership-society]], [[sources/005-endgame-272-martyn-terpilowski]]
+[[concepts/brain-gain-and-circulation]], [[concepts/stem-talent-pipeline]], [[concepts/ownership-society]], [[concepts/patient-capital-uang-sabar]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/012-endgame-65-indrawan-nugroho]]

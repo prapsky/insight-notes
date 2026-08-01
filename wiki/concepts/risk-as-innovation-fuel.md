@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [risk, entrepreneurship, law, innovation, indonesia]
-sources: [sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski]
+sources: [sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski, sources/012-endgame-65-indrawan-nugroho]
 status: active
 ---
 
@@ -36,6 +36,10 @@ Tom argues technocrats often forget the second after 1997–98 and 2008.
 
 [[entities/martyn-terpilowski|Martyn]]: productive long-horizon risk (own capital, decade builds, [[concepts/deep-tech-long-termism|deep tech]]) vs **unaccountable** failure — blow up, then become adviser/VC. That is the inverse of Tom’s honest-failure norm and of Levitt’s learn-from-being-wrong. Meritocratic markets step operators aside; patronage recycles them ([[concepts/meritocracy-vs-patronage]]).
 
+## Org-culture parallel (#65)
+
+[[entities/indrawan-nugroho|Indrawan]]: [[concepts/innovation-theater-vs-real-innovation|innovation theater]] (prizes, hackathons) fails when ideas never ship; staff want open doors and permission to experiment more than bigger incentives. Same “make trying survivable” demand as Tom/Levitt, inside the firm. Starved further when capital clocks are impatient ([[concepts/patient-capital-uang-sabar]]).
+
 ## Related
 
-[[concepts/fdi-climate]], [[concepts/ownership-society]], [[concepts/idea-contest-and-centrism]], [[concepts/scientific-serendipity-and-failure]], [[concepts/deep-tech-long-termism]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]]
+[[concepts/fdi-climate]], [[concepts/ownership-society]], [[concepts/idea-contest-and-centrism]], [[concepts/scientific-serendipity-and-failure]], [[concepts/deep-tech-long-termism]], [[concepts/innovation-theater-vs-real-innovation]], [[concepts/patient-capital-uang-sabar]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/012-endgame-65-indrawan-nugroho]]

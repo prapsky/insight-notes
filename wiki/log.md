@@ -218,3 +218,21 @@ Tenth and eleventh ingest — **AI industry strategy** and **platform/edge hardw
 **Key takeaways filed:** DeepSeek shock under chip bans → efficiency commoditized by 2026; value creation ≠ value capture; US enterprise switching costs vs China mass distribution/OSS; Nvidia RTX Spark as CUDA platform expansion to AI PC (Gawer/Cusumano); success blind spot + role expansion + position-before-certainty.
 
 **Bridges:** crisis-innovation aftershock (Keyu DeepSeek signal → Indrawan create/capture); process/diffusion ↔ mass industrialization; copy-with-pride ↔ cheap Chinese stacks for developing markets; electrification still binds inference + edge compute.
+
+## [2026-08-01] ingest | Endgame #65 — Indrawan Nugroho
+
+Twelfth ingest — **innovation culture / patient capital** layer (emphasis confirmed: meaning-full storytelling, theater vs real innovation, *uang sabar*; education/domestic-trap/metaverse kept supporting on source page). Claims filed as **attributed** to Indrawan Nugroho (and Gita as interlocutor). Raw ASR noisy — figures and proper names flagged for corroboration.
+
+**Raw:** `raw/media/endgame/65_indrawan-nugroho.md`
+
+**Created:**
+- `wiki/sources/012-endgame-65-indrawan-nugroho.md`
+- `wiki/concepts/meaning-full-storytelling.md`
+- `wiki/concepts/innovation-theater-vs-real-innovation.md`
+- `wiki/concepts/patient-capital-uang-sabar.md`
+
+**Updated:** `wiki/entities/indrawan-nugroho.md` (bio + #65 mode), `endgame-podcast.md`; `wiki/concepts/money-supply-vs-interest-rates.md`, `deep-tech-long-termism.md`, `soft-infrastructure-teachers.md`, `risk-as-innovation-fuel.md`, `idea-contest-and-centrism.md`; `wiki/index.md`, `wiki/overview.md`
+
+**Key takeaways filed:** meaning-full vs gossip narrators; artifacts need story; tech is shell / human core; open doors > prizes; 20–30y patient pools vs ~7y recycle; M/GDP ~45% duration cut; bootstrap when VC exit clocks clash.
+
+**Bridges:** patient capital ↔ money-supply + deep-tech long-termism; meaning-full storytelling ↔ soft-infra storytellers + idea contest + Jiang attention; innovation theater ↔ risk-as-fuel. Same Indrawan as #010/#011 — #65 is cultural/capital substrate for later AI essays.
