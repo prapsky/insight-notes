@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [education, stem, indonesia, human-capital]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski]
 status: active
 ---
 
@@ -44,6 +44,12 @@ Offer of funded S3 tracks declined (ITB picks + LPS staff) — generational risk
 
 [[entities/tom-lembong|Tom]] / [[entities/gita-wirjawan|Gita]] (#248) push the bottleneck earlier: without [[concepts/soft-infrastructure-teachers|teacher quality and pay]], scaling STEM degrees won’t fix the leadership/talent pool. Autodidact + substance media can partially substitute weak formal credentials — but teacher investment remains the scalable soft-infra bet.
 
+## Conversion share + mobility (#272)
+
+Gita cites **STEM share of university students** (not only absolute grads): Malaysia ~40–43%, Singapore ~36%, Indonesia ~22%, Vietnam lecture example ~50% — and argues Indonesia needs ≥~40% to attract tech FDI (Nvidia/Intel → Malaysia as hungrier signal). Martyn: invite foreign STEM/AI talent to teach and hire locally; accessible universities/scholarships over MBA-for-the-rich pipelines; overseas *work* experience for returnees. See [[concepts/brain-gain-and-circulation]].
+
+Deep-tech employers (e.g. [[entities/bhumi-varta-technology|Bhumi Varta]]) can absorb returnee PhDs when consumer-app ecosystems don’t — see [[concepts/deep-tech-long-termism]].
+
 ## Related
 
-[[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[concepts/soft-infrastructure-teachers]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]]
+[[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[concepts/soft-infrastructure-teachers]], [[concepts/brain-gain-and-circulation]], [[concepts/meritocracy-vs-patronage]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]]

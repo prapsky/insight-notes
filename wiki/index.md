@@ -21,7 +21,8 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[sources/001-llm-wiki-pattern|LLM Wiki Pattern]] — Foundational idea: persistent LLM-maintained wiki vs RAG-only retrieval
 - [[sources/002-endgame-245-purbaya-sadewa|Endgame #245 — Purbaya Yudi Sadewa]] — MoF interview: money growth, expectations, debottlenecking, path to 8%
 - [[sources/003-endgame-248-tom-lembong|Endgame #248 — Tom Lembong]] — Ethics, soft infra/teachers, decentralization paradox, ownership society, risk culture
-- [[sources/004-endgame-193-michael-levitt|Endgame #193 — Michael Levitt]] — Nobel structural biologist: BI/AI, diversity, silos, serendipity/failure (COVID light)
+- [[sources/004-endgame-193-michael-levitt|Endgame #193 — Michael Levitt]] — Nobel structural biologist: BI/diversity, silos, serendipity/failure (COVID light)
+- [[sources/005-endgame-272-martyn-terpilowski|Endgame #272 — Martyn Terpilowski]] — Technocracy in business: meritocracy, FDI sponge, deep-tech long-termism
 
 ## Entities
 
@@ -37,6 +38,8 @@ Catalog of all wiki pages. Read this first when answering queries.
 
 - [[entities/purbaya-yudi-sadewa|Purbaya Yudi Sadewa]] — Finance Minister; monetarist-leaning growth and liquidity thesis
 - [[entities/tom-lembong|Tom Lembong]] — Soft infra, licensing incentives, risk-as-fuel, idea-contest centrism
+- [[entities/martyn-terpilowski|Martyn Terpilowski]] — Bhumi Varta CEO; meritocracy, talent sponge, deep-tech long-termism
+- [[entities/bhumi-varta-technology|Bhumi Varta Technology]] — Indonesian deep-tech counterexample to app short-termism (stub)
 - [[entities/gita-wirjawan|Gita Wirjawan]] — Endgame host; interlocutor on FDI, STEM, public goods, science luminaries
 - [[entities/endgame-podcast|Endgame]] — Long-form interview show; episode catalog for this vault
 - [[entities/prabowo-subianto|Prabowo Subianto]] — President; confidence restoration and education ambitions (stub)
@@ -78,6 +81,9 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[concepts/ownership-society|Ownership Society]] — Align officials via long-term assets; party finance vs licensing rents
 - [[concepts/risk-as-innovation-fuel|Risk as Innovation Fuel]] — Risk-taking culture; failure without criminal stigma (science parallel: Levitt)
 - [[concepts/idea-contest-and-centrism|Idea Contest and Centrism]] — Populism burnout; open debate → trusted consensus
+- [[concepts/meritocracy-vs-patronage|Meritocracy vs Patronage]] — Wrong people in wrong jobs; second-name insulation vs achievement
+- [[concepts/brain-gain-and-circulation|Brain Gain and Circulation]] — Talent models: train/gain/circulation/linkage; FDI sponge
+- [[concepts/deep-tech-long-termism|Deep-Tech Long-Termism]] — Exportable IP over TAM/app short-termism; money ≠ panacea
 
 ## Comparisons
 

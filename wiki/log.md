@@ -99,3 +99,23 @@ Fourth ingest — science / intelligence layer (Luminaries). Emphasis **A**: BI/
 **Key takeaways filed:** three intelligences (HI/AI/BI); diversity as don’t-know-the-future strategy; teaching-driven silos + Bio-X; serendipity/counteroffers + wrong 90–99%; AI-as-tutor/democratizer; failure-culture bridge to Tom’s risk-as-fuel.
 
 **No contradictions with prior Indonesia theses** — additive layer; one conceptual bridge (productive failure).
+
+## [2026-08-01] ingest | Endgame #272 — Martyn Terpilowski
+
+Fifth ingest — technocracy / business-meritocracy layer. Emphasis **A**: meritocracy vs patronage; FDI/talent sponge; deep-tech long-termism. Company name corrected at ingest to **Bhumi Varta Technology** (transcript ASR garbles). Claims filed as **attributed** to Martyn (and Gita as interlocutor).
+
+**Raw:** `raw/media/endgame/272_martyn-terpilowski.md`
+
+**Created:**
+- `wiki/sources/005-endgame-272-martyn-terpilowski.md`
+- `wiki/entities/martyn-terpilowski.md`
+- `wiki/entities/bhumi-varta-technology.md` (stub)
+- `wiki/concepts/meritocracy-vs-patronage.md`
+- `wiki/concepts/brain-gain-and-circulation.md`
+- `wiki/concepts/deep-tech-long-termism.md`
+
+**Updated:** `wiki/concepts/fdi-climate.md`, `stem-talent-pipeline.md`, `money-supply-vs-interest-rates.md`, `risk-as-innovation-fuel.md`; `wiki/entities/endgame-podcast.md`, `gita-wirjawan.md`; `wiki/index.md`, `wiki/overview.md`
+
+**Key takeaways filed:** wrong-people-in-wrong-jobs over skill-gap; brain train/gain/circulation/linkage + sponge (VN/CN/JP); tech-winter circular VC vs decade deep tech; M/GDP–elite narrative bridge; honest vs recycled failure.
+
+**No hard contradictions** — complementary to Purbaya (liquidity) and Tom (soft infra/incentives); sharpens FDI climate and risk-as-fuel with operator accountability.

@@ -11,10 +11,14 @@
             "id": "6732a5af50f41210",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/risk-as-innovation-fuel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "risk-as-innovation-fuel"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/concepts/risk-as-innovation-fuel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/concepts/risk-as-innovation-fuel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/concepts/risk-as-innovation-fuel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,6 +190,13 @@
   },
   "active": "6732a5af50f41210",
   "lastOpenFiles": [
+    "wiki/concepts/investment-debottlenecking.md",
+    "wiki/concepts/brain-gain-and-circulation.md",
+    "wiki/concepts/deep-tech-long-termism.md",
+    "wiki/concepts/meritocracy-vs-patronage.md",
+    "wiki/entities/bhumi-varta-technology.md",
+    "wiki/entities/martyn-terpilowski.md",
+    "wiki/sources/005-endgame-272-martyn-terpilowski.md",
     "wiki/concepts/scientific-serendipity-and-failure.md",
     "wiki/concepts/interdisciplinary-silos.md",
     "wiki/concepts/diversity-as-evolutionary-strategy.md",
@@ -201,13 +215,6 @@
     "wiki/concepts/stem-talent-pipeline.md",
     "wiki/concepts/fdi-climate.md",
     "wiki/concepts/uncertainty-to-risk-translation.md",
-    "wiki/concepts/investment-debottlenecking.md",
-    "wiki/concepts/expectation-management.md",
-    "wiki/concepts/money-supply-vs-interest-rates.md",
-    "wiki/entities/joko-widodo.md",
-    "wiki/entities/susilo-bambang-yudhoyono.md",
-    "wiki/entities/prabowo-subianto.md",
-    "wiki/entities/endgame-podcast.md",
-    "wiki/entities/gita-wirjawan.md"
+    "wiki/concepts/expectation-management.md"
   ]
 }

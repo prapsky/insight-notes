@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [risk, entrepreneurship, law, innovation, indonesia]
-sources: [sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt]
+sources: [sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski]
 status: active
 ---
 
@@ -32,6 +32,10 @@ Tom argues technocrats often forget the second after 1997–98 and 2008.
 
 [[entities/michael-levitt|Michael Levitt]] ([[sources/004-endgame-193-michael-levitt|Endgame #193]]): a good scientist is wrong ~90% of the time; a great one ~99% — fear of mistakes blocks innovation. Filed under [[concepts/scientific-serendipity-and-failure]]. Same cultural requirement (make productive failure survivable), different domain (lab vs firm).
 
+## Operator parallel (#272)
+
+[[entities/martyn-terpilowski|Martyn]]: productive long-horizon risk (own capital, decade builds, [[concepts/deep-tech-long-termism|deep tech]]) vs **unaccountable** failure — blow up, then become adviser/VC. That is the inverse of Tom’s honest-failure norm and of Levitt’s learn-from-being-wrong. Meritocratic markets step operators aside; patronage recycles them ([[concepts/meritocracy-vs-patronage]]).
+
 ## Related
 
-[[concepts/fdi-climate]], [[concepts/ownership-society]], [[concepts/idea-contest-and-centrism]], [[concepts/scientific-serendipity-and-failure]], [[sources/003-endgame-248-tom-lembong]]
+[[concepts/fdi-climate]], [[concepts/ownership-society]], [[concepts/idea-contest-and-centrism]], [[concepts/scientific-serendipity-and-failure]], [[concepts/deep-tech-long-termism]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]]

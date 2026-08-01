@@ -4,13 +4,13 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [indonesia, investment, growth]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski]
 status: active
 ---
 
 # FDI Climate
 
-Conditions that make foreign direct investment arrive **without begging**. Shared by [[entities/purbaya-yudi-sadewa|Purbaya]] (path from ~6.5% to ~8%) and [[entities/tom-lembong|Tom Lembong]] (trust magnets; Singapore/Swiss contrast) — both name **rule of law** + [[concepts/uncertainty-to-risk-translation|uncertainty → priced risk]] as roots.
+Conditions that make foreign direct investment arrive **without begging**. Shared by [[entities/purbaya-yudi-sadewa|Purbaya]] (path from ~6.5% to ~8%) and [[entities/tom-lembong|Tom Lembong]] (trust magnets; Singapore/Swiss contrast) — both name **rule of law** + [[concepts/uncertainty-to-risk-translation|uncertainty → priced risk]] as roots. [[entities/martyn-terpilowski|Martyn]] (#272) adds the **sponge** and **anti-partner-theater** lens.
 
 ## Growth ladder (Purbaya’s arithmetic)
 
@@ -37,6 +37,13 @@ Investors don’t need a finished reform today; they enter when **tomorrow looks
 - Permit scarcity and licensing rents as climate killers — see [[concepts/ownership-society]]
 - Risk *taking* culture (failure without criminal stigma) complements priced risk — see [[concepts/risk-as-innovation-fuel]]
 
+## Martyn’s additions (#272)
+
+- **Sponge first:** Vietnam 2005 Intel 100% FDI; Japan finance expats → local capability; China host→copy. Local-content rules that can’t be met by supply chains deter builders
+- Forced conglomerate / golden-share / political-partner requirements scare LPs with political-exposure rules; local booster narratives (golden visa, Bali→Singapore) often unread as investable abroad
+- Rule of law + ease of hiring scarce foreign seniors as practical prerequisites ([[concepts/brain-gain-and-circulation]])
+- [[concepts/meritocracy-vs-patronage|Meritocracy]] is part of climate: top talent won’t enter if achievement isn’t recognized
+
 ## Related
 
-[[entities/susilo-bambang-yudhoyono]], [[entities/joko-widodo]], [[concepts/decentralization-paradox]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]]
+[[entities/susilo-bambang-yudhoyono]], [[entities/joko-widodo]], [[concepts/decentralization-paradox]], [[concepts/deep-tech-long-termism]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]]
