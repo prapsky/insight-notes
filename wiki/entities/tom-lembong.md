@@ -26,7 +26,7 @@ Indonesian policymaker / public figure interviewed in [[sources/003-endgame-248-
 | Theme | Hub |
 |-------|-----|
 | Teachers / soft infrastructure | [[concepts/soft-infrastructure-teachers]] |
-| Center–region accountability | [[concepts/decentralization-paradox]] |
+| Center–region accountability | [[concepts/decentralization-paradox]], [[concepts/mayor-economy]] (Keyu primary: [[sources/009-endgame-239-keyu-jin]]) |
 | Licensing rents → long-term stakes | [[concepts/ownership-society]] |
 | Failure without criminal stigma | [[concepts/risk-as-innovation-fuel]] |
 | Populism burnout → open idea contest | [[concepts/idea-contest-and-centrism]] |

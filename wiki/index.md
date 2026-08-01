@@ -26,6 +26,7 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[sources/006-endgame-216-chatib-basri|Endgame #216 — Chatib Basri]] — Middle-class squeeze, tax compliance, FDI-when-space-thin, Government 4.0, multipolar balancing
 - [[sources/007-bravo-500-ai-panel|Bravo 500 AI Panel — Budi, Franky, Sai]] — AI electrification, sovereignty (physical vs cryptographic), copy-with-pride apps
 - [[sources/008-endgame-259-jiang-xueqin|Endgame #259 — Jiang Xueqin]] — Attention-as-wealth, Techno-Marxism, elite overproduction, journalism fracture
+- [[sources/009-endgame-239-keyu-jin|Endgame #239 — Keyu Jin]] — Mayor economy, state capacity, process/crisis innovation, US–China rivalry, SEA window
 
 ## Entities
 
@@ -37,6 +38,10 @@ Catalog of all wiki pages. Read this first when answering queries.
 
 - [[entities/michael-levitt|Michael Levitt]] — Nobel Chemistry 2013; computational biology; BI/diversity/AI-as-tutor
 - [[entities/sai-prasad|Sai Prasad]] — Google Cloud SEA voice; cryptographic sovereignty, sandboxes, stack optionality (stub)
+
+### China / political economy
+
+- [[entities/keyu-jin|Keyu Jin]] — LSE economist; *New China Playbook*; mayor economy, entrepreneurial state
 
 ### Geopolitics / consciousness
 
@@ -92,6 +97,7 @@ Catalog of all wiki pages. Read this first when answering queries.
 
 - [[concepts/soft-infrastructure-teachers|Soft Infrastructure — Teachers]] — Teachers as binding soft infra; budget composition vs hard-capital copy
 - [[concepts/decentralization-paradox|Decentralization Paradox]] — China political-central/economic-decentral vs reverse democracies
+- [[concepts/mayor-economy|Mayor Economy]] — Local GDP/tech tournament; firm exit disciplines mayors; Keyu’s growth machine
 - [[concepts/ownership-society|Ownership Society]] — Align officials via long-term assets; party finance vs licensing rents
 - [[concepts/risk-as-innovation-fuel|Risk as Innovation Fuel]] — Risk-taking culture; failure without criminal stigma (science parallel: Levitt)
 - [[concepts/idea-contest-and-centrism|Idea Contest and Centrism]] — Populism burnout; open debate → trusted consensus
@@ -100,6 +106,12 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[concepts/deep-tech-long-termism|Deep-Tech Long-Termism]] — Exportable IP over TAM/app short-termism; money ≠ panacea
 - [[concepts/government-4-0-and-agile-regulation|Government 4.0 and Agile Regulation]] — Principles over obsolete detailed rules; agile bureaucracy oxymoron
 - [[concepts/multipolar-balancing-and-asean|Multipolar Balancing and ASEAN]] — Escape US–China binary; BRICS/OECD/RCEP/trilateral tools
+- [[concepts/weaponized-interdependence-and-substitutes|Weaponized Interdependence and Substitutes]] — Leverage spawns alternatives; dollar/SWIFT and rare earths examples
+
+### China innovation / industrial policy
+
+- [[concepts/process-and-diffusion-innovation|Process and Diffusion Innovation]] — Cost-cut/scale diffusion often > first-mover glory
+- [[concepts/crisis-innovation-and-tech-restrictions|Crisis Innovation and Tech Restrictions]] — Export controls → whole-nation S&T drive (DeepSeek signal)
 
 ### AI infrastructure & sovereignty
 

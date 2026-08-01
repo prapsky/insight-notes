@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/stem-talent-pipeline.md",
+                "file": "wiki/concepts/soft-infrastructure-teachers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stem-talent-pipeline"
+              "title": "soft-infrastructure-teachers"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/concepts/stem-talent-pipeline.md",
+                "file": "wiki/concepts/soft-infrastructure-teachers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/concepts/stem-talent-pipeline.md",
+                "file": "wiki/concepts/soft-infrastructure-teachers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/concepts/stem-talent-pipeline.md",
+                "file": "wiki/concepts/soft-infrastructure-teachers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,14 @@
   },
   "active": "6732a5af50f41210",
   "lastOpenFiles": [
+    "wiki/concepts/weaponized-interdependence-and-substitutes.md",
+    "wiki/concepts/crisis-innovation-and-tech-restrictions.md",
+    "wiki/concepts/process-and-diffusion-innovation.md",
+    "wiki/concepts/mayor-economy.md",
+    "wiki/entities/keyu-jin.md",
+    "wiki/sources/009-endgame-239-keyu-jin.md",
+    "wiki/concepts/stem-talent-pipeline.md",
+    "raw/media/endgame/239_keyu-jin.md",
     "wiki/concepts/journalism-fracture.md",
     "wiki/concepts/elite-overproduction.md",
     "wiki/concepts/techno-marxism.md",
@@ -207,14 +215,6 @@
     "wiki/entities/budi-gunadi-sadikin.md",
     "wiki/sources/007-bravo-500-ai-panel.md",
     "raw/media/endgame/When_Businessman_Ex_Policymaker_and_Engineer_Collide_to_Talk_About_AI_qTig2IGAwwg.md",
-    "wiki/concepts/multipolar-balancing-and-asean.md",
-    "wiki/concepts/government-4-0-and-agile-regulation.md",
-    "wiki/concepts/tax-compliance-and-administration.md",
-    "wiki/concepts/middle-class-squeeze.md",
-    "wiki/entities/chatib-basri.md",
-    "wiki/sources/006-endgame-216-chatib-basri.md",
-    "raw/media/endgame/216_chatib-basri.md",
-    "wiki/concepts/investment-debottlenecking.md",
-    "wiki/concepts/brain-gain-and-circulation.md"
+    "wiki/concepts/multipolar-balancing-and-asean.md"
   ]
 }

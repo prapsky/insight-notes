@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [investment, risk, stem, indonesia]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/006-endgame-216-chatib-basri]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/006-endgame-216-chatib-basri, sources/009-endgame-239-keyu-jin]
 status: active
 ---
 
@@ -35,6 +35,10 @@ Pricing risk for investors is necessary but not sufficient. [[concepts/risk-as-i
 
 [[entities/chatib-basri|Chatib]] (ex-BKPM orbit with Gita): permit timelines so opaque that “you only pray” — textbook unpriceable uncertainty. Blended finance / multilateral accreditation can **derisk** projects for BlackRock-scale capital, but **tax incentives cannot substitute legal certainty**. Same root variable as Purbaya/Tom; Chatib adds energy-transition and AI-capex scale as places where derisking math meets that wall.
 
+## Keyu / Gita (#239): West capital vs China tech
+
+Gita’s SEA framing in the Keyu interview: Western **economic** capital stays away where uncertainty can’t be priced; Chinese **tech** capital (cheap/good stacks) still flows. Keyu’s digital leapfrog on permits/transparency is the same translation problem — predictability is what lets capital treat outcomes as risk.
+
 ## Related
 
-[[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/006-endgame-216-chatib-basri]], [[concepts/government-4-0-and-agile-regulation]]
+[[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/006-endgame-216-chatib-basri]], [[sources/009-endgame-239-keyu-jin]], [[concepts/government-4-0-and-agile-regulation]], [[concepts/fdi-climate]]

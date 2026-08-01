@@ -4,7 +4,7 @@ type: overview
 created: 2026-08-01
 updated: 2026-08-01
 tags: [meta, synthesis]
-sources: [sources/001-llm-wiki-pattern, sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin]
+sources: [sources/001-llm-wiki-pattern, sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin, sources/009-endgame-239-keyu-jin]
 status: active
 ---
 
@@ -14,7 +14,7 @@ This is **insight-notes** — a personal LLM Wiki (second brain). Knowledge comp
 
 ## Current shape
 
-Eight layers of content:
+Nine layers of content:
 
 1. **Meta** — How the wiki itself works ([[sources/001-llm-wiki-pattern|LLM Wiki pattern]]).
 2. **Indonesia macro / liquidity** — [[sources/002-endgame-245-purbaya-sadewa|Endgame #245]] with [[entities/purbaya-yudi-sadewa|Purbaya]]: money growth, expectation management, satgas debottlenecking, path to 8%.
@@ -24,16 +24,20 @@ Eight layers of content:
 6. **Indonesia fiscal / middle class / geopolitics** — [[sources/006-endgame-216-chatib-basri|Endgame #216]] with [[entities/chatib-basri|Chatib Basri]]: middle-class squeeze, tax compliance, FDI-when-space-thin, Government 4.0, multipolar ASEAN balancing.
 7. **AI infrastructure & sovereignty** — [[sources/007-bravo-500-ai-panel|Bravo 500 panel]] with [[entities/budi-gunadi-sadikin|Budi]], [[entities/franky-widjaja|Franky]], [[entities/sai-prasad|Sai]]: electrification threshold, cryptographic vs physical sovereignty, copy-with-pride application layer.
 8. **Consciousness / elites / media** — [[sources/008-endgame-259-jiang-xueqin|Endgame #259]] with [[entities/jiang-xueqin|Jiang Xueqin]]: attention-as-wealth, Techno-Marxism, elite overproduction, journalism fracture (speculative geopolitics filed thin).
+9. **China political economy** — [[sources/009-endgame-239-keyu-jin|Endgame #239]] with [[entities/keyu-jin|Keyu Jin]]: [[concepts/mayor-economy|mayor economy]], entrepreneurial state capacity, process/crisis innovation; US–China rivalry and SEA tech-allocator window as secondaries.
 
 Shared bridges:
 
-- Between (2), (3), (5), (6), and (7): [[concepts/fdi-climate|FDI climate]] = rule of law + [[concepts/uncertainty-to-risk-translation|uncertainty → priced risk]]; Chatib adds savings/ICOR ceiling; Bravo 500 adds **electrons + chips** as AI-FDI gates.
+- Between (2), (3), (5), (6), (7), and (9): [[concepts/fdi-climate|FDI climate]] = rule of law + [[concepts/uncertainty-to-risk-translation|uncertainty → priced risk]]; Chatib adds savings/ICOR ceiling; Bravo 500 adds **electrons + chips**; Keyu adds trade-war **rerouting** + own investment + local tournament absorptive capacity.
+- Between (3) and (9): [[concepts/decentralization-paradox]] mechanism = [[concepts/mayor-economy]] (Tom cited Keyu; #239 is primary).
 - Between (3) and (4): productive failure — [[concepts/risk-as-innovation-fuel|risk as innovation fuel]] ↔ [[concepts/scientific-serendipity-and-failure|scientific serendipity & failure]].
 - Between (2)/(3)/(5)/(6)/(7): FDI sponge + [[concepts/meritocracy-vs-patronage|meritocracy]] + [[concepts/brain-gain-and-circulation|brain gain]]; teachers/storytellers on [[concepts/soft-infrastructure-teachers|soft infra]]; STEM playground + steered LPDP.
+- Between (5) and (9): meritocracy/patronage (Martyn Indonesia) ↔ Keyu’s China talent-recruitment / tech-literate mayor contrast.
 - Between (3) and (6): middle-class policy gap + inequality → populism risk ([[concepts/middle-class-squeeze]] ↔ [[concepts/idea-contest-and-centrism]]).
-- Between (6) and (7): Government 4.0 principles + multipolar optionality applied to AI stacks ([[concepts/physical-vs-cryptographic-sovereignty]], [[concepts/copy-with-pride-application-layer]]).
+- Between (6), (7), and (9): Government 4.0 + multipolar optionality + Keyu’s coalition-of-the-willing / managed rivalry ([[concepts/multipolar-balancing-and-asean]], [[concepts/weaponized-interdependence-and-substitutes]]).
+- Between (7) and (9): [[concepts/copy-with-pride-application-layer]] ↔ [[concepts/process-and-diffusion-innovation]]; DeepSeek as [[concepts/crisis-innovation-and-tech-restrictions|crisis innovation]] signal not SEA vanity template.
 - Between (7) and (8): **Contested altitude** — builder sovereignty/electrification vs [[concepts/techno-marxism|Techno-Marxism]] consciousness capture; same AI object.
-- Between (6) and (8): **Contested frame** — multipolar nation/club balancing vs Jiang’s intra-elite [[concepts/elite-overproduction|civil war within states]].
+- Between (6)/(9) and (8): **Contested frame** — multipolar nation/club balancing + managed interstate rivalry vs Jiang’s intra-elite [[concepts/elite-overproduction|civil war within states]].
 - Between (3) and (8): idea contest as culture-building (Tom) vs resist-capture / [[concepts/journalism-fracture|journalism fracture]] (Jiang); soft infra ↔ Great Books + “you matter.”
 
 ## Major topics
@@ -45,12 +49,13 @@ Shared bridges:
 | Science / intelligence | Active (Levitt-led) | [[concepts/biological-intelligence]], [[concepts/diversity-as-evolutionary-strategy]], [[concepts/interdisciplinary-silos]], [[concepts/scientific-serendipity-and-failure]] |
 | Indonesia growth & liquidity | Active (Purbaya + Chatib) | [[concepts/money-supply-vs-interest-rates]], [[concepts/expectation-management]], [[concepts/fdi-climate]], [[concepts/tax-compliance-and-administration]] |
 | Investment & talent | Active (cross-source) | [[concepts/investment-debottlenecking]], [[concepts/uncertainty-to-risk-translation]], [[concepts/stem-talent-pipeline]], [[concepts/brain-gain-and-circulation]] |
-| Governance & culture | Active (Tom + Martyn + Chatib) | [[concepts/soft-infrastructure-teachers]], [[concepts/decentralization-paradox]], [[concepts/ownership-society]], [[concepts/risk-as-innovation-fuel]], [[concepts/idea-contest-and-centrism]], [[concepts/meritocracy-vs-patronage]], [[concepts/middle-class-squeeze]], [[concepts/government-4-0-and-agile-regulation]] |
-| Geopolitics / trade posture | Active (Chatib + Bravo 500; Jiang contested) | [[concepts/multipolar-balancing-and-asean]], [[concepts/elite-overproduction]] |
+| Governance & culture | Active (Tom + Martyn + Chatib + Keyu) | [[concepts/soft-infrastructure-teachers]], [[concepts/decentralization-paradox]], [[concepts/mayor-economy]], [[concepts/ownership-society]], [[concepts/risk-as-innovation-fuel]], [[concepts/idea-contest-and-centrism]], [[concepts/meritocracy-vs-patronage]], [[concepts/middle-class-squeeze]], [[concepts/government-4-0-and-agile-regulation]] |
+| Geopolitics / trade posture | Active (Chatib + Bravo + Keyu; Jiang contested) | [[concepts/multipolar-balancing-and-asean]], [[concepts/weaponized-interdependence-and-substitutes]], [[concepts/elite-overproduction]] |
+| China innovation / industrial policy | Active (Keyu-led) | [[concepts/process-and-diffusion-innovation]], [[concepts/crisis-innovation-and-tech-restrictions]], [[concepts/mayor-economy]] |
 | AI infra & sovereignty | Active (Bravo 500-led) | [[concepts/ai-electrification-threshold]], [[concepts/physical-vs-cryptographic-sovereignty]], [[concepts/copy-with-pride-application-layer]] |
 | Consciousness / media | Active (Jiang-led) | [[concepts/attention-as-wealth]], [[concepts/techno-marxism]], [[concepts/journalism-fracture]] |
 | Deep tech / startups | Active (Martyn-led) | [[concepts/deep-tech-long-termism]], [[entities/bhumi-varta-technology]] |
-| People / history | Mixed | [[entities/vannevar-bush]], [[entities/michael-levitt]], [[entities/jiang-xueqin]], [[entities/purbaya-yudi-sadewa]], [[entities/tom-lembong]], [[entities/martyn-terpilowski]], [[entities/chatib-basri]], [[entities/budi-gunadi-sadikin]], [[entities/franky-widjaja]], [[entities/sai-prasad]], [[entities/sinarmas]], era stubs (Prabowo / SBY / Jokowi) |
+| People / history | Mixed | [[entities/vannevar-bush]], [[entities/michael-levitt]], [[entities/keyu-jin]], [[entities/jiang-xueqin]], [[entities/purbaya-yudi-sadewa]], [[entities/tom-lembong]], [[entities/martyn-terpilowski]], [[entities/chatib-basri]], [[entities/budi-gunadi-sadikin]], [[entities/franky-widjaja]], [[entities/sai-prasad]], [[entities/sinarmas]], era stubs (Prabowo / SBY / Jokowi) |
 
 ## Working theses
 
@@ -70,10 +75,12 @@ Shared bridges:
 
 > *(Attributed — Jiang)* True wealth is attention/consciousness; power directs attention. AI risks Techno-Marxism (companions + tokens → compliance Matrix). Elites overproduce and fight (finance vs SV/AI). Journalism’s shared narrative is fractured — seek truth yourself. Speculative geopolitics kept off this thesis line.
 
+> *(Attributed — Keyu)* China’s model = centralized politics + decentralized entrepreneurial competition ([[concepts/mayor-economy|mayor economy]]) with state capacity Western textbooks underweight. Process/diffusion and crisis innovation under restrictions matter as much as zero-to-one. US–China is rivalry to manage, not civilizational opposite; leverage weaponization spawns substitutes; SEA can ride restructuring (not deglobalization) if it builds savings, education, stability, and own investment.
+
 ## Gaps / next
 
-- Endgame voices still interview-depth; corroborate money-growth, M/GDP, STEM conversion shares, education-budget composition, FDI, tax-gap, middle-class shares, permit-density, **GW/kWh/DC-MW**, and LLM energy-multiplier figures from official series
-- Natural comparison pages: Purbaya vs Tom vs Martyn vs Chatib on path-to-growth; Bravo 500 sovereignty vs Jiang Techno-Marxism; multipolar balancing vs elite civil-war frame
+- Endgame voices still interview-depth; corroborate money-growth, M/GDP, STEM conversion shares, education-budget composition, FDI, tax-gap, middle-class shares, permit-density, **GW/kWh/DC-MW**, LLM energy-multipliers, and Keyu’s student-exchange / manufacturing-share / inflation-pass-through figures
+- Natural comparison pages: Purbaya vs Tom vs Martyn vs Chatib on path-to-growth; Bravo 500 sovereignty vs Jiang Techno-Marxism; multipolar balancing vs elite civil-war frame; **Keyu mayor economy vs Tom Indonesia decentralization gap**
 - Bio-X / random seed-grant design vs Indonesian STEM pipeline — unexplored comparison
 - Great Books / “you matter” pedagogy vs Indonesia teacher soft-infra — unexplored comparison
 - Era stubs (SBY / Jokowi / Prabowo) need independent sources

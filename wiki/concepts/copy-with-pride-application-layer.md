@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [ai, strategy, indonesia, applications]
-sources: [sources/007-bravo-500-ai-panel]
+sources: [sources/007-bravo-500-ai-panel, sources/009-endgame-239-keyu-jin]
 status: active
 ---
 
@@ -29,6 +29,10 @@ Pairs with [[concepts/physical-vs-cryptographic-sovereignty]]: control and outco
 
 Gita’s framing pushes AI *creator* status via electrification and talent. Franky’s reply: creator at the **application and operating** layer first; foundation-model creator status is a different (harder) bet. Not a hard contradiction — different layer of the Jensen stack ([[entities/budi-gunadi-sadikin|Budi]] layers 4–5 vs 1–3).
 
+## Keyu bridge (#009): process / diffusion
+
+[[entities/keyu-jin|Keyu]]’s [[concepts/process-and-diffusion-innovation|process and diffusion innovation]] thesis is the China-side rationale for Franky’s posture: developing economies need adoptable cost-cut tech more than zero-to-one prestige; China’s scale+production+tech stack is the cheap allocator Gita already uses (OPPO vs iPhone). DeepSeek is [[concepts/crisis-innovation-and-tech-restrictions|crisis innovation]] under restrictions — inspiration, not a template for every SEA capital budget.
+
 ## Related
 
-[[concepts/deep-tech-long-termism]] (exportable IP vs app short-termism — different axis; Franky is *application pragmatism*, not consumer-app flip culture), [[concepts/ai-electrification-threshold]], [[concepts/stem-talent-pipeline]], [[entities/franky-widjaja]]
+[[concepts/deep-tech-long-termism]] (exportable IP vs app short-termism — different axis; Franky is *application pragmatism*, not consumer-app flip culture), [[concepts/process-and-diffusion-innovation]], [[concepts/crisis-innovation-and-tech-restrictions]], [[concepts/ai-electrification-threshold]], [[concepts/stem-talent-pipeline]], [[entities/franky-widjaja]], [[entities/keyu-jin]]

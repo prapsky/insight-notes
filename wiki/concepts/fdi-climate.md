@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [indonesia, investment, growth]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/009-endgame-239-keyu-jin]
 status: active
 ---
 
@@ -57,6 +57,15 @@ Investors don’t need a finished reform today; they enter when **tomorrow looks
 
 AI/data-center FDI is gated by [[concepts/ai-electrification-threshold|power]] (wheeling, green supply, 7y plant lead times), chip access (TSMC), and whether policy accepts [[concepts/physical-vs-cryptographic-sovereignty|cryptographic sovereignty]] while physical hyperscale catches up. Private builders ([[entities/sinarmas|Sinarmas]]) already add MW; national climate still decides whether Indonesia is AI creator geography or permanent consumer.
 
+## Keyu (#009): SEA window + own investment
+
+- Trade-war **rerouting** (not deglobalization) builds third-country supply-chain capacity; Chinese FDI to SEA/Mexico “momentous”
+- Investors need **macro/political stability** and exchange-rate credibility (China’s historical pull despite different system)
+- Cut red tape digitally (permits/transparency/predictability) — leapfrog chance
+- **Own private + national investment** required; FDI alone insufficient (East Asian savings/education/industrialization common threads)
+- Gita’s split: China as cheap **tech** capital allocator; West as **economic** capital — blocked where uncertainty can’t be priced ([[concepts/uncertainty-to-risk-translation]])
+- Local tournament capacity ([[concepts/mayor-economy]]) is itself climate: places that compete for firms absorb relocating capital
+
 ## Related
 
-[[entities/susilo-bambang-yudhoyono]], [[entities/joko-widodo]], [[entities/chatib-basri]], [[concepts/decentralization-paradox]], [[concepts/deep-tech-long-termism]], [[concepts/middle-class-squeeze]], [[concepts/tax-compliance-and-administration]], [[concepts/ai-electrification-threshold]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]]
+[[entities/susilo-bambang-yudhoyono]], [[entities/joko-widodo]], [[entities/chatib-basri]], [[entities/keyu-jin]], [[concepts/decentralization-paradox]], [[concepts/mayor-economy]], [[concepts/deep-tech-long-termism]], [[concepts/middle-class-squeeze]], [[concepts/tax-compliance-and-administration]], [[concepts/ai-electrification-threshold]], [[concepts/multipolar-balancing-and-asean]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]], [[sources/007-bravo-500-ai-panel]], [[sources/009-endgame-239-keyu-jin]]

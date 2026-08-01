@@ -178,3 +178,23 @@ Eighth ingest — **consciousness / elites / media** layer (emphasis confirmed).
 **Key takeaways filed:** wealth = attention/consciousness; power = directing attention; Techno-Marxism (AI companions + tokens → compliance Matrix); elite overproduction (Wall Street vs SV/AI); journalism fracture → individual truth-seeking + open AI; Great Books + “You matter.”
 
 **Contested (logged, not overwritten):** multipolar nation/club balancing (Chatib/Bravo) vs Jiang’s intra-elite civil-war frame; Bravo builder sovereignty vs Techno-Marxism consciousness capture.
+
+## [2026-08-01] ingest | Endgame #239 — Keyu Jin
+
+Ninth ingest — **China political economy** layer (emphasis **A** confirmed: mayor economy + state capacity as spine; US–China rivalry and SEA advice as strong secondaries). Claims filed as **attributed** to Keyu Jin (and Gita as interlocutor).
+
+**Raw:** `raw/media/endgame/239_keyu-jin.md`
+
+**Created:**
+- `wiki/sources/009-endgame-239-keyu-jin.md`
+- `wiki/entities/keyu-jin.md`
+- `wiki/concepts/mayor-economy.md`
+- `wiki/concepts/process-and-diffusion-innovation.md`
+- `wiki/concepts/crisis-innovation-and-tech-restrictions.md`
+- `wiki/concepts/weaponized-interdependence-and-substitutes.md`
+
+**Updated:** `wiki/concepts/decentralization-paradox.md`, `multipolar-balancing-and-asean.md`, `meritocracy-vs-patronage.md`, `fdi-climate.md`, `copy-with-pride-application-layer.md`, `ai-electrification-threshold.md`, `uncertainty-to-risk-translation.md`; `wiki/entities/endgame-podcast.md`, `gita-wirjawan.md`, `tom-lembong.md`; `wiki/index.md`, `wiki/overview.md`
+
+**Key takeaways filed:** mayor economy (local tournament + firm exit) as China’s growth/tech machine; entrepreneurial state capacity underweighted in Western models; process/diffusion > first-mover; crisis innovation under 2018+ export controls; leverage weaponization spawns substitutes; restructuring not deglobalization; SEA needs savings/education/stability/own investment; China as cheap tech allocator.
+
+**Bridges / contested:** mayor economy = mechanism inside decentralization paradox (Tom #248 cited Keyu; #239 primary); process innovation ↔ copy-with-pride; Keyu/Chatib/Bravo multipolar managed rivalry vs Jiang intra-elite civil-war frame (logged, not overwritten).
