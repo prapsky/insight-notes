@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [investment, risk, stem, indonesia]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/006-endgame-216-chatib-basri]
 status: active
 ---
 
@@ -31,6 +31,10 @@ Global liquidity is large and advanced-economy risk premia rose — diversificat
 
 Pricing risk for investors is necessary but not sufficient. [[concepts/risk-as-innovation-fuel|Risk as innovation fuel]] covers the domestic side: if honest failure is criminalized, the real sector won’t take the risks that growth requires — even when spreads are theoretically priceable.
 
+## Chatib (#216): permit fog + derisking
+
+[[entities/chatib-basri|Chatib]] (ex-BKPM orbit with Gita): permit timelines so opaque that “you only pray” — textbook unpriceable uncertainty. Blended finance / multilateral accreditation can **derisk** projects for BlackRock-scale capital, but **tax incentives cannot substitute legal certainty**. Same root variable as Purbaya/Tom; Chatib adds energy-transition and AI-capex scale as places where derisking math meets that wall.
+
 ## Related
 
-[[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]]
+[[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/006-endgame-216-chatib-basri]], [[concepts/government-4-0-and-agile-regulation]]

@@ -23,6 +23,7 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[sources/003-endgame-248-tom-lembong|Endgame #248 — Tom Lembong]] — Ethics, soft infra/teachers, decentralization paradox, ownership society, risk culture
 - [[sources/004-endgame-193-michael-levitt|Endgame #193 — Michael Levitt]] — Nobel structural biologist: BI/diversity, silos, serendipity/failure (COVID light)
 - [[sources/005-endgame-272-martyn-terpilowski|Endgame #272 — Martyn Terpilowski]] — Technocracy in business: meritocracy, FDI sponge, deep-tech long-termism
+- [[sources/006-endgame-216-chatib-basri|Endgame #216 — Chatib Basri]] — Middle-class squeeze, tax compliance, FDI-when-space-thin, Government 4.0, multipolar balancing
 
 ## Entities
 
@@ -39,6 +40,7 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[entities/purbaya-yudi-sadewa|Purbaya Yudi Sadewa]] — Finance Minister; monetarist-leaning growth and liquidity thesis
 - [[entities/tom-lembong|Tom Lembong]] — Soft infra, licensing incentives, risk-as-fuel, idea-contest centrism
 - [[entities/martyn-terpilowski|Martyn Terpilowski]] — Bhumi Varta CEO; meritocracy, talent sponge, deep-tech long-termism
+- [[entities/chatib-basri|Chatib Basri]] — Economist / ex-MoF; middle-class squeeze, tax admin, FDI + multipolar balancing
 - [[entities/bhumi-varta-technology|Bhumi Varta Technology]] — Indonesian deep-tech counterexample to app short-termism (stub)
 - [[entities/gita-wirjawan|Gita Wirjawan]] — Endgame host; interlocutor on FDI, STEM, public goods, science luminaries
 - [[entities/endgame-podcast|Endgame]] — Long-form interview show; episode catalog for this vault
@@ -73,6 +75,8 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[concepts/uncertainty-to-risk-translation|Uncertainty → Risk Translation]] — Make outcomes priceable so capital can allocate
 - [[concepts/fdi-climate|FDI Climate]] — Conditions for external capital after ~6.5% domestic engines
 - [[concepts/stem-talent-pipeline|STEM Talent Pipeline]] — Scale STEM supply into real demand; LPDP wholesale
+- [[concepts/tax-compliance-and-administration|Tax Compliance and Administration]] — Raise tax ratio via Madya/admin + data, not rate theater
+- [[concepts/middle-class-squeeze|Middle-Class Squeeze]] — Chile paradox: poor aided, rich capture growth, middle neglected
 
 ### Indonesia governance / culture
 
@@ -84,6 +88,8 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[concepts/meritocracy-vs-patronage|Meritocracy vs Patronage]] — Wrong people in wrong jobs; second-name insulation vs achievement
 - [[concepts/brain-gain-and-circulation|Brain Gain and Circulation]] — Talent models: train/gain/circulation/linkage; FDI sponge
 - [[concepts/deep-tech-long-termism|Deep-Tech Long-Termism]] — Exportable IP over TAM/app short-termism; money ≠ panacea
+- [[concepts/government-4-0-and-agile-regulation|Government 4.0 and Agile Regulation]] — Principles over obsolete detailed rules; agile bureaucracy oxymoron
+- [[concepts/multipolar-balancing-and-asean|Multipolar Balancing and ASEAN]] — Escape US–China binary; BRICS/OECD/RCEP/trilateral tools
 
 ## Comparisons
 

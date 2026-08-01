@@ -4,13 +4,13 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [indonesia, investment, growth]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri]
 status: active
 ---
 
 # FDI Climate
 
-Conditions that make foreign direct investment arrive **without begging**. Shared by [[entities/purbaya-yudi-sadewa|Purbaya]] (path from ~6.5% to ~8%) and [[entities/tom-lembong|Tom Lembong]] (trust magnets; Singapore/Swiss contrast) — both name **rule of law** + [[concepts/uncertainty-to-risk-translation|uncertainty → priced risk]] as roots. [[entities/martyn-terpilowski|Martyn]] (#272) adds the **sponge** and **anti-partner-theater** lens.
+Conditions that make foreign direct investment arrive **without begging**. Shared by [[entities/purbaya-yudi-sadewa|Purbaya]] (path from ~6.5% to ~8%) and [[entities/tom-lembong|Tom Lembong]] (trust magnets; Singapore/Swiss contrast) — both name **rule of law** + [[concepts/uncertainty-to-risk-translation|uncertainty → priced risk]] as roots. [[entities/martyn-terpilowski|Martyn]] (#272) adds the **sponge** and **anti-partner-theater** lens. [[entities/chatib-basri|Chatib]] (#216) treats FDI as the **residual growth engine** when monetary/fiscal space and domestic savings are thin.
 
 ## Growth ladder (Purbaya’s arithmetic)
 
@@ -44,6 +44,15 @@ Investors don’t need a finished reform today; they enter when **tomorrow looks
 - Rule of law + ease of hiring scarce foreign seniors as practical prerequisites ([[concepts/brain-gain-and-circulation]])
 - [[concepts/meritocracy-vs-patronage|Meritocracy]] is part of climate: top talent won’t enter if achievement isn’t recognized
 
+## Chatib’s additions (#216)
+
+- When monetary and fiscal space are thin, **FDI is the residual growth engine** (“huruf I”); ICOR/savings arithmetic: domestic savings can’t fund 7% alone ([[concepts/money-supply-vs-interest-rates]])
+- Same SEA FDI capacity split Tom cites (Singapore $100–140B vs ID $25–31B); +~$40B FDI ≈ +~3pp growth — still below Singapore
+- US–China trade war: Vietnam shows routing correlation; Indonesia does **not** — fix climate or absorb Chinese dump without relocation gains
+- Famous framing: Indonesians “become religious” dealing with government because permit uncertainty is unpriceable — pure [[concepts/uncertainty-to-risk-translation|uncertainty]]
+- **Incentives cannot substitute legal certainty**; energy/AI scale needs blended finance + multilateral derisking for private megafunds — still blocked without rule of law
+- Geopolitical posture that keeps optionality: [[concepts/multipolar-balancing-and-asean]]
+
 ## Related
 
-[[entities/susilo-bambang-yudhoyono]], [[entities/joko-widodo]], [[concepts/decentralization-paradox]], [[concepts/deep-tech-long-termism]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]]
+[[entities/susilo-bambang-yudhoyono]], [[entities/joko-widodo]], [[entities/chatib-basri]], [[concepts/decentralization-paradox]], [[concepts/deep-tech-long-termism]], [[concepts/middle-class-squeeze]], [[concepts/tax-compliance-and-administration]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]]

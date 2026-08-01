@@ -119,3 +119,23 @@ Fifth ingest — technocracy / business-meritocracy layer. Emphasis **A**: merit
 **Key takeaways filed:** wrong-people-in-wrong-jobs over skill-gap; brain train/gain/circulation/linkage + sponge (VN/CN/JP); tech-winter circular VC vs decade deep tech; M/GDP–elite narrative bridge; honest vs recycled failure.
 
 **No hard contradictions** — complementary to Purbaya (liquidity) and Tom (soft infra/incentives); sharpens FDI climate and risk-as-fuel with operator accountability.
+
+## [2026-08-01] ingest | Endgame #216 — Chatib Basri
+
+Sixth ingest — Indonesia fiscal / middle-class / geopolitics layer. Emphasis as confirmed: middle-class squeeze (Chile paradox); FDI when monetary/fiscal space thin; tax compliance/admin; Government 4.0; multipolar ASEAN balancing. Claims filed as **attributed** to Chatib (and Gita as interlocutor).
+
+**Raw:** `raw/media/endgame/216_chatib-basri.md`
+
+**Created:**
+- `wiki/sources/006-endgame-216-chatib-basri.md`
+- `wiki/entities/chatib-basri.md`
+- `wiki/concepts/middle-class-squeeze.md`
+- `wiki/concepts/tax-compliance-and-administration.md`
+- `wiki/concepts/government-4-0-and-agile-regulation.md`
+- `wiki/concepts/multipolar-balancing-and-asean.md`
+
+**Updated:** `wiki/concepts/fdi-climate.md`, `stem-talent-pipeline.md`, `brain-gain-and-circulation.md`, `money-supply-vs-interest-rates.md`, `soft-infrastructure-teachers.md`, `uncertainty-to-risk-translation.md`; `wiki/entities/endgame-podcast.md`, `gita-wirjawan.md`; `wiki/index.md`, `wiki/overview.md`
+
+**Key takeaways filed:** middle squeezed between poor-targeted aid and rich-captured growth; tax ratio via Madya/compliance + digital exchange; FDI + legal certainty as residual growth room (ICOR/savings gap); Government 4.0 principles > detailed rules; escape US–China binary via ASEAN/BRICS–OECD/trilateral; LPDP prep + storyteller faculty.
+
+**No hard contradictions** — complementary to Purbaya (liquidity vs Chatib’s financing-ceiling/FDI residual), Tom (teachers/certainty), Martyn (sponge/networks); sharpens FDI climate with Chile-paradox distribution lens.

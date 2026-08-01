@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [talent, diaspora, fdi, stem, indonesia]
-sources: [sources/005-endgame-272-martyn-terpilowski]
+sources: [sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri]
 status: active
 ---
 
@@ -34,6 +34,13 @@ Indonesia’s diaspora (~2–300k over 50 years in Gita’s figure) is small vs 
 
 [[concepts/fdi-climate|FDI climate]] here means letting foreign firms create jobs and skill ladders *before* insisting on local champions — sponge first, copy later — plus easier visas for scarce senior skills (SpaceX-engineer thought experiment: needs follow-on foreign talent + rule-of-law confidence).
 
+## Chatib (#216): diaspora work + split faculty
+
+- Let graduates **work abroad** so diaspora density rises (more “Gitas at Stanford/Harvard” as ambassadors)
+- Split appointments: diaspora teach part-year in Indonesia
+- Open campus to foreign best-in-subject teachers (even FEUI historically hired own alumni first)
+- Soft-power storytelling capacity as the international face of circulation — India/Singapore as narrators of Asia; see [[concepts/multipolar-balancing-and-asean]]
+
 ## Related
 
-[[concepts/stem-talent-pipeline]], [[concepts/fdi-climate]], [[concepts/deep-tech-long-termism]], [[concepts/soft-infrastructure-teachers]]
+[[concepts/stem-talent-pipeline]], [[concepts/fdi-climate]], [[concepts/deep-tech-long-termism]], [[concepts/soft-infrastructure-teachers]], [[sources/006-endgame-216-chatib-basri]]

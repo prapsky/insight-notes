@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [education, governance, indonesia, human-capital]
-sources: [sources/003-endgame-248-tom-lembong]
+sources: [sources/003-endgame-248-tom-lembong, sources/006-endgame-216-chatib-basri]
 status: active
 ---
 
@@ -28,6 +28,10 @@ Constitutional/legal ~**20% of APBN** to education (~Rp800T on a ~Rp4,000T APBN 
 
 Post-GFC admiration of China’s capital-heavy model; China now faces overcapacity, empty infrastructure, and misallocation. Soft infra was never optional there either — Indonesia’s posture still underweights teachers relative to tolls/ports/industry.
 
+## Chatib (#216): storytellers + open hiring
+
+[[entities/chatib-basri|Chatib]] / Gita reinforce the same binding constraint from the higher-ed side: a **storyteller** teacher converts more students than a mute subject expert (minimum cognitive bar still required). University quality tracks faculty quality; Singapore buys world-class professors with endowment — Indonesia should open hiring beyond own-alumni loops and use diaspora split appointments. Substance podcasts partially substitute missing dinner-table education culture when most household heads lack tertiary degrees — same ~88% figure Gita uses here.
+
 ## Related
 
-[[concepts/stem-talent-pipeline]] (higher-ed / STEM scale is downstream of basic teaching quality), [[entities/gita-wirjawan]], [[sources/003-endgame-248-tom-lembong]]
+[[concepts/stem-talent-pipeline]] (higher-ed / STEM scale is downstream of basic teaching quality), [[concepts/brain-gain-and-circulation]], [[entities/gita-wirjawan]], [[sources/003-endgame-248-tom-lembong]], [[sources/006-endgame-216-chatib-basri]]

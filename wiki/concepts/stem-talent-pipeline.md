@@ -4,7 +4,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-01
 tags: [education, stem, indonesia, human-capital]
-sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski]
+sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri]
 status: active
 ---
 
@@ -50,6 +50,10 @@ Gita cites **STEM share of university students** (not only absolute grads): Mala
 
 Deep-tech employers (e.g. [[entities/bhumi-varta-technology|Bhumi Varta]]) can absorb returnee PhDs when consumer-app ecosystems don’t — see [[concepts/deep-tech-long-termism]].
 
+## Chatib: LPDP prep + campus critical mass (#216)
+
+[[entities/chatib-basri|Chatib]] (LPDP co-architect framing): scholarships alone favor those already SAT/GRE-ready; China/India **nurture and prep**. Add prep pipelines; build discussion culture that forces reading (Cornell-audience problem); allow diaspora work abroad for network density; **open faculty hiring** (Singapore LKY SPP model — buy world-class professors + endowment). Storyteller teachers convert more students than mute experts — upstream bridge to [[concepts/soft-infrastructure-teachers]]. AI-era pedagogy: train students to **ask questions** models can’t answer well. Private-sector reskilling with double tax deduction > lagging BLK tools.
+
 ## Related
 
-[[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[concepts/soft-infrastructure-teachers]], [[concepts/brain-gain-and-circulation]], [[concepts/meritocracy-vs-patronage]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]]
+[[concepts/uncertainty-to-risk-translation]], [[concepts/fdi-climate]], [[concepts/soft-infrastructure-teachers]], [[concepts/brain-gain-and-circulation]], [[concepts/meritocracy-vs-patronage]], [[concepts/government-4-0-and-agile-regulation]], [[sources/002-endgame-245-purbaya-sadewa]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/006-endgame-216-chatib-basri]]
