@@ -79,3 +79,23 @@ Third ingest — governance / soft-infra / political-culture layer. Claims filed
 **Key takeaways filed:** teachers as binding soft infra; China political-central/economic-decentral paradox; ownership society + party finance vs licensing rents; risk as innovation fuel (pair with uncertainty→priced risk); populism burnout → open idea contest; FDI trust bridge with Purbaya ingest.
 
 **No contradictions flagged** — complementary lenses (liquidity/satgas vs soft infra/incentives), shared FDI prerequisites.
+
+## [2026-08-01] ingest | Endgame #193 — Michael Levitt
+
+Fourth ingest — science / intelligence layer (Luminaries). Emphasis **A**: BI/AI, diversity, silos, serendipity/failure first-class; COVID/vaccine claims light + contested only. Claims filed as **attributed** to Levitt.
+
+**Raw:** `raw/media/endgame/193_michael-levitt.md`
+
+**Created:**
+- `wiki/sources/004-endgame-193-michael-levitt.md`
+- `wiki/entities/michael-levitt.md`
+- `wiki/concepts/biological-intelligence.md`
+- `wiki/concepts/diversity-as-evolutionary-strategy.md`
+- `wiki/concepts/interdisciplinary-silos.md`
+- `wiki/concepts/scientific-serendipity-and-failure.md`
+
+**Updated:** `wiki/concepts/risk-as-innovation-fuel.md` (science parallel); `wiki/entities/endgame-podcast.md`, `gita-wirjawan.md`; `wiki/index.md`, `wiki/overview.md`
+
+**Key takeaways filed:** three intelligences (HI/AI/BI); diversity as don’t-know-the-future strategy; teaching-driven silos + Bio-X; serendipity/counteroffers + wrong 90–99%; AI-as-tutor/democratizer; failure-culture bridge to Tom’s risk-as-fuel.
+
+**No contradictions with prior Indonesia theses** — additive layer; one conceptual bridge (productive failure).

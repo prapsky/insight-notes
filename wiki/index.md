@@ -21,6 +21,7 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[sources/001-llm-wiki-pattern|LLM Wiki Pattern]] — Foundational idea: persistent LLM-maintained wiki vs RAG-only retrieval
 - [[sources/002-endgame-245-purbaya-sadewa|Endgame #245 — Purbaya Yudi Sadewa]] — MoF interview: money growth, expectations, debottlenecking, path to 8%
 - [[sources/003-endgame-248-tom-lembong|Endgame #248 — Tom Lembong]] — Ethics, soft infra/teachers, decentralization paradox, ownership society, risk culture
+- [[sources/004-endgame-193-michael-levitt|Endgame #193 — Michael Levitt]] — Nobel structural biologist: BI/AI, diversity, silos, serendipity/failure (COVID light)
 
 ## Entities
 
@@ -28,11 +29,15 @@ Catalog of all wiki pages. Read this first when answering queries.
 
 - [[entities/vannevar-bush|Vannevar Bush]] — Proposed the Memex (1945); conceptual ancestor of personal knowledge wikis
 
+### Science / AI
+
+- [[entities/michael-levitt|Michael Levitt]] — Nobel Chemistry 2013; computational biology; BI/diversity/AI-as-tutor
+
 ### Indonesia / policy
 
 - [[entities/purbaya-yudi-sadewa|Purbaya Yudi Sadewa]] — Finance Minister; monetarist-leaning growth and liquidity thesis
 - [[entities/tom-lembong|Tom Lembong]] — Soft infra, licensing incentives, risk-as-fuel, idea-contest centrism
-- [[entities/gita-wirjawan|Gita Wirjawan]] — Endgame host; interlocutor on FDI, STEM, public goods
+- [[entities/gita-wirjawan|Gita Wirjawan]] — Endgame host; interlocutor on FDI, STEM, public goods, science luminaries
 - [[entities/endgame-podcast|Endgame]] — Long-form interview show; episode catalog for this vault
 - [[entities/prabowo-subianto|Prabowo Subianto]] — President; confidence restoration and education ambitions (stub)
 - [[entities/susilo-bambang-yudhoyono|Susilo Bambang Yudhoyono (SBY)]] — Private-sector growth archetype in dual-engine thesis (stub)
@@ -50,6 +55,13 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[concepts/wiki-lint|Wiki Lint]] — Operation: health-check for contradictions, orphans, staleness, gaps
 - [[concepts/schema|Schema]] — Conventions file (`.cursorrules`) that disciplines the LLM as wiki maintainer
 
+### Science / intelligence / institutions
+
+- [[concepts/biological-intelligence|Biological Intelligence]] — BI vs HI/AI; self-assembly; inside-out manufacture
+- [[concepts/diversity-as-evolutionary-strategy|Diversity as Evolutionary Strategy]] — Sex as portfolio; don’t-know-the-future survival
+- [[concepts/interdisciplinary-silos|Interdisciplinary Silos]] — Teaching-driven silos; Bio-X / co-location antidotes
+- [[concepts/scientific-serendipity-and-failure|Scientific Serendipity and Failure]] — Luck, counteroffers, wrong 90–99%
+
 ### Indonesia macro / investment
 
 - [[concepts/money-supply-vs-interest-rates|Money Supply vs Interest Rates]] — Read tightness from M0/money growth, not rates alone
@@ -64,7 +76,7 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[concepts/soft-infrastructure-teachers|Soft Infrastructure — Teachers]] — Teachers as binding soft infra; budget composition vs hard-capital copy
 - [[concepts/decentralization-paradox|Decentralization Paradox]] — China political-central/economic-decentral vs reverse democracies
 - [[concepts/ownership-society|Ownership Society]] — Align officials via long-term assets; party finance vs licensing rents
-- [[concepts/risk-as-innovation-fuel|Risk as Innovation Fuel]] — Risk-taking culture; failure without criminal stigma
+- [[concepts/risk-as-innovation-fuel|Risk as Innovation Fuel]] — Risk-taking culture; failure without criminal stigma (science parallel: Levitt)
 - [[concepts/idea-contest-and-centrism|Idea Contest and Centrism]] — Populism burnout; open debate → trusted consensus
 
 ## Comparisons
