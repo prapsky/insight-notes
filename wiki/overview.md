@@ -4,7 +4,7 @@ type: overview
 created: 2026-08-01
 updated: 2026-08-01
 tags: [meta, synthesis]
-sources: [sources/001-llm-wiki-pattern]
+sources: [sources/001-llm-wiki-pattern, sources/002-endgame-245-purbaya-sadewa]
 status: active
 ---
 
@@ -14,7 +14,10 @@ This is **insight-notes** — a personal LLM Wiki (second brain). Knowledge comp
 
 ## Current shape
 
-Early bootstrap. One foundational source ingested: the [[sources/001-llm-wiki-pattern|LLM Wiki pattern]] itself. The wiki now knows *how it works* and the core concepts that define it.
+Two layers of content:
+
+1. **Meta** — How the wiki itself works ([[sources/001-llm-wiki-pattern|LLM Wiki pattern]]).
+2. **Indonesia macro / policy** — First domain ingest from [[sources/002-endgame-245-purbaya-sadewa|Endgame #245]] with [[entities/purbaya-yudi-sadewa|Purbaya Yudi Sadewa]]: money growth, expectation management, debottlenecking, FDI climate, STEM pipeline.
 
 ## Major topics
 
@@ -22,17 +25,23 @@ Early bootstrap. One foundational source ingested: the [[sources/001-llm-wiki-pa
 |------|--------|-----------|
 | Knowledge systems | Active | [[concepts/llm-wiki]], [[concepts/rag]], [[concepts/memex]] |
 | Wiki operations | Active | [[concepts/ingest]], [[concepts/query-filing]], [[concepts/wiki-lint]] |
-| People / history | Stub-rich | [[entities/vannevar-bush]] |
+| Indonesia growth & liquidity | Active (single-source) | [[concepts/money-supply-vs-interest-rates]], [[concepts/expectation-management]], [[concepts/fdi-climate]] |
+| Investment & talent | Active (single-source) | [[concepts/investment-debottlenecking]], [[concepts/uncertainty-to-risk-translation]], [[concepts/stem-talent-pipeline]] |
+| People / history | Mixed | [[entities/vannevar-bush]], [[entities/purbaya-yudi-sadewa]], era stubs (Prabowo / SBY / Jokowi) |
 
-## Working thesis
+## Working theses
 
 > Retrieval alone does not accumulate understanding. A maintained intermediate wiki — compiled once per source, kept current — compounds; RAG rediscovers from scratch every time.
 
+> *(Attributed — Purbaya)* Indonesia’s near-term binding problems are domestic: insufficient money in the *system*, broken expectations, and field-level investment bottlenecks — not primarily “global uncertainty.” ~6.5% from dual engines; ~8% needs FDI once climate and talent catch up.
+
 ## Gaps / next
 
-- No personal domain content yet (goals, research topic, book, etc.) — awaiting first *real* source from you
-- Schema may need domain-specific entity types as the focus clarifies
-- Search tooling (e.g. qmd) deferred until scale demands it
+- Domain content is still **one interview deep** — corroborate money-growth, confidence, and FDI figures from official series
+- Era stubs (SBY / Jokowi / Prabowo) need independent sources
+- More Endgame episodes or opposing macro views would prevent single-voice capture
+- Schema may need `policy` / `episode` conventions if media ingest becomes routine
+- Search tooling (e.g. qmd) still deferred
 
 ## How to grow this
 

@@ -33,3 +33,28 @@ First ingest — the pattern document itself as foundational source.
 - `wiki/comparisons/rag-vs-llm-wiki.md`
 
 **Updated:** `wiki/index.md`, `wiki/overview.md`
+
+## [2026-08-01] ingest | Endgame #245 — Purbaya Yudi Sadewa
+
+Second ingest — first domain (Indonesia macro/policy) source. Claims filed as **attributed** to Purbaya, not verified fact.
+
+**Raw:** `raw/media/endgame/245_purbaya-sadewa.md`
+
+**Created:**
+- `wiki/sources/002-endgame-245-purbaya-sadewa.md`
+- `wiki/entities/purbaya-yudi-sadewa.md`
+- `wiki/entities/gita-wirjawan.md` (stub)
+- `wiki/entities/endgame-podcast.md` (stub)
+- `wiki/entities/prabowo-subianto.md` (stub)
+- `wiki/entities/susilo-bambang-yudhoyono.md` (stub)
+- `wiki/entities/joko-widodo.md` (stub)
+- `wiki/concepts/money-supply-vs-interest-rates.md`
+- `wiki/concepts/expectation-management.md`
+- `wiki/concepts/investment-debottlenecking.md`
+- `wiki/concepts/uncertainty-to-risk-translation.md`
+- `wiki/concepts/fdi-climate.md`
+- `wiki/concepts/stem-talent-pipeline.md`
+
+**Updated:** `wiki/index.md`, `wiki/overview.md`
+
+**Key takeaways filed:** domestic M0 failure vs global-uncertainty narrative; expectation+tools sequence; dual-engine ~6.5% then FDI for ~8%; debottlenecking satgas; uncertainty→risk + STEM scale.

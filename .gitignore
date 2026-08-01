@@ -1,0 +1,9 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian (session / cache — keep shared config like app.json)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/

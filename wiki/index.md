@@ -19,12 +19,26 @@ Catalog of all wiki pages. Read this first when answering queries.
 ## Sources
 
 - [[sources/001-llm-wiki-pattern|LLM Wiki Pattern]] — Foundational idea: persistent LLM-maintained wiki vs RAG-only retrieval
+- [[sources/002-endgame-245-purbaya-sadewa|Endgame #245 — Purbaya Yudi Sadewa]] — MoF interview: money growth, expectations, debottlenecking, path to 8%
 
 ## Entities
 
+### Knowledge / meta
+
 - [[entities/vannevar-bush|Vannevar Bush]] — Proposed the Memex (1945); conceptual ancestor of personal knowledge wikis
 
+### Indonesia / policy
+
+- [[entities/purbaya-yudi-sadewa|Purbaya Yudi Sadewa]] — Finance Minister; monetarist-leaning growth and liquidity thesis
+- [[entities/gita-wirjawan|Gita Wirjawan]] — Endgame host; interlocutor on FDI, STEM, public goods
+- [[entities/endgame-podcast|Endgame]] — Long-form interview show; episode catalog for this vault
+- [[entities/prabowo-subianto|Prabowo Subianto]] — President; confidence restoration and education ambitions (stub)
+- [[entities/susilo-bambang-yudhoyono|Susilo Bambang Yudhoyono (SBY)]] — Private-sector growth archetype in dual-engine thesis (stub)
+- [[entities/joko-widodo|Joko Widodo (Jokowi)]] — Government-led growth archetype in dual-engine thesis (stub)
+
 ## Concepts
+
+### Knowledge systems
 
 - [[concepts/llm-wiki|LLM Wiki]] — Persistent, compounding markdown knowledge base maintained by an LLM
 - [[concepts/rag|RAG]] — Retrieve-then-generate over raw docs; no accumulation between queries
@@ -33,6 +47,15 @@ Catalog of all wiki pages. Read this first when answering queries.
 - [[concepts/query-filing|Query Filing]] — Operation: answer from wiki, then save valuable synthesis as pages
 - [[concepts/wiki-lint|Wiki Lint]] — Operation: health-check for contradictions, orphans, staleness, gaps
 - [[concepts/schema|Schema]] — Conventions file (`.cursorrules`) that disciplines the LLM as wiki maintainer
+
+### Indonesia macro / investment
+
+- [[concepts/money-supply-vs-interest-rates|Money Supply vs Interest Rates]] — Read tightness from M0/money growth, not rates alone
+- [[concepts/expectation-management|Expectation Management]] — Self-fulfilling optimism backed by immediate policy tools
+- [[concepts/investment-debottlenecking|Investment Debottlenecking]] — Clear field barriers; satgas + budget as credible threat
+- [[concepts/uncertainty-to-risk-translation|Uncertainty → Risk Translation]] — Make outcomes priceable so capital can allocate
+- [[concepts/fdi-climate|FDI Climate]] — Conditions for external capital after ~6.5% domestic engines
+- [[concepts/stem-talent-pipeline|STEM Talent Pipeline]] — Scale STEM supply into real demand; LPDP wholesale
 
 ## Comparisons
 
