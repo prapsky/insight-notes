@@ -1,0 +1,45 @@
+---
+title: Risk as Innovation Fuel
+type: concept
+created: 2026-08-01
+updated: 2026-08-01
+tags: [risk, entrepreneurship, law, innovation, indonesia]
+sources: [sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski, sources/012-endgame-65-indrawan-nugroho]
+status: active
+---
+
+# Risk as Innovation Fuel
+
+Claim ([[entities/tom-lembong|Tom Lembong]], [[sources/003-endgame-248-tom-lembong|Endgame #248]]): risk is the **raw material** of entrepreneurship and innovation — not only a hazard to minimize. Post-crisis policy that tries to purge risk from banking/finance/insurance also starves experimentation.
+
+## Two meanings of “risk” in this vault
+
+| Sense | Page | Point |
+|-------|------|-------|
+| Make outcomes **priceable** for capital | [[concepts/uncertainty-to-risk-translation]] | FDI needs measurable risk, not fog |
+| Keep **risk-taking** socially/legally possible | *this page* | Failure without criminal stigma; bankruptcy protection |
+
+Tom argues technocrats often forget the second after 1997–98 and 2008.
+
+## Institutional pieces he wants
+
+- Transparent bankruptcy / limited liability so failure isn’t a permanent brand (or police mark / criminal case)
+- Celebrate honest failure (Silicon Valley norm); sports metaphor — champions lose more than they medal
+- Criminalize fraud/corruption/mens rea — **not** ordinary business loss (most ventures fail; failure ≠ crime)
+- Cultural shift via substance media: stop shaming failure and over-mythologizing success; admit luck
+
+## Science parallel
+
+[[entities/michael-levitt|Michael Levitt]] ([[sources/004-endgame-193-michael-levitt|Endgame #193]]): a good scientist is wrong ~90% of the time; a great one ~99% — fear of mistakes blocks innovation. Filed under [[concepts/scientific-serendipity-and-failure]]. Same cultural requirement (make productive failure survivable), different domain (lab vs firm).
+
+## Operator parallel (#272)
+
+[[entities/martyn-terpilowski|Martyn]]: productive long-horizon risk (own capital, decade builds, [[concepts/deep-tech-long-termism|deep tech]]) vs **unaccountable** failure — blow up, then become adviser/VC. That is the inverse of Tom’s honest-failure norm and of Levitt’s learn-from-being-wrong. Meritocratic markets step operators aside; patronage recycles them ([[concepts/meritocracy-vs-patronage]]).
+
+## Org-culture parallel (#65)
+
+[[entities/indrawan-nugroho|Indrawan]]: [[concepts/innovation-theater-vs-real-innovation|innovation theater]] (prizes, hackathons) fails when ideas never ship; staff want open doors and permission to experiment more than bigger incentives. Same “make trying survivable” demand as Tom/Levitt, inside the firm. Starved further when capital clocks are impatient ([[concepts/patient-capital-uang-sabar]]).
+
+## Related
+
+[[concepts/fdi-climate]], [[concepts/ownership-society]], [[concepts/idea-contest-and-centrism]], [[concepts/scientific-serendipity-and-failure]], [[concepts/deep-tech-long-termism]], [[concepts/innovation-theater-vs-real-innovation]], [[concepts/patient-capital-uang-sabar]], [[sources/003-endgame-248-tom-lembong]], [[sources/005-endgame-272-martyn-terpilowski]], [[sources/012-endgame-65-indrawan-nugroho]]
