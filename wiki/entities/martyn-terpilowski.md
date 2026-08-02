@@ -2,7 +2,7 @@
 title: Martyn Terpilowski
 type: entity
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [person, founder, indonesia, deep-tech, finance]
 sources: [sources/005-endgame-272-martyn-terpilowski]
 status: active
@@ -10,25 +10,28 @@ status: active
 
 # Martyn Terpilowski
 
-Founder & CEO of [[entities/bhumi-varta-technology|Bhumi Varta Technology]]. Guest on [[entities/endgame-podcast|Endgame]] [[sources/005-endgame-272-martyn-terpilowski|#272]] with [[entities/gita-wirjawan|Gita Wirjawan]]. British operator-investor who frames Indonesia’s tech/business problem as a **meritocracy and openness** failure more than a raw talent shortage.
+Martyn Terpilowski is the founder and CEO of [[entities/bhumi-varta-technology|Bhumi Varta Technology]]. He was a guest on [[entities/endgame-podcast|Endgame]] [[sources/005-endgame-272-martyn-terpilowski|#272]] with [[entities/gita-wirjawan|Gita Wirjawan]]. He is a British business operator and investor. He argues that Indonesia's technology and business problems come more from weak meritocracy and limited openness than from a simple shortage of talent.
 
-## Arc (self-narrated)
+## Career arc (as he tells it)
 
-- Grew up in a small town in north England (near Barrow-in-Furness); limited awareness of scholarships; local university for cost
-- London junior broker → Tokyo (early 2000s) equity/investment sales; ~12 years Japan; built trust network among self-made Japanese financiers; whistleblower credibility on frauds
-- Hong Kong / Singapore after Japan quake + tax/reg shifts; semi-retired ~38
-- Indonesia: build deep-tech company with own capital; expand to Vietnam/Japan
+Martyn grew up in a small town in northern England near Barrow-in-Furness. He knew little about scholarships, so cost led him to attend a local university.
 
-## Signature theses (as presented)
+He became a junior broker in London. In the early 2000s, he moved to Tokyo to sell equity and investment products. He spent about 12 years in Japan. There, he built a trusted network among self-made Japanese financiers. Reporting fraud also gave him credibility as a whistleblower.
 
-- [[concepts/meritocracy-vs-patronage|Meritocracy vs patronage]] — wrong people in wrong jobs; second-name insulation; returnees won’t serve weaker connected locals
-- [[concepts/brain-gain-and-circulation|Brain gain & circulation]] — FDI sponge (Vietnam/China/Japan finance); overseas *work* experience, not MBA-as-wealth-signal
-- [[concepts/deep-tech-long-termism|Deep-tech long-termism]] — exportable IP over TAM/app short-termism; money without DD/management is not a panacea
+After the earthquake in Japan and changes in taxes and regulation, he moved through Hong Kong and Singapore. He was semi-retired by about age 38.
+
+He then used his own money to build a deep-technology company in Indonesia. Deep technology depends on difficult engineering or science, not only an app or marketing. The company later expanded to Vietnam and Japan.
+
+## Main ideas (as presented)
+
+- [[concepts/meritocracy-vs-patronage|Meritocracy vs patronage]]: people are often placed in jobs for connections rather than ability. Family names can protect weak performers. Skilled Indonesians returning from abroad may refuse to work under less capable but well-connected local managers.
+- [[concepts/brain-gain-and-circulation|Brain gain & circulation]]: countries can absorb skills through foreign direct investment, as seen in Vietnam, China, and Japanese finance. Work experience abroad matters more than using an MBA as a signal of wealth.
+- [[concepts/deep-tech-long-termism|Deep-tech long-termism]]: companies should build exportable intellectual property over many years instead of focusing only on market-size estimates and short-term apps. Money alone is not a cure. Investors also need due diligence, meaning careful checks before investing, and capable management.
 
 ## Stance
 
-Deliberately blunt; rejects “you hate the country” reading — claims Indonesia retains opportunity if it pivots fast. Rejects local government-related capital when partners have political-exposure constraints.
+Martyn speaks deliberately and bluntly. He rejects the idea that his criticism means he hates Indonesia. He says the country still has opportunity if it changes direction quickly. He also rejects capital linked to local government when his partners have rules against political exposure.
 
 ## Contested / unverified
 
-Network-sampled claims (scarcity of self-made multi-millionaires; VC due-diligence culture) rest on one interview. Treat as attributed operator testimony.
+His claims about the scarcity of self-made multimillionaires and the culture of venture-capital due diligence come from his own network and one interview. Treat them as the testimony of one business operator, not as verified general facts.

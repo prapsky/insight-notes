@@ -2,7 +2,7 @@
 title: Meritocracy vs Patronage
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [meritocracy, governance, talent, indonesia, culture]
 sources: [sources/005-endgame-272-martyn-terpilowski, sources/009-endgame-239-keyu-jin]
 status: active
@@ -10,31 +10,31 @@ status: active
 
 # Meritocracy vs Patronage
 
-Thesis ([[entities/martyn-terpilowski|Martyn Terpilowski]], [[sources/005-endgame-272-martyn-terpilowski|Endgame #272]]): Indonesia’s binding business constraint is often **who gets the job and the capital**, not whether able people exist. Second-name patronage + low accountability block returnees, outsiders, and self-made operators — and keep “best talent” away from markets that don’t recognize achievement.
+[[entities/martyn-terpilowski|Martyn Terpilowski]] argues in [[sources/005-endgame-272-martyn-terpilowski|Endgame #272]] that Indonesia’s main business constraint is often **who receives jobs and capital**, not whether skilled people exist. Favoritism based on family names, combined with weak accountability, blocks returning diaspora, outsiders, and self-made business leaders. The best talent avoids markets that do not reward achievement.
 
 ## Mechanisms he names
 
 | Mechanism | Effect |
 |-----------|--------|
-| Second-name insulation | Failures recycled to new firms; no hedge-fund-style step-aside |
-| MBA / Ivy signal | Often reads as wealthy parents + local placement, not edge ability |
-| Circular funding | Friends/family invest in each other’s startups; pushback punished |
-| Celebrity-founder culture | Photos and politics over competitive edge |
-| Returnee mismatch | Overseas-hardened talent won’t report to less-qualified connected locals |
+| Protection through family names | People who fail are moved into new firms instead of stepping aside as they might in a hedge fund |
+| MBA or Ivy League signal | May show wealthy parents and local connections rather than unusual ability |
+| Circular funding | Friends and family invest in one another’s startups, and criticism is punished |
+| Celebrity-founder culture | Photos and politics matter more than competitive advantage |
+| Returnee mismatch | Experienced overseas talent will not report to less-qualified but well-connected locals |
 
 ## Contrast cases he uses
 
-- Japan/HK self-made multi-millionaire networks; blank-page Tokyo performance culture
+- Networks of self-made multimillionaires in Japan and Hong Kong, and Tokyo’s culture of judging performance without regard to background.
 - UK: poor-born rich-list examples (e.g. BlueCrest / Preston origin story)
 - Listed securities / licensed hedge funds as levelers (exams, track record) vs unregulated emerging-market VC fashion
 
 ## Why it blocks growth
 
-Without meritocracy, [[concepts/brain-gain-and-circulation|brain gain]] fails (talent won’t come or stay), [[concepts/fdi-climate|FDI]] partners can’t clear political-exposure rules, and [[concepts/deep-tech-long-termism|long-horizon builders]] lose capital to connected short-termism.
+Without merit-based selection, [[concepts/brain-gain-and-circulation|brain gain]] fails because talent will not come or stay. [[concepts/fdi-climate|FDI]] partners may fail rules against political exposure. [[concepts/deep-tech-long-termism|Long-term builders]] also lose funding to connected people pursuing short-term gains.
 
 ## Keyu / China contrast (#239)
 
-[[entities/keyu-jin|Keyu]] (and Gita) stress a paradox: China is labeled autocracy yet **recruits talent on merit** more than many patronage democracies; civil servants in the [[concepts/mayor-economy|mayor economy]] increasingly carry deep tech literacy. She also claims underrecognized “democratic values” (responsiveness to complaints, data-abuse concerns) — while warning the state can become **too reluctant to create losers**, softening hard economic decisions. Complements Martyn’s Indonesia patronage critique without equating systems.
+[[entities/keyu-jin|Keyu]] and Gita describe a paradox. China is called an autocracy, yet it may **recruit talent by merit** more than some democracies dominated by patronage. Civil servants in the [[concepts/mayor-economy|mayor economy]] increasingly understand advanced technology. She also sees overlooked “democratic values,” such as responding to complaints and worrying about misuse of data. However, the state can become **too unwilling to let anyone lose**, which weakens difficult economic decisions. This complements Martyn’s critique of Indonesian patronage without treating the two political systems as equal.
 
 ## Adjacent vault pages
 

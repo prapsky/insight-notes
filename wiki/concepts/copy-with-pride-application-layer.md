@@ -2,7 +2,7 @@
 title: Copy with Pride — Application Layer
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [ai, strategy, indonesia, applications]
 sources: [sources/007-bravo-500-ai-panel, sources/009-endgame-239-keyu-jin, sources/010-indrawan-perang-ai-china-vs-amerika]
 status: active
@@ -10,32 +10,40 @@ status: active
 
 # Copy with Pride — Application Layer
 
-Strategy voiced by [[entities/franky-widjaja|Franky O. Widjaja]] ([[sources/007-bravo-500-ai-panel|Bravo 500 panel]]): Indonesia should **adopt and localize** proven AI platforms rather than burn capital reinventing frontier foundation models.
+[[entities/franky-widjaja|Franky O. Widjaja]] argues that Indonesia should **adopt and localize** proven AI platforms. It should not spend large amounts of capital trying to recreate the most advanced foundation models. Source: [[sources/007-bravo-500-ai-panel|Bravo 500 panel]].
 
 ## Claim
 
-- Timing and talent mean an Indonesian DeepSeek/Gemini-class lab in 5–10 years is **unlikely** without extraordinary state + capital support
-- Use external models as **base platform**; put Indonesian layers (language, domain, compliance) on top
-- “Copy with pride” — especially application stacks where China is seen as ahead (education, healthcare, industrial) — then modify for local need
-- **Sovereign data control** matters; sovereign LLM vanity does not (many paths to the former without the latter)
+- Given current timing and talent, an Indonesian lab at the level of DeepSeek or Gemini is **unlikely within 5–10 years** without extraordinary government and financial support.
+- Use external models as a **base platform**. Add Indonesian language, industry knowledge, and regulatory compliance on top.
+- “Copy with pride,” especially in applications where China is seen as ahead, such as education, healthcare, and industry. Then adapt those applications to local needs.
+- **Sovereign control of data** matters. Building a national large language model for prestige does not. A country can gain data control without owning such a model.
 
-Pairs with [[concepts/physical-vs-cryptographic-sovereignty]]: control and outcomes over owning every stack layer.
+This pairs with [[concepts/physical-vs-cryptographic-sovereignty]]. Control and useful outcomes matter more than ownership of every layer in the technology stack.
 
 ## Where private capital still builds infra
 
-[[entities/sinarmas|Sinarmas]] still invests in **energy + data centers** (power wheeling/green supply remains a national bottleneck — [[concepts/ai-electrification-threshold]]) while refusing foundation-model prestige projects. Application focus is *not* “skip infra”; it’s “don’t confuse infra participation with LLM nationalism.”
+[[entities/sinarmas|Sinarmas]] still invests in **energy and data centers**. Power wheeling and green electricity remain national bottlenecks ([[concepts/ai-electrification-threshold]]). At the same time, it rejects foundation-model projects built mainly for prestige.
+
+Focusing on applications does not mean skipping infrastructure. It means not confusing infrastructure investment with nationalism around large language models.
 
 ## Tension with creator ambition
 
-Gita’s framing pushes AI *creator* status via electrification and talent. Franky’s reply: creator at the **application and operating** layer first; foundation-model creator status is a different (harder) bet. Not a hard contradiction — different layer of the Jensen stack ([[entities/budi-gunadi-sadikin|Budi]] layers 4–5 vs 1–3).
+Gita argues that electricity and talent can make a country an AI *creator*. Franky’s answer is to become a creator at the **application and operating layers** first. Creating foundation models is a separate and more difficult bet.
+
+These positions do not directly contradict each other. They focus on different parts of Jensen’s technology stack: [[entities/budi-gunadi-sadikin|Budi]]’s layers 4–5 versus layers 1–3.
 
 ## Keyu bridge (#009): process / diffusion
 
-[[entities/keyu-jin|Keyu]]’s [[concepts/process-and-diffusion-innovation|process and diffusion innovation]] thesis is the China-side rationale for Franky’s posture: developing economies need adoptable cost-cut tech more than zero-to-one prestige; China’s scale+production+tech stack is the cheap allocator Gita already uses (OPPO vs iPhone). DeepSeek is [[concepts/crisis-innovation-and-tech-restrictions|crisis innovation]] under restrictions — inspiration, not a template for every SEA capital budget.
+[[entities/keyu-jin|Keyu]]’s [[concepts/process-and-diffusion-innovation|process and diffusion innovation]] explains the Chinese side of Franky’s strategy. Developing economies often need affordable technology they can adopt more than they need a prestigious invention created from nothing.
+
+China combines scale, production, and technology to provide cheaper options. Gita’s comparison of OPPO with the iPhone illustrates this. DeepSeek is an example of [[concepts/crisis-innovation-and-tech-restrictions|crisis innovation]] under restrictions. It can inspire Southeast Asia, but it is not a spending template for every country.
 
 ## Indrawan bridge (#010): cheap stacks for developing markets
 
-[[entities/indrawan-nugroho|Indrawan]] argues Chinese OSS + distribution is hard to contain where price and tech-sovereignty sensitivity are high — same pull Franky rides. He also warns: don’t confuse DeepSeek’s [[concepts/value-creation-vs-value-capture|value creation]] shock with owning the industry; enterprise lock-in and distribution still decide [[concepts/ai-commoditization-and-enterprise-lock-in|capture]].
+[[entities/indrawan-nugroho|Indrawan]] argues that Chinese open-source software and distribution are difficult to stop in markets that care strongly about price and technological sovereignty. Franky’s strategy responds to the same demand.
+
+Indrawan also warns against confusing DeepSeek’s [[concepts/value-creation-vs-value-capture|value creation]] shock with ownership of the industry. Enterprise lock-in and distribution still determine who can [[concepts/ai-commoditization-and-enterprise-lock-in|capture]] long-term value.
 
 ## Related
 

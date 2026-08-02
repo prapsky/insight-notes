@@ -2,7 +2,7 @@
 title: Innovation Theater vs Real Innovation
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [innovation, organizations, leadership, indonesia]
 sources: [sources/012-endgame-65-indrawan-nugroho]
 status: active
@@ -10,30 +10,34 @@ status: active
 
 # Innovation Theater vs Real Innovation
 
-Thesis ([[entities/indrawan-nugroho|Indrawan Nugroho]], [[sources/012-endgame-65-indrawan-nugroho|Endgame #65]]): much of what organizations call “innovation” is **theater** — events, competitions, motivator seminars — unless outputs are shepherded into operations and leaders keep doors open for experiment. Technology is the **shell**; the core is what makes humans feel alive (creativity, productivity, connection).
+[[entities/indrawan-nugroho|Indrawan Nugroho]] argues that much of what organizations call “innovation” is only **theater**. Events, competitions, and motivational seminars do not create change unless teams turn their results into daily operations. Leaders must also remain available and allow experiments.
+
+Technology is the **outer shell**. The real core is what helps people feel alive, including creativity, productivity, and connection. Source: [[sources/012-endgame-65-indrawan-nugroho|Endgame #65]].
 
 ## Theater markers
 
-- One-off hackathons / internal contests with rising prizes but **ideas never shipped**
-- Innovation as wall value / jargon while BAU returns after the event
-- Presenters optimizing for travel prizes, not for implemented change
-- “Call a motivator, clap, done” as the old BUMN/private default
+- One-time hackathons or internal contests offer larger prizes, but the **ideas are never put into use**.
+- Innovation appears as a value on the wall or as jargon. After the event, business as usual returns.
+- Presenters optimize their work to win travel prizes rather than to create real change.
+- The old default in state-owned and private companies was: “Call a motivator, clap, done.”
 
-## Real-innovation markers (his practice)
+## Signs of real innovation
 
-- Multi-month guided programs (**~3–5 months**) that force contact with how hard innovation is
-- Shepherding event outputs into process change
-- Leader **accessibility** (open door / anytime conversation) + explicit push to try and fail forward
-- Human-centered start: what is meaningful for the person → *then* which tool/tech serves it
+- Guided programs run for about **3–5 months**. Participants experience how difficult innovation really is.
+- Teams guide ideas from an event into actual changes in work processes.
+- Leaders remain **accessible** through open doors and conversations at any time. They explicitly encourage people to try, learn, and move forward after failure.
+- Work starts with what is meaningful to a person. Only *then* does the team choose the tool or technology that serves that need.
 
 ## Incentives vs openness
 
-As he cites: ask managers what builds innovation culture → **incentive systems**; ask staff → **open doors to the boss**. Experience: bigger prizes while past winners never get implemented → participation falls; trust dies. Musician metaphor: genuine appreciation moves performance more than tip size. Parallel: [[concepts/risk-as-innovation-fuel|risk as fuel]] needs psychological safety, not only prize money.
+Indrawan says managers often answer **incentive systems** when asked what creates an innovation culture. Staff members answer **an open door to the boss**.
+
+When prizes grow but earlier winning ideas are never implemented, participation falls and trust disappears. He compares this with musicians: genuine appreciation can improve a performance more than a larger tip. Similarly, [[concepts/risk-as-innovation-fuel|risk as fuel]] requires psychological safety, not only prize money.
 
 ## Nadella / Jobs illustrations (attributed)
 
-- Satya Nadella: empathy rituals (family/weekend before status) as substrate for stakeholder-aware Microsoft (his reading)
-- Steve Jobs / Apple: values about aliveness first; product/tech as tools — design minimalism as expression of those values, not the cause
+- Satya Nadella: Indrawan reads Nadella’s habit of asking about family or the weekend before discussing status as an empathy practice that supports a Microsoft attentive to its stakeholders.
+- Steve Jobs and Apple: Values about feeling alive come first. Products and technology are tools. Minimalist design expresses those values; it does not cause them.
 
 ## Related
 

@@ -2,7 +2,7 @@
 title: Diversity as Evolutionary Strategy
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [evolution, diversity, biology, strategy]
 sources: [sources/004-endgame-193-michael-levitt]
 status: active
@@ -10,20 +10,22 @@ status: active
 
 # Diversity as Evolutionary Strategy
 
-Claim ([[entities/michael-levitt|Michael Levitt]], [[sources/004-endgame-193-michael-levitt|Endgame #193]]): the great lesson of evolution for humanity’s future survival is **diversity** — because **we don’t know the future**.
+[[entities/michael-levitt|Michael Levitt]] argues that evolution offers a major lesson for humanity’s survival: protect **diversity**, because **we do not know the future**. Source: [[sources/004-endgame-193-michael-levitt|Endgame #193]].
 
-## Mechanism (attributed)
+## How it works
 
 | Mode | What it does | Limit |
 |------|----------------|-------|
-| Bacterial cloning | Exact copies | Survives; weak macroscopic diversity |
-| Sexual reproduction (~1B years) | Random ~50% genes from each parent | Not “best genes only” — portfolio diversification |
+| Bacterial cloning | Makes exact copies | Supports survival but creates little visible diversity |
+| Sexual reproduction (~1B years) | Randomly takes about 50% of genes from each parent | Does not select only the “best genes”; it diversifies the population |
 
-Banker analogy: diversify holdings when the future is unknown. Same logic extends to cultural and behavioral diversity, and to caring for vulnerable individuals — framed as **biological necessity for species survival**, not only ethics.
+Levitt compares this with a banker who spreads money across different investments when the future is uncertain. He extends the same logic to cultural and behavioral diversity. He also applies it to caring for vulnerable people. In his view, this is not only an ethical duty. It is a **biological requirement for the survival of the species**.
 
 ## Institutional echo
 
-Stanford Bio-X seed grants pairing scientists from different fields ≈ mother + father → new interdisciplinary offspring ([[concepts/interdisciplinary-silos]]). Homogeneous nations, he argues, will diversify via globalization, media, and AI.
+Stanford Bio-X gives small early grants to scientists from different fields who work together. Levitt compares this pairing to a mother and father producing new interdisciplinary “offspring” ([[concepts/interdisciplinary-silos]]).
+
+He also argues that nations with highly similar populations will become more diverse through globalization, media, and AI.
 
 ## Related
 

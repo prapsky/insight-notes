@@ -2,7 +2,7 @@
 title: Uncertainty → Risk Translation
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [investment, risk, stem, indonesia]
 sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/006-endgame-216-chatib-basri, sources/009-endgame-239-keyu-jin]
 status: active
@@ -10,34 +10,34 @@ status: active
 
 # Uncertainty → Risk Translation
 
-Capacity to turn **unpriceable uncertainty** into **measurable, priceable risk** — one of two FDI allocation variables named by both [[entities/purbaya-yudi-sadewa|Purbaya]] and [[entities/tom-lembong|Tom Lembong]] (the other: rule of law). Capital likes risk it can price (AAA…CCC); it flees fog.
+This is the ability to turn **uncertainty that cannot be priced** into **risk that can be measured and priced**. [[entities/purbaya-yudi-sadewa|Purbaya]] and [[entities/tom-lembong|Tom Lembong]] both name it as one of two factors that guide foreign direct investment. The other is rule of law. Investors can accept risk with a rating, from AAA to CCC. They avoid situations that are simply unclear.
 
-## Distinction
+## The difference
 
 | | Uncertainty | Risk |
 |---|-------------|------|
-| Nature | “Maybe the lights go out” | “58% chance of 2.5 months outage → revenue −22%, IRR = X%” |
-| Capital | Hard to allocate / insure | Can be priced (ratings, spreads, hedges) |
+| Nature | “Maybe the lights go out.” | “There is a 58% chance of a 2.5-month outage. Revenue would fall 22%, and the internal rate of return would be X%.” |
+| Capital | Hard to fund or insure | Can be priced through ratings, interest-rate spreads, and hedges |
 
 ## Link to STEM
 
-Quantitative training (science, technology, engineering, math) is framed as national infrastructure for this translation. Thin STEM throughput → thin ability to underwrite and negotiate complex projects. See [[concepts/stem-talent-pipeline]].
+Training in science, technology, engineering, and mathematics helps a country make this translation. Without enough people with quantitative skills, it is harder to evaluate and negotiate complex projects. See [[concepts/stem-talent-pipeline]].
 
 ## Why investors care
 
-Global liquidity is large and advanced-economy risk premia rose — diversification *should* flow to emerging Asia, but hesitates where outcomes can’t be modeled. Improving translation is part of [[concepts/fdi-climate|FDI climate]], alongside [[concepts/investment-debottlenecking|debottlenecking]].
+There is a large amount of money in the world, and risk premiums in advanced economies have risen. Investors should want to diversify into emerging Asia. They hesitate when outcomes cannot be modeled. Better risk measurement is part of the [[concepts/fdi-climate|FDI climate]], together with [[concepts/investment-debottlenecking|debottlenecking]].
 
-## Pair with “risk as fuel”
+## Pair it with “risk as fuel”
 
-Pricing risk for investors is necessary but not sufficient. [[concepts/risk-as-innovation-fuel|Risk as innovation fuel]] covers the domestic side: if honest failure is criminalized, the real sector won’t take the risks that growth requires — even when spreads are theoretically priceable.
+Investors need risk they can price, but that is not enough. [[concepts/risk-as-innovation-fuel|Risk as innovation fuel]] covers the domestic side. If honest business failure is treated as a crime, companies will not take the risks needed for growth, even when investors can calculate the financial spread.
 
-## Chatib (#216): permit fog + derisking
+## Chatib (#216): unclear permits and lower risk
 
-[[entities/chatib-basri|Chatib]] (ex-BKPM orbit with Gita): permit timelines so opaque that “you only pray” — textbook unpriceable uncertainty. Blended finance / multilateral accreditation can **derisk** projects for BlackRock-scale capital, but **tax incentives cannot substitute legal certainty**. Same root variable as Purbaya/Tom; Chatib adds energy-transition and AI-capex scale as places where derisking math meets that wall.
+[[entities/chatib-basri|Chatib]], drawing on his BKPM experience with Gita, says permit timelines are so unclear that “you only pray.” This is uncertainty that cannot be priced. Blended finance and approval from multilateral institutions can **reduce project risk** for funds as large as BlackRock. But **tax incentives cannot replace legal certainty**. This is the same basic issue raised by Purbaya and Tom. Chatib adds that energy-transition projects and large AI investments run into the same barrier.
 
-## Keyu / Gita (#239): West capital vs China tech
+## Keyu and Gita (#239): Western capital and Chinese technology
 
-Gita’s SEA framing in the Keyu interview: Western **economic** capital stays away where uncertainty can’t be priced; Chinese **tech** capital (cheap/good stacks) still flows. Keyu’s digital leapfrog on permits/transparency is the same translation problem — predictability is what lets capital treat outcomes as risk.
+In Gita’s Southeast Asia framing during the Keyu interview, Western **economic** capital stays away when uncertainty cannot be priced. Chinese **technology** capital, including affordable and capable systems, may still arrive. Keyu’s proposal to digitize permits and improve transparency addresses the same problem. Predictability lets investors treat an outcome as measurable risk.
 
 ## Related
 

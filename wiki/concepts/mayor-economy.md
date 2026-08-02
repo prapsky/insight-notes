@@ -2,7 +2,7 @@
 title: Mayor Economy
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [china, governance, political-economy, decentralization, incentives]
 sources: [sources/009-endgame-239-keyu-jin, sources/003-endgame-248-tom-lembong]
 status: active
@@ -10,23 +10,23 @@ status: active
 
 # Mayor Economy
 
-Term [[entities/keyu-jin|Keyu Jin]] uses (*The New China Playbook*; [[sources/009-endgame-239-keyu-jin|Endgame #239]]) for China’s **local-tournament growth machine**: mayors/district leaders compete on GDP, investment, and now technology — while the political center stays unitary. Mechanism inside the broader [[concepts/decentralization-paradox|decentralization paradox]] (political central / economic decentral).
+[[entities/keyu-jin|Keyu Jin]] uses this term in *The New China Playbook* and [[sources/009-endgame-239-keyu-jin|Endgame #239]]. It describes China’s **competition among local governments**. Mayors and district leaders compete on economic output, investment, and now technology, while national political power remains centralized. It is part of the broader [[concepts/decentralization-paradox|decentralization paradox]]: politics is centralized, but economic action is decentralized.
 
 ## How it works (Keyu)
 
 | Feature | Effect |
 |---------|--------|
-| **Inter-local competition** | Firms expropriated or poorly served can move to the next city — disciplining mayors via exit |
-| **Tournament / glory** | Success copied nationwide; recognition (not only promotion) rewards reform pioneers |
-| **Intra-city intensification** | Even Chaoyang vs Haidian (Beijing) run beauty contests for startups |
-| **Tech-era continuity** | Same model now nurtures unicorns under local/central government funds; civil servants increasingly technologist (e.g. Shanghai mayor ex-Tsinghua president) |
-| **Private lean** | State does not pick alone — leans on private-sector expertise and private enterprises |
+| **Competition among places** | A firm whose property is seized or whose needs are ignored can move to another city. The threat of exit disciplines mayors. |
+| **Tournament and recognition** | Successful reforms are copied across the country. Public recognition, not only promotion, rewards pioneers. |
+| **Competition within cities** | Even Beijing districts such as Chaoyang and Haidian compete to attract startups. |
+| **Continuation in the technology era** | Local and central government funds now use the same model to support unicorns. More civil servants have technology expertise; for example, Shanghai’s mayor was formerly president of Tsinghua University. |
+| **Use of private expertise** | The state does not choose alone. It relies on private companies and private-sector expertise. |
 
-Explains **both** fast growth/investment historically **and** today’s challenges: mounting debt, overcapacity, underconsumption — same incentive framework, different stage.
+The model explains **both** China’s earlier rapid growth and investment **and** current problems such as rising debt, excess capacity, and weak consumption. The incentives are the same, but the economy is at a different stage.
 
 ## Contrast with Singapore (and many democracies)
 
-Gita asks whether Singapore taught the model. Keyu: similarities exist, but Singapore is a **small nation-state without rival cities** — the competitive exit channel is weaker. Many politically decentralized democracies lack a center that sets tournament incentives + accountability for local prosperity ([[concepts/decentralization-paradox]] — Tom’s Indonesia gap: few KPIs, academies, model budgets).
+Gita asks whether China learned this model from Singapore. Keyu sees similarities, but Singapore is a **small country without rival cities**, so firms have fewer local alternatives. Many politically decentralized democracies lack a national center that rewards local prosperity and holds leaders accountable. In [[concepts/decentralization-paradox]], Tom describes Indonesia’s gap as too few performance indicators, leadership academies, and model budgets.
 
 ## Advice she offers decentralized democracies
 

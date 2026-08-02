@@ -236,3 +236,31 @@ Twelfth ingest — **innovation culture / patient capital** layer (emphasis conf
 **Key takeaways filed:** meaning-full vs gossip narrators; artifacts need story; tech is shell / human core; open doors > prizes; 20–30y patient pools vs ~7y recycle; M/GDP ~45% duration cut; bootstrap when VC exit clocks clash.
 
 **Bridges:** patient capital ↔ money-supply + deep-tech long-termism; meaning-full storytelling ↔ soft-infra storytellers + idea contest + Jiang attention; innovation theater ↔ risk-as-fuel. Same Indrawan as #010/#011 — #65 is cultural/capital substrate for later AI essays.
+
+## [2026-08-02] lint | Beginner-friendly language rewrite
+
+Rewrote **all wiki pages** (except prior log history) into plainer English for beginners. Facts, numbers, wikilinks, contested flags, and page structure kept. No `raw/` changes.
+
+**Scope (~80 pages):**
+- `wiki/overview.md`, `wiki/index.md`
+- All `wiki/concepts/*` (46)
+- All `wiki/entities/*` (19)
+- All `wiki/sources/*` (12)
+- `wiki/comparisons/rag-vs-llm-wiki.md`
+
+**Style changes:** shorter sentences; jargon explained on first use; telegraphic bullets expanded into full sentences; dense hyphen stacks and arrow shorthand spelled out.
+
+**Not rewritten:** past `wiki/log.md` entries (append-only). This entry records the operation.
+
+## [2026-08-02] schema | Simple language for all wiki writing
+
+Updated `.cursorrules` so every ingest (and filed wiki writing) uses **beginner-friendly plain English**.
+
+**Changes:**
+- `Tone & Content`: require short sentences, explain jargon on first use, ban dense shorthand / telegraphic bullets / unexplained acronyms
+- `Operation: Ingest`: steps 4–7 must write in plain language; added a pre-finish language check
+- `Working Style`: lasting wiki detail must match the same simple-language standard
+- `wiki/concepts/schema.md`: noted the plain-language rule
+- `wiki/concepts/ingest.md`: language requirement under Design preference
+
+Existing wiki pages were rewritten to this standard in the prior lint entry on 2026-08-02.

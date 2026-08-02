@@ -2,7 +2,7 @@
 title: Endgame (podcast)
 type: entity
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [media, podcast, indonesia]
 sources: [sources/002-endgame-245-purbaya-sadewa, sources/003-endgame-248-tom-lembong, sources/004-endgame-193-michael-levitt, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin, sources/009-endgame-239-keyu-jin, sources/012-endgame-65-indrawan-nugroho]
 status: stub
@@ -10,14 +10,18 @@ status: stub
 
 # Endgame
 
-Long-form interview show hosted by [[entities/gita-wirjawan|Gita Wirjawan]] (YouTube). Transcripts may live under `raw/media/endgame/`. Includes an Indonesia-policy track, a Luminaries / campus track (e.g. Stanford), a **China political-economy** track (e.g. Keyu Jin), a **geopolitics / consciousness** track (e.g. Jiang Xueqin), an **innovation / storytelling** track (e.g. Indrawan Nugroho), and occasional **live panel collabs** (e.g. XLSMART Bravo 500).
+Endgame is a long-form interview show on YouTube hosted by [[entities/gita-wirjawan|Gita Wirjawan]]. Its transcripts may be stored under `raw/media/endgame/`.
 
-In [[sources/003-endgame-248-tom-lembong|Endgame #248]], [[entities/tom-lembong|Tom Lembong]] credits substance-oriented podcasts like Endgame as agents of [[concepts/idea-contest-and-centrism|culture and mental change]] that precede politics and economic strategy. [[entities/chatib-basri|Chatib Basri]] (#216) similarly treats substance media as a substitute education culture when household tertiary attainment is thin. [[entities/jiang-xueqin|Jiang]] (#259) frames the same medium against [[concepts/journalism-fracture|journalism fracture]] and AI Matrix risk. [[entities/keyu-jin|Keyu]] (#239) uses it to explain China’s [[concepts/mayor-economy|mayor economy]] to a SEA audience. [[entities/indrawan-nugroho|Indrawan]] (#65) presses [[concepts/meaning-full-storytelling|meaning-full storytelling]] as the content standard for that same medium.
+The show covers several areas. One track focuses on Indonesian policy. The Luminaries and campus track includes conversations at institutions such as Stanford. Other tracks cover China's political economy, with guests such as Keyu Jin; geopolitics and consciousness, with guests such as Jiang Xueqin; and innovation and storytelling, with guests such as Indrawan Nugroho. The show also takes part in occasional live panel collaborations, such as XLSMART Bravo 500.
 
-## Ingested episodes / panels
+In [[sources/003-endgame-248-tom-lembong|Endgame #248]], [[entities/tom-lembong|Tom Lembong]] says serious podcasts such as Endgame can change culture and ways of thinking before politics and economic strategy change. This idea connects to [[concepts/idea-contest-and-centrism|culture and mental change]].
 
-| # / label | Guest / panel | Wiki source |
-|-----------|---------------|-------------|
+[[entities/chatib-basri|Chatib Basri]] says in episode #216 that serious media can partly replace an educational culture when few people in a household have attended university. In episode #259, [[entities/jiang-xueqin|Jiang]] places the medium against [[concepts/journalism-fracture|journalism fracture]] and the risk of an AI-controlled “Matrix.” In episode #239, [[entities/keyu-jin|Keyu]] uses it to explain China's [[concepts/mayor-economy|mayor economy]] to a Southeast Asian audience. In episode #65, [[entities/indrawan-nugroho|Indrawan]] argues that [[concepts/meaning-full-storytelling|meaning-full storytelling]] should be the standard for this kind of media.
+
+## Ingested episodes and panels
+
+| Number or label | Guest or panel | Wiki source |
+|-----------------|----------------|-------------|
 | 65 | [[entities/indrawan-nugroho\|Indrawan Nugroho]] | [[sources/012-endgame-65-indrawan-nugroho]] |
 | 193 | [[entities/michael-levitt\|Michael Levitt]] (Luminaries) | [[sources/004-endgame-193-michael-levitt]] |
 | 216 | [[entities/chatib-basri\|Chatib Basri]] | [[sources/006-endgame-216-chatib-basri]] |
@@ -30,4 +34,4 @@ In [[sources/003-endgame-248-tom-lembong|Endgame #248]], [[entities/tom-lembong|
 
 ## Missing
 
-Show thesis, recommended episode list, and whether transcripts are systematically archived here.
+This page still needs a clear statement of the show's overall purpose, a list of recommended episodes, and confirmation of whether its transcripts are archived systematically. It remains a stub.

@@ -2,7 +2,7 @@
 title: Decentralization Paradox
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [governance, china, indonesia, decentralization]
 sources: [sources/003-endgame-248-tom-lembong, sources/009-endgame-239-keyu-jin]
 status: active
@@ -10,24 +10,24 @@ status: active
 
 # Decentralization Paradox
 
-Comparative frame from [[sources/003-endgame-248-tom-lembong|Endgame #248]] (Tom) and primary source [[sources/009-endgame-239-keyu-jin|Endgame #239]] ([[entities/keyu-jin|Keyu Jin]]): **China is politically central but economically decentral**; many democracies (incl. Indonesia’s lived practice) are **politically decentral but economically central** — with primary-city growth outrunning secondary regions.
+This comparison comes from Tom in [[sources/003-endgame-248-tom-lembong|Endgame #248]] and from [[entities/keyu-jin|Keyu Jin]] in [[sources/009-endgame-239-keyu-jin|Endgame #239]]. **China has centralized politics but decentralized economic competition.** Many democracies, including Indonesia in practice, have **decentralized politics but centralized economic activity**. Their main cities grow faster than secondary cities and regions.
 
 ## Mechanism: [[concepts/mayor-economy|Mayor economy]]
 
-Keyu’s term for the local-tournament machine: mayors/districts compete on growth and now tech; firms can exit to rival cities; success is copied and recognized. Same framework explains unicorn nurture **and** debt/overcapacity/underconsumption. Tom (#248) already cited her by name before this primary ingest — see dedicated page.
+Keyu uses this term for competition among local governments. Mayors and districts compete for growth and, increasingly, technology firms. A poorly treated firm can move to a rival city. Successful local policies are copied and publicly recognized. The same system can help create unicorns while also producing debt, excess capacity, and weak consumption. Tom (#248) cited her before the primary source was added. See the dedicated page.
 
 ## Indonesia gap (Tom)
 
 - Decentralization remains desirable
-- But regions report **no clear center expectations**: few KPIs, benchmarks, model APBD structures, or “academy” for governors/bupatis/walikotas
-- Default Jakarta instinct: micromanage because “regions can’t be trusted” — better fix is **education + selection + transparency**, not central control of everything
+- Regions report **unclear expectations from the center**. They receive few performance measures, benchmarks, model local-budget structures, or training academies for governors, regents, and mayors.
+- Jakarta often responds by controlling details because “regions can’t be trusted.” A better answer is **education, better selection, and transparency**, not central control of everything.
 - Accountability and transparency substitute for micromanagement; China framed as refusing to swap accountability for mere authority
 
 ## Keyu’s advice to decentralized democracies (#239)
 
 - Accountability + public recognition for local prosperity (glory of a reform that gets copied)
-- Some state capacity used well can be effective (West ironically copying industrial policy)
-- Hard honesty: many fastest-growth episodes historically were not in high-debate democracies — political barriers remain
+- Effective use of government capacity can work. Western countries are now copying parts of industrial policy.
+- A difficult historical point is that many of the fastest growth periods did not occur in democracies with extensive debate. Political barriers remain.
 
 ## Cautionary parallel
 

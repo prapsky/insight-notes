@@ -2,7 +2,7 @@
 title: Attention as Wealth
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [consciousness, attention, wealth, power, ai]
 sources: [sources/008-endgame-259-jiang-xueqin]
 status: active
@@ -10,25 +10,27 @@ status: active
 
 # Attention as Wealth
 
-Claim ([[entities/jiang-xueqin|Jiang Xueqin]], [[sources/008-endgame-259-jiang-xueqin|Endgame #259]]): **wealth is attention and consciousness**, not money. Money is a tool to extract and store wealth. **Power** is the capacity to direct and focus attention.
+[[entities/jiang-xueqin|Jiang Xueqin]] argues that **attention and consciousness are the real forms of wealth**, not money. Money is a tool used to draw out and store that wealth. **Power** is the ability to direct and focus people’s attention. Source: [[sources/008-endgame-259-jiang-xueqin|Endgame #259]].
 
-## Plato’s cave (his framing)
+## His use of Plato’s cave
 
-Prisoners see elite-cast shadows as reality; collective consciousness projects and hallucinates the world. Whoever directs attention directs what “is.”
+In Plato’s cave, prisoners mistake shadows for reality. In Jiang’s version, elites cast the shadows. Society’s shared consciousness then projects and imagines the world. Whoever directs attention influences what people accept as real.
 
-## Money → attention shift
+## The shift from money to AI
 
 | Era tool | Role |
 |----------|------|
-| **Money** | Long easiest way to focus human attention on work / craft |
-| **Fiat excess** | Overproduced money → lost drive → excess wealth destroyed (often via war) |
-| **AI** | New intimate director of attention (companions, assistants, “Matrixes”) — see [[concepts/techno-marxism]] |
+| **Money** | For a long time, the easiest way to focus human attention on work and craft |
+| **Excess fiat money** | Too much government-issued money reduces motivation; excess wealth is then destroyed, often through war |
+| **AI** | A new and intimate director of attention through companions, assistants, and personal “Matrixes” — see [[concepts/techno-marxism]] |
 
-Craftsmanship example: heart-and-soul vase = attention made into world-wealth; conflating that with money-numbers was the category error.
+Jiang uses craftsmanship as an example. A vase made with heart and soul turns attention into wealth in the world. Treating that wealth as identical to a number of money units is a category mistake.
 
 ## Closing ethic
 
-“You matter, but you have to choose to matter” — elite (in his telling) hid the message that individual consciousness can be a “ray of light.” Bridges to [[concepts/idea-contest-and-centrism]] (agency to seek truth) and Great Books education under [[concepts/soft-infrastructure-teachers]].
+“You matter, but you have to choose to matter.” In Jiang’s telling, elites hid the message that an individual consciousness can be a “ray of light.”
+
+This connects with [[concepts/idea-contest-and-centrism]], which emphasizes a person’s ability to seek truth. It also connects with Great Books education under [[concepts/soft-infrastructure-teachers]].
 
 ## Related
 

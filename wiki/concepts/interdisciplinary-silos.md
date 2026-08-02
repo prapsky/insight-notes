@@ -2,7 +2,7 @@
 title: Interdisciplinary Silos
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [academia, institutions, interdisciplinarity, education]
 sources: [sources/004-endgame-193-michael-levitt]
 status: active
@@ -10,19 +10,19 @@ status: active
 
 # Interdisciplinary Silos
 
-Claim ([[entities/michael-levitt|Michael Levitt]], [[sources/004-endgame-193-michael-levitt|Endgame #193]]): academic **disciplines are artificial**. They persist less because nature is carved that way than because **teaching** needs people who took Chem 101 to teach Chem 101 — hiring then reinforces silos.
+[[entities/michael-levitt|Michael Levitt]] argues that academic **disciplines are artificial divisions**. Nature itself is not divided into departments. The divisions continue partly because teaching systems reproduce them. For example, a university hires someone who took Chemistry 101 to teach Chemistry 101. This hiring pattern then strengthens the same departmental boundaries. Source: [[sources/004-endgame-193-michael-levitt|Endgame #193]].
 
-## Antidotes he cites
+## Ways to break the silos
 
-- **Stanford Bio-X** — “X” = Bio-anything (computing, unknown), deliberate silo-break
-- **Israeli co-location** — many faculties in one building; fewer departmental walls
-- **Seed grants** ($20–50k unrestricted) that force random cross-discipline pairings — like sexual recombination producing new fields ([[concepts/diversity-as-evolutionary-strategy]])
-- Online recording of the best teacher ever as alternative to siloed “who took the course”
+- **Stanford Bio-X:** The “X” means biology combined with anything, including computing or an unknown field. The program is designed to cross departmental boundaries.
+- **Israeli co-location:** Many faculties share one building. This creates fewer physical walls between departments.
+- **Seed grants:** Unrestricted grants of $20,000–$50,000 pair people from different disciplines. Levitt compares this with sexual recombination producing new fields ([[concepts/diversity-as-evolutionary-strategy]]).
+- **Recorded online teaching:** Students could learn from the best recorded teacher instead of relying only on whoever previously took the course.
 
 ## Personal proof point
 
-His own path: physics → biology → Nobel in chemistry → epidemiology interest — “treat life as a buffet.”
+Levitt’s own path moved from physics to biology, then to a Nobel Prize in chemistry, followed by an interest in epidemiology. His advice is to “treat life as a buffet.”
 
 ## Bridge in this vault
 
-Relevant to [[concepts/stem-talent-pipeline]] (how Indonesia trains and mixes talent) and to wiki practice itself ([[concepts/llm-wiki]] spans sources without departmental walls).
+This idea relates to [[concepts/stem-talent-pipeline]], which asks how Indonesia trains talent and connects people across fields. It also applies to this wiki. [[concepts/llm-wiki]] connects knowledge from many sources without using departmental walls.

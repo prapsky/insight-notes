@@ -2,7 +2,7 @@
 title: Physical vs Cryptographic Sovereignty
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [ai, data, sovereignty, cloud, indonesia]
 sources: [sources/007-bravo-500-ai-panel, sources/008-endgame-259-jiang-xueqin]
 status: active
@@ -10,7 +10,7 @@ status: active
 
 # Physical vs Cryptographic Sovereignty
 
-Distinction drawn by [[entities/sai-prasad|Sai Prasad]] ([[sources/007-bravo-500-ai-panel|Bravo 500 panel]]) for countries that want **data sovereignty** but face global **power / chip / silicon** constraints.
+[[entities/sai-prasad|Sai Prasad]] separates data sovereignty into two types. This distinction is useful for countries that want control over their data but face global shortages of electricity, chips, and silicon. Source: [[sources/007-bravo-500-ai-panel|Bravo 500 panel]].
 
 ## Two meanings of “sovereignty”
 
@@ -19,14 +19,14 @@ Distinction drawn by [[entities/sai-prasad|Sai Prasad]] ([[sources/007-bravo-500
 | **Physical** | Local data centers, local services/models, visible presence | Energy ([[concepts/ai-electrification-threshold]]), GPUs, lead times |
 | **Cryptographic** | Trace data leaving; lock rules for which data is used for what | Policy design, mid-level talent, operational discipline |
 
-Policy instinct: “I need to *see* it here to believe it is here.” Sai’s claim: waiting for physical hyperscale (“big bang”) while usage already runs on foreign stacks leaves the country dependent; **cryptographic control is the nearer starting point**.
+Policymakers often think, “I need to *see* the infrastructure here to believe the data is here.” Sai warns that waiting for a very large local data-center buildout leaves the country dependent while people already use foreign technology stacks. He argues that **cryptographic control is the more immediate starting point**.
 
 ## Operating implications
 
-- **Standardize mid-level talent** so teams run within regulatory boundaries and squeeze value from *existing* infra — not only science-project pilots
-- **Fit-for-purpose compute** (cloud / laptop / mobile) under agentic workloads that burn more energy than chat
-- **Hello-world then guardrails** — learn by doing (sandboxes); ring-fence after value paths exist ([[concepts/government-4-0-and-agile-regulation]])
-- Franky’s complement: sovereign *data control* ≠ building a national DeepSeek ([[concepts/copy-with-pride-application-layer]])
+- **Standardize mid-level talent.** Teams need practical skills to work within regulations and get more value from *existing* infrastructure. The goal is not only to run experimental science projects.
+- **Use computing that fits the task.** Workloads can run in the cloud, on laptops, or on mobile devices. AI agents that act on a user’s behalf may use more energy than chat.
+- **Start with a basic working example, then add guardrails.** Use controlled test environments to learn by doing. Restrict the system after useful paths are understood ([[concepts/government-4-0-and-agile-regulation]]).
+- Franky adds that sovereign *control of data* is not the same as building a national DeepSeek ([[concepts/copy-with-pride-application-layer]]).
 
 ## Contested bridge: Jiang Techno-Marxism
 

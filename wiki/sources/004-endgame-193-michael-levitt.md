@@ -2,7 +2,7 @@
 title: Endgame #193 — Michael Levitt
 type: source
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [science, ai, biology, evolution, interview, endgame]
 sources: []
 status: active
@@ -23,42 +23,42 @@ status: active
 
 ## Summary
 
-Conversation with Nobel Chemistry 2013 laureate (structural biology, Stanford): serendipitous path from South Africa → UK → Israel → Cambridge → Stanford; why disciplines are teaching silos; molecular dynamics and early computational biology; then a framing of three intelligences — human, artificial, and **biological** — with diversity (sexual reproduction as portfolio diversification) as evolution’s survival lesson. AI is treated as tutor/democratizer, not primary existential threat. COVID analysis appears late and is filed only as a short contested note.
+Michael Levitt, a Stanford structural biologist who won the 2013 Nobel Prize in Chemistry, describes an unexpected career path from South Africa to the UK, Israel, Cambridge, and Stanford. He argues that academic disciplines are separate mainly because universities teach them separately. He explains molecular dynamics (using computers to simulate how molecules move) and the early history of computational biology. He then describes three kinds of intelligence: human, artificial, and **biological**. For him, sexual reproduction creates diversity in the same way that an investor spreads risk across a portfolio. This diversity helps species survive an uncertain future. He sees AI mainly as a tutor and a tool that broadens access, not as the largest threat to humanity. His COVID discussion appears late and remains only as a short contested note.
 
 ## Core claims (attributed)
 
 ### Path, luck, failure
 
-1. **Nobel = luck; consequences more deterministic** — Many deserve prizes; selection is unpredictable. Curiosity + mother who pushed early matriculation + snooker night → skip school → Pretoria → London visit → stay.
-2. **TV as recruiting tool** — John Kendrew’s *The Thread of Life* (1964) redirected him into molecular biology; chose King’s College physics (principles over memorization).
-3. **Counteroffer after “no”** — Kendrew rejected PhD; business-school friends taught him to counter (“next year”); then corridor ambush of Max Perutz; condition = year in Israel at Weizmann (met Warshel — Nobel chain).
-4. **Serendipity compounds** — Hitchhiking friend + Crick books → early Cambridge network; failure is “a very important part of success.” ([[concepts/scientific-serendipity-and-failure|Scientific serendipity & failure]])
+1. **Winning a Nobel Prize involves luck.** Many people deserve prizes, and the final choice is unpredictable. His own path combined curiosity, a mother who pushed him to finish school early, and chance events. A night of snooker led him to skip school, attend Pretoria, visit London, and then stay there.
+2. **Television changed his field.** John Kendrew’s 1964 program *The Thread of Life* drew him toward molecular biology. He chose physics at King’s College because he preferred learning principles to memorizing facts.
+3. **He answered rejection with a counteroffer.** Kendrew rejected his PhD application. Business-school friends taught him to suggest “next year” instead. He then approached Max Perutz in a corridor. Acceptance required a year at the Weizmann Institute in Israel, where he met Warshel and began the chain that later led to the Nobel.
+4. **Chance opportunities build on one another.** A friend met while hitchhiking and books by Crick helped him enter the early Cambridge network. He says failure is “a very important part of success.” ([[concepts/scientific-serendipity-and-failure|Scientific serendipity & failure]])
 
 ### Interdisciplinarity
 
-5. **Disciplines are artificial** — Silos persist because hiring needs people who can teach Chem 101 (took Chem 101). Stanford Bio-X and Israeli co-located faculties deliberately break silos. ([[concepts/interdisciplinary-silos|Interdisciplinary silos]])
-6. **Life as buffet** — Take what you like; don’t complain about the rest — applied to disciplines and governance systems alike.
+5. **Academic disciplines are artificial boundaries.** Departments remain separate partly because universities hire people to teach basic courses such as Chem 101. Stanford Bio-X and Israeli universities place different faculties together to break these boundaries. ([[concepts/interdisciplinary-silos|Interdisciplinary silos]])
+6. **Treat life as a buffet.** Take what is useful and do not complain about the rest. He applies this idea to both academic fields and systems of government.
 
 ### Computation, molecular dynamics, AI
 
-7. **Molecular dynamics** — Proteins are continually moving; static structures are sculptures; warm-blooded life optimizes moving proteins. Computers make “movies” that reveal unexpected interactions.
-8. **Nobel trio** — Karplus, Warshel, Levitt: first real use of computers in biology; Volvo metaphor — if cars improved like compute over ~45 years: $1 Volvo, 50k passengers, 2M km/h, parks in a shoebox (~10,000× on size/speed/cost/capacity).
-9. **Everything he did was “AI” of a kind** — Machine learning / least squares long before LLMs. ChatGPT (first encounter ~Dec 2022, Israel beach) as smart, dispassionate friend; 10,000+ sessions; programming, abstracts, art curation. Existential AI risk ranked below nuclear war and human stupidity; AI can make people smarter. Smartphones + AI = democratizing tools.
+7. **Molecular dynamics shows that proteins move constantly.** A static protein structure is like a sculpture. Warm-blooded life depends on proteins working while moving. Computer “movies” can reveal interactions that a still image misses.
+8. **Karplus, Warshel, and Levitt made the first major use of computers in biology.** Levitt uses a Volvo comparison to show about 45 years of computing progress. If cars had improved at the same rate, a Volvo would cost $1, carry 50,000 people, travel at 2 million km/h, and fit in a shoebox. That is about a 10,000-fold improvement across size, speed, cost, and capacity.
+9. **Much of his earlier work was a form of AI.** He used machine learning and least squares long before large language models. He first tried ChatGPT around December 2022 on a beach in Israel. He now treats it as a smart, calm friend and has used it in more than 10,000 sessions for programming, abstracts, and art curation. He ranks nuclear war and human stupidity above AI as existential threats. He believes AI can make people smarter, while smartphones and AI can broaden access.
 
 ### Biological intelligence & diversity
 
-10. **Three intelligences on Earth** — Human (HI), Artificial (AI), Biological (BI). BI invented molecules, self-assembly, evolution; proteins are ~5nm self-assembling machines; biology builds **inside-out**, factories **outside-in**. Neural nets trace to 1943 nerve-cell models — AI informed by biology. ([[concepts/biological-intelligence|Biological intelligence]])
-11. **Diversity = don’t know the future** — Cloning survives but doesn’t create macroscopic diversity; sexual reproduction mixes random 50% from each parent — like a banker diversifying. Long-term species survival depends on diversity; cultural/individual care for the vulnerable is framed as biological necessity. ([[concepts/diversity-as-evolutionary-strategy|Diversity as evolutionary strategy]])
-12. **Young people as disruption** — NIH first-grant median age rose ~20 years over ~30 years (older evaluators disconnect from 20-year-olds). Gates/Jobs/Zuckerberg/Page/Brin started young; seniors know too much to be disruptive. Bio-X seed grants pair random disciplines like mother+father → new fields.
-13. **Homogeneous nations** — Will diversify via globalization, digital media, AI; aging (Japan, Korea, N. Italy) eased by care robots; simultaneous translation collapses language barriers; Meta’s Cicero (Diplomacy) as polite strategic AI example.
+10. **Earth has three kinds of intelligence.** They are human intelligence (HI), artificial intelligence (AI), and biological intelligence (BI). BI produced molecules, self-assembly, and evolution. Proteins are self-assembling machines about 5 nanometers wide. Biology builds **inside-out**, while factories build **outside-in**. Neural networks trace back to 1943 models of nerve cells, so biology helped inspire AI. ([[concepts/biological-intelligence|Biological intelligence]])
+11. **Diversity protects against an unknown future.** Cloning can preserve life but does not create large-scale diversity. Sexual reproduction randomly combines 50% from each parent, much like a banker diversifying investments. Long-term survival depends on diversity. He therefore presents care for vulnerable people as a biological necessity. ([[concepts/diversity-as-evolutionary-strategy|Diversity as evolutionary strategy]])
+12. **Young people often create disruption.** He says the median age for a first NIH grant rose by about 20 years over about 30 years, creating distance between older reviewers and people in their twenties. Gates, Jobs, Zuckerberg, Page, and Brin began young. Older experts may know too much about existing limits to challenge them. Bio-X seed grants deliberately pair distant disciplines, like combining two parents, to create new fields.
+13. **Homogeneous countries will become more diverse.** Globalization, digital media, and AI will drive this change. Care robots may help aging societies such as Japan, Korea, and northern Italy. Live translation may reduce language barriers. He cites Meta’s Cicero, which plays Diplomacy, as an example of polite strategic AI.
 
 ### Advice to the young
 
-14. Retain curiosity of a 5-year-old; be open and take chances; do what you love; young people must break old systems; **learn to make mistakes** — good scientist wrong ~90%, great scientist ~99% (harder questions). Use AI as personal tutor to fail and learn.
+14. Keep the curiosity of a 5-year-old. Stay open, take chances, and do work you love. Young people must challenge old systems and **learn to make mistakes**. A good scientist is wrong about 90% of the time, while a great scientist may be wrong about 99% because they ask harder questions. AI can be a personal tutor that makes it safer to fail and learn.
 
 ## COVID / vaccines (light contested note)
 
-> **Contested / attributed only — not expanded (ingest emphasis A):** Levitt describes a Feb 2020 China outbreak peak call from declining daily-death ratios; Diamond Princess / Wuhan age skew; ~7M COVID deaths framed as ~7 weeks of “extra” mortality vs ~60M natural deaths/year; PNAS excess-mortality claim linking outcomes more to GDP/Gini/poverty than lockdown strictness; mechanistic critique of mRNA (lipid nanoparticles → non-target cells → possible T-cell damage) vs inactivated vaccines; coronaviruses as proofreading vs influenza’s segmented chaotic mutation (“COVID like the Pope; flu like the Mafia”). Treat as interview claims requiring independent epidemiological scrutiny — do not elevate to wiki thesis without corroboration.
+> **Contested / attributed only — not expanded (ingest emphasis A):** Levitt says he identified a peak in China’s outbreak in February 2020 by observing falling ratios of daily deaths. He discusses the age distributions on the Diamond Princess and in Wuhan. He frames about 7 million COVID deaths as roughly seven weeks of “extra” mortality compared with about 60 million natural deaths per year. He cites a PNAS excess-mortality claim that connects outcomes more strongly to gross domestic product, the Gini measure of inequality, and poverty than to the strictness of lockdowns. He gives a mechanistic critique of messenger-RNA vaccines in which lipid nanoparticles may enter cells that were not intended as targets and possibly cause T-cell damage, and he contrasts these vaccines with inactivated vaccines. He says coronaviruses proofread their copying, whereas influenza mutates chaotically through its segmented genome, summarized as “COVID is like the Pope; flu is like the Mafia.” These are interview claims that require independent epidemiological scrutiny. Do not elevate them to a wiki thesis without corroboration.
 
 ## Notable quotes / framings
 
@@ -67,11 +67,11 @@ Conversation with Nobel Chemistry 2013 laureate (structural biology, Stanford): 
 - “The great strength for the future survival of humanity is diversity.”
 - “Treat life as a buffet.”
 - “A good scientist is wrong 90% of the time… a really good scientist is wrong 99%.”
-- Volvo / compute progress metaphor (Nobel banquet speech thread).
+- His Volvo comparison explains the extraordinary speed of computing progress. It comes from his Nobel banquet speech.
 
 ## Biography thread (compressed)
 
-Pretoria childhood → mother-pushed early matriculation → Pretoria University (Afrikaans) one year → London (uncle/aunt scientists) → King’s College physics BSc → rejected then accepted by Kendrew/Perutz → Weizmann year (Warshel; married Reena) → Cambridge PhD freelancing with Crick/Klug/Perutz → computational biology pioneer → Stanford structural biology from 1987 → Nobel Chemistry 2013 (with Karplus & Warshel) → later epidemiology interest + heavy LLM use.
+Levitt grew up in Pretoria, and his mother pushed him to finish secondary school early. He spent one year at Pretoria University, where teaching was in Afrikaans, and then moved to London, where his uncle and aunt were scientists. He earned a bachelor’s degree in physics at King’s College. Kendrew and Perutz first rejected and then accepted him. He spent a year at the Weizmann Institute, worked with Warshel, and married Reena. During his Cambridge doctorate, he worked independently with Crick, Klug, and Perutz. He became a pioneer of computational biology and joined Stanford’s structural-biology program in 1987. In 2013, he shared the Nobel Prize in Chemistry with Karplus and Warshel. He later became interested in epidemiology and became a heavy user of large language models.
 
 ## Entities & concepts touched
 
@@ -81,7 +81,7 @@ Pretoria childhood → mother-pushed early matriculation → Pretoria University
 
 ## Open questions
 
-- How far to take BI as a design metaphor for AI systems vs poetic framing?
-- Bio-X / seed-grant “random pairing” — transferable institutional design for Indonesian STEM ([[concepts/stem-talent-pipeline]])?
-- NIH age-of-first-grant claim — need series corroboration if used as policy argument.
-- COVID contested claims: leave buried unless a dedicated epidemiology ingest arrives.
+- How far should biological intelligence be used as a design metaphor for AI systems rather than only as poetic framing?
+- Could Bio-X and its “random pairing” of seed-grant recipients provide a transferable institutional design for Indonesia’s [[concepts/stem-talent-pipeline|STEM pipeline]]?
+- The claim about the rising age at which researchers receive their first National Institutes of Health grant needs corroboration from a time series before it is used as a policy argument.
+- The contested COVID claims should remain secondary unless a dedicated epidemiology source is ingested.

@@ -2,7 +2,7 @@
 title: Money Supply vs Interest Rates
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [macro, monetary-policy, indonesia]
 sources: [sources/002-endgame-245-purbaya-sadewa, sources/005-endgame-272-martyn-terpilowski, sources/006-endgame-216-chatib-basri, sources/012-endgame-65-indrawan-nugroho]
 status: active
@@ -10,31 +10,37 @@ status: active
 
 # Money Supply vs Interest Rates
 
-Thesis (as argued by [[entities/purbaya-yudi-sadewa|Purbaya]] via Friedman): **whether policy is tight or loose is best read from money-growth (base / M0), not from the interest rate alone.**
+[[entities/purbaya-yudi-sadewa|Purbaya]], drawing on Friedman, makes this argument: **look at growth in base money, or M0, to judge whether policy is tight or loose. Do not rely only on the interest rate.**
 
-## Why rates mislead
+## Why interest rates can mislead
 
-- Rates can be near zero while money stock shrinks → still tight (Depression-style story he cites).
-- Indonesia 1998 (his reading): rates spiked (~60%) crushing the real sector while M0 grew very fast → currency/inflation stress — **contradictory** instruments.
-- US 2023 SVB episode (his reading): rates rising while M0 growth deeply negative — then reverse injection; Indonesia risked copying “tight” rhetoric without matching money dynamics.
+- Interest rates can be near zero while the amount of money shrinks. Policy can therefore still be tight. He uses the Depression as an example.
+- In his reading of Indonesia in 1998, rates rose to about 60% and hurt the real economy. At the same time, M0 grew very quickly and added pressure to the currency and inflation. The two tools worked against each other.
+- In his reading of the 2023 US Silicon Valley Bank episode, rates were rising while M0 growth was deeply negative. Authorities later injected money again. He says Indonesia risked copying the language of “tight” policy without matching the actual money dynamics.
 
-## Operational implications he draws
+## What he would do
 
-- Idle government balances at the central bank ≠ system liquidity; relocate to banks so money multiplies into credit.
-- Target **sustained double-digit M0 growth** (he cites aiming toward ~20%+) while monitoring inflation and velocity.
-- M2/GDP still low vs advanced economies → raise M0 and let the multiplier work if the real economy responds.
+- Government money sitting idle at the central bank is not the same as liquidity in the banking system. Move it to banks so they can multiply it into credit.
+- Keep M0 growth in double digits. He mentions a target of about 20% or more, while watching inflation and how quickly money circulates.
+- Indonesia’s M2-to-GDP ratio remains low compared with advanced economies. Raise M0 and let the banking multiplier work, if the real economy can use the money.
 
-## Distribution / elite narrative bridge (#272)
+## Distribution and elite narratives (#272)
 
-[[entities/gita-wirjawan|Gita]] (to Martyn): Indonesia money-supply/GDP ~**42–43%** vs Japan/HK ~**200%+** means only a finite elite can “elitize” the economic narrative — and that scarcity structurally favors connected last names attaching ideas to capital. Martyn: startup boom inflows still **tiny** vs peers and wouldn’t move M/GDP much; misallocation and weak DD mattered more than headline fundraising. Complements Purbaya’s “raise money growth” without treating boom VC as proof the system was liquid.
+[[entities/gita-wirjawan|Gita]] tells Martyn that Indonesia’s money-supply-to-GDP ratio is about **42–43%**, compared with more than **200%** in Japan and Hong Kong. In his view, scarce capital lets a small elite dominate economic narratives. It also favors people with connected family names who can attach ideas to capital.
 
-## Chatib’s savings / ICOR bridge (#216)
+Martyn says startup-boom inflows were still **tiny** compared with peer countries. They would not have changed the money-to-GDP ratio much. He sees poor capital allocation and weak due diligence as more important than headline fundraising. This supports Purbaya’s call for more money growth, but it does not treat a venture-capital boom as proof that the whole system had enough liquidity.
 
-[[entities/chatib-basri|Chatib]] cites money/GDP ~**45%** as a **domestic financing ceiling**: ICOR ~6.6–6.8 → 7% growth needs I/GDP ~48% vs domestic savings ~37% → capital must come from abroad ([[concepts/fdi-climate]]). Under a strong-dollar / stuck-Fed scenario, BI rate cuts are constrained by 1998 trauma; fiscal expansion crowded by debt service — so liquidity theses and FDI theses meet at the same binding wall. Aligns directionally with Gita’s low M/GDP scarcity story without adopting Purbaya’s M0-targeting prescription.
+## Chatib’s savings and ICOR bridge (#216)
 
-## Indrawan duration bridge (#65)
+[[entities/chatib-basri|Chatib]] cites a money-to-GDP ratio of about **45%** as a limit on domestic financing. The incremental capital-output ratio, or ICOR, is about 6.6–6.8. On that arithmetic, 7% growth requires investment equal to about 48% of GDP. Domestic savings are only about 37%, so some capital must come from abroad ([[concepts/fdi-climate]]).
 
-[[entities/indrawan-nugroho|Indrawan]] cites the same ~**45%** ballpark vs advanced ~**150–250%** / Singapore ~**125%**, but stresses **duration**: US pension-style pools can wait ~20–30 years (Amazon-class horizons); Indonesian capital often recycles in ~7 years. Raising M/GDP without [[concepts/patient-capital-uang-sabar|patient capital]] still starves long builds. Complements stock-of-money theses with a maturity/patience cut.
+If the US dollar stays strong and the Federal Reserve keeps rates high, Bank Indonesia has less room to cut rates because of the trauma of 1998. Debt service also limits fiscal expansion. Liquidity and foreign investment therefore meet the same financing constraint. This broadly matches Gita’s scarcity story, but Chatib does not adopt Purbaya’s M0 target.
+
+## Indrawan’s time-horizon bridge (#65)
+
+[[entities/indrawan-nugroho|Indrawan]] cites the same approximate **45%** figure. He compares it with about **150–250%** in advanced economies and about **125%** in Singapore. But he stresses how long capital can wait. US pension-style funds can wait about 20–30 years, which suits Amazon-like projects. Indonesian capital often must return in about 7 years.
+
+Raising the money-to-GDP ratio without [[concepts/patient-capital-uang-sabar|patient capital]] would still leave long projects short of funding. The amount of money matters, but so does its time horizon.
 
 ## Related
 
@@ -42,4 +48,4 @@ Thesis (as argued by [[entities/purbaya-yudi-sadewa|Purbaya]] via Friedman): **w
 
 ## Contested
 
-Monetarist M0 targeting is debated in modern central banking. This page records *his* operational frame, not consensus macro. M/GDP levels and causal link to patronage are interview claims — corroborate before policy use.
+Modern central bankers debate whether policy should target M0 in this monetarist way. This page records *his* operating framework, not a consensus view. The money-to-GDP figures and the claimed link to patronage come from interviews. Confirm them before using them for policy.

@@ -2,7 +2,7 @@
 title: LLM Wiki Pattern
 type: source
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [meta, knowledge-management, foundational]
 sources: []
 status: active
@@ -16,21 +16,21 @@ status: active
 
 ## Summary
 
-Argues that typical LLM+document workflows ([[concepts/rag|RAG]], NotebookLM, file uploads) rediscover knowledge from scratch on every question. The alternative: an LLM that **incrementally builds and maintains a persistent wiki** between the human and raw sources. Knowledge is compiled on ingest and kept current — not re-derived at query time.
+Typical LLM and document tools ([[concepts/rag|RAG]], NotebookLM, and file uploads) search the source material again for every question. This note proposes a different approach. An LLM **gradually builds and maintains a permanent wiki** between the human and the raw sources. It organizes knowledge when a source is added and keeps that knowledge current. It does not rebuild the same understanding for every query.
 
 ## Core claims
 
-1. A wiki sitting between raw sources and questions is a **compounding artifact** — cross-refs, contradictions, and synthesis accumulate.
-2. Three layers: immutable **raw sources**, LLM-owned **wiki**, and a **[[concepts/schema|schema]]** that enforces discipline.
-3. Three primary ops: [[concepts/ingest|ingest]], [[concepts/query-filing|query]] (with filing), [[concepts/wiki-lint|lint]].
-4. `index.md` + `log.md` are enough navigation at moderate scale (~100 sources); search tools optional later.
-5. Humans abandon wikis due to maintenance cost; LLMs make maintenance near-zero — solving the Memex problem of *who keeps trails current*.
+1. A wiki between the raw sources and the questions becomes more useful over time. Cross-references, contradictions, and combined insights continue to accumulate.
+2. The system has three layers: **raw sources** that never change, a **wiki** maintained by the LLM, and a **[[concepts/schema|schema]]** (a set of organizing rules) that keeps the work consistent.
+3. It has three main operations: [[concepts/ingest|ingest]] (add a source), [[concepts/query-filing|query]] (answer and save useful results), and [[concepts/wiki-lint|lint]] (check the wiki's health).
+4. At a moderate size of about 100 sources, `index.md` and `log.md` provide enough navigation. Search tools can be added later if needed.
+5. People often abandon wikis because maintenance takes too much work. LLMs can make that work almost free. This addresses the Memex problem: *who keeps the knowledge trails current?*
 
 ## Notable ideas
 
 - "Obsidian is the IDE; the LLM is the programmer; the wiki is the codebase."
-- Good query answers should be **filed back** into the wiki so exploration compounds.
-- Conceptual lineage: [[entities/vannevar-bush|Vannevar Bush]]'s [[concepts/memex|Memex]] (1945).
+- Useful query answers should be **saved back** into the wiki. This makes later exploration build on earlier work.
+- The idea follows [[entities/vannevar-bush|Vannevar Bush]]'s [[concepts/memex|Memex]] from 1945.
 
 ## Entities & concepts touched
 
