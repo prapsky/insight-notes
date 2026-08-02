@@ -66,8 +66,11 @@ status: active | stub | superseded
 - When you mention a concept/entity that has a page, always link it
 
 ### Tone & Content
-- Write for a future you who has forgotten the context
-- Be precise; cite source pages inline when making claims
+- **Write for beginners.** Use simple, everyday language. Assume the future reader forgot the context *and* is not an expert in the topic.
+- Prefer short sentences (about 15–20 words). One idea per sentence when possible.
+- Explain jargon on first use in plain words or a short parenthesis (e.g. FDI = foreign direct investment).
+- Avoid dense shorthand: no telegram-style bullets, no arrow stacks (`A → B → C`), no unexplained acronyms, no academic compound phrases when a plain sentence works.
+- Be precise; cite source pages inline when making claims. Simple language must not invent or soften facts.
 - Flag uncertainty and contradictions explicitly (see Contradictions below)
 - Prefer short sections with clear headings over walls of prose
 - Stubs are fine — mark `status: stub` and note what's missing
@@ -117,14 +120,16 @@ Trigger: human drops a source into `raw/` (or pastes content) and asks to ingest
 1. **Read** the source fully from `raw/` (never modify it). If images are referenced, read text first, then view key images separately.
 2. **Discuss** key takeaways with the human (unless they asked for unsupervised/batch mode). Confirm emphasis before writing if the source is ambiguous or personal.
 3. **Assign** next source number: check `wiki/sources/` for the highest NNN, increment by 1.
-4. **Write** `wiki/sources/NNN-slug.md` — summary with: metadata, core claims, notable quotes, open questions, links to entities/concepts touched.
-5. **Update or create** relevant entity and concept pages (a single source often touches 5–15 pages).
-6. **Update** `wiki/index.md` with all new/changed pages.
-7. **Update** `wiki/overview.md` if the wiki's shape changed.
+4. **Write** `wiki/sources/NNN-slug.md` — summary with: metadata, core claims, notable quotes, open questions, links to entities/concepts touched. **Use simple beginner-friendly language** (see Tone & Content). Core claims must be full sentences a non-expert can follow.
+5. **Update or create** relevant entity and concept pages (a single source often touches 5–15 pages). Same plain-language standard as the source page.
+6. **Update** `wiki/index.md` with all new/changed pages. One-line summaries must also be plain and readable.
+7. **Update** `wiki/overview.md` if the wiki's shape changed. Keep bridges and theses in plain English.
 8. **Append** to `wiki/log.md`.
 9. **Report** to the human: list of pages created/updated, plus any contradictions or gaps found.
 
-**Batch mode:** If the human says "batch ingest" or "unsupervised", skip step 2 discussion; still write a clear log entry and end-of-batch report.
+**Language check (before finishing ingest):** skim new/changed pages for unexplained jargon, arrow shorthand, or telegraphic bullets — rewrite those spots before reporting done.
+
+**Batch mode:** If the human says "batch ingest" or "unsupervised", skip step 2 discussion; still write a clear log entry and end-of-batch report. Still apply the simple-language standard.
 
 ---
 
@@ -221,5 +226,5 @@ Then proceed with the requested operation.
 
 - Obsidian (or any markdown viewer) is the IDE; you are the programmer; the wiki is the codebase.
 - Keep the human in the loop on first-time ingests and personal/sensitive material.
-- Be concise in chat; put lasting detail into wiki pages.
+- Be concise in chat; put lasting detail into wiki pages — in **simple language**, same as ingest.
 - After edits, summarize what changed in a short bullet list of paths.

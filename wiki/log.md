@@ -251,3 +251,16 @@ Rewrote **all wiki pages** (except prior log history) into plainer English for b
 **Style changes:** shorter sentences; jargon explained on first use; telegraphic bullets expanded into full sentences; dense hyphen stacks and arrow shorthand spelled out.
 
 **Not rewritten:** past `wiki/log.md` entries (append-only). This entry records the operation.
+
+## [2026-08-02] schema | Simple language for all wiki writing
+
+Updated `.cursorrules` so every ingest (and filed wiki writing) uses **beginner-friendly plain English**.
+
+**Changes:**
+- `Tone & Content`: require short sentences, explain jargon on first use, ban dense shorthand / telegraphic bullets / unexplained acronyms
+- `Operation: Ingest`: steps 4–7 must write in plain language; added a pre-finish language check
+- `Working Style`: lasting wiki detail must match the same simple-language standard
+- `wiki/concepts/schema.md`: noted the plain-language rule
+- `wiki/concepts/ingest.md`: language requirement under Design preference
+
+Existing wiki pages were rewritten to this standard in the prior lint entry on 2026-08-02.

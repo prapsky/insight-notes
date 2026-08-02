@@ -24,3 +24,7 @@ Ingest is a wiki operation. It takes one raw source, or a batch of raw sources, 
 ## Design preference
 
 The default is **one source at a time**, with the human involved. Batch mode is available when requested.
+
+## Language
+
+All pages written during ingest must use **simple, beginner-friendly English**. Short sentences. Explain jargon on first use. Avoid telegraphic bullets. See [[concepts/schema|Schema]] / `.cursorrules` Tone & Content.
