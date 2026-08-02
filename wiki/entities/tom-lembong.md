@@ -2,7 +2,7 @@
 title: Tom Lembong
 type: entity
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [person, indonesia, policy, finance, ethics]
 sources: [sources/003-endgame-248-tom-lembong]
 status: active
@@ -10,39 +10,39 @@ status: active
 
 # Tom Lembong
 
-Indonesian policymaker / public figure interviewed in [[sources/003-endgame-248-tom-lembong|Endgame #248]]. Former investment-agency orbit (BKPM, with [[entities/gita-wirjawan|Gita]]); later campaign-era collaborator on an [[concepts/ownership-society|ownership society]] framing; discusses criminalization, ~9 months detention, and abolition as a spiritual turning point.
+Tom Lembong is an Indonesian policymaker and public figure. He was interviewed in [[sources/003-endgame-248-tom-lembong|Endgame #248]]. He worked around BKPM, Indonesia's investment agency, alongside [[entities/gita-wirjawan|Gita]]. He later collaborated during an election campaign on the idea of an [[concepts/ownership-society|ownership society]], in which people gain lasting ownership instead of only short-term benefits. In the interview, he discusses criminalization, about nine months of detention, and abolition as a spiritual turning point.
 
 > Claims and biography details below are from that interview unless another source is linked.
 
-## Formation
+## Background
 
-- Intellectual household: physician father (high credentialism, ambition, admitted arrogance); mother as heart/nurani counterweight
-- Childhood in Germany (~ages 3–10); German-language schooling; later Jakarta (e.g. Regina Pacis)
-- Deerfield Academy → Harvard undergrad (architecture track redirected to finance)
-- Early Wall Street fascination (JP Morgan as private crisis backstop before the Fed)
+Tom grew up in an intellectual household. His father was a physician who strongly valued credentials and ambition, and admitted to arrogance. His mother provided a balance through heart and *nurani*, or conscience.
 
-## Working theses (filed concepts)
+He lived in Germany from about age three to ten and attended German-language schools. He later lived in Jakarta and attended schools including Regina Pacis. He went to Deerfield Academy and then Harvard. He first considered architecture but moved toward finance.
 
-| Theme | Hub |
-|-------|-----|
-| Teachers / soft infrastructure | [[concepts/soft-infrastructure-teachers]] |
-| Center–region accountability | [[concepts/decentralization-paradox]], [[concepts/mayor-economy]] (Keyu primary: [[sources/009-endgame-239-keyu-jin]]) |
-| Licensing rents → long-term stakes | [[concepts/ownership-society]] |
-| Failure without criminal stigma | [[concepts/risk-as-innovation-fuel]] |
-| Populism burnout → open idea contest | [[concepts/idea-contest-and-centrism]] |
-| FDI prerequisites | [[concepts/fdi-climate]], [[concepts/uncertainty-to-risk-translation]] |
+As a young person, he was fascinated by Wall Street. He was especially interested in how J.P. Morgan acted as a private backstop during financial crises before the Federal Reserve existed.
 
-## Character motifs (from #248)
+## Main ideas in this wiki
 
-- Rehabilitate **ambisi** as positive; demand **imajinasi** in policy and communication
-- **Saleh sosial** over ritual piety; character in micro-interactions
-- Anti–tiger parenting with own children; intensity softened after prison
-- Luck + humility + openness; ikhtiar then tawakal
+- [[concepts/soft-infrastructure-teachers]] explains why teachers and other human institutions matter alongside physical infrastructure.
+- [[concepts/decentralization-paradox]] and [[concepts/mayor-economy]] examine accountability between central and regional government. The primary Keyu source is [[sources/009-endgame-239-keyu-jin]].
+- [[concepts/ownership-society]] proposes replacing income from licenses with long-term ownership stakes.
+- [[concepts/risk-as-innovation-fuel]] argues that failure should not automatically carry criminal stigma.
+- [[concepts/idea-contest-and-centrism]] describes moving from populist exhaustion toward an open contest of ideas.
+- [[concepts/fdi-climate]] and [[concepts/uncertainty-to-risk-translation]] describe the conditions needed for foreign direct investment.
 
-## Cross-links to Purbaya ingest
+## Personal themes (from #248)
 
-Shares Gita’s FDI framing: rule of law + uncertainty→priced risk ([[sources/002-endgame-245-purbaya-sadewa|Endgame #245]]). Tom stresses **culture, teachers, licensing incentives, and risk stigma** more than money-growth / satgas mechanics.
+Tom wants **ambisi**, or ambition, to be seen as positive. He also asks for more **imajinasi**, or imagination, in policy and communication.
+
+He values **saleh sosial**, meaning social goodness, more than ritual piety. He sees character in small daily interactions. With his own children, he rejects “tiger parenting,” or intense pressure for achievement. He says prison softened his intensity.
+
+He also emphasizes luck, humility, and openness. His formula is *ikhtiar*, making a serious effort, followed by *tawakal*, accepting what happens.
+
+## Connection to Purbaya
+
+Tom shares Gita's view that foreign investment needs rule of law and a way to turn uncertainty into risk that can be priced ([[sources/002-endgame-245-purbaya-sadewa|Endgame #245]]). Tom puts more emphasis on culture, teachers, licensing incentives, and the stigma around risk. Purbaya puts more emphasis on money growth and investment task forces.
 
 ## Missing
 
-Independent bio timeline (offices held, case chronology), and non-interview sources on policy proposals.
+This page still needs an independent timeline of the offices Tom held and the chronology of his case. It also needs sources outside the interview for his policy proposals.

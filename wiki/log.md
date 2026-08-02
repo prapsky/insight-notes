@@ -236,3 +236,18 @@ Twelfth ingest — **innovation culture / patient capital** layer (emphasis conf
 **Key takeaways filed:** meaning-full vs gossip narrators; artifacts need story; tech is shell / human core; open doors > prizes; 20–30y patient pools vs ~7y recycle; M/GDP ~45% duration cut; bootstrap when VC exit clocks clash.
 
 **Bridges:** patient capital ↔ money-supply + deep-tech long-termism; meaning-full storytelling ↔ soft-infra storytellers + idea contest + Jiang attention; innovation theater ↔ risk-as-fuel. Same Indrawan as #010/#011 — #65 is cultural/capital substrate for later AI essays.
+
+## [2026-08-02] lint | Beginner-friendly language rewrite
+
+Rewrote **all wiki pages** (except prior log history) into plainer English for beginners. Facts, numbers, wikilinks, contested flags, and page structure kept. No `raw/` changes.
+
+**Scope (~80 pages):**
+- `wiki/overview.md`, `wiki/index.md`
+- All `wiki/concepts/*` (46)
+- All `wiki/entities/*` (19)
+- All `wiki/sources/*` (12)
+- `wiki/comparisons/rag-vs-llm-wiki.md`
+
+**Style changes:** shorter sentences; jargon explained on first use; telegraphic bullets expanded into full sentences; dense hyphen stacks and arrow shorthand spelled out.
+
+**Not rewritten:** past `wiki/log.md` entries (append-only). This entry records the operation.

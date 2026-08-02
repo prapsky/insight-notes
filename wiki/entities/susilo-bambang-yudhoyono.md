@@ -2,7 +2,7 @@
 title: Susilo Bambang Yudhoyono (SBY)
 type: entity
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [person, indonesia, politics]
 sources: [sources/002-endgame-245-purbaya-sadewa]
 status: stub
@@ -10,12 +10,14 @@ status: stub
 
 # Susilo Bambang Yudhoyono (SBY)
 
-Former President of Indonesia. In [[sources/002-endgame-245-purbaya-sadewa|Endgame #245]], [[entities/purbaya-yudi-sadewa|Purbaya]] uses the SBY era as the **private-sector-driven growth** archetype: high average money growth, relatively relaxed government, growth near ~6%.
+Susilo Bambang Yudhoyono, commonly called SBY, is a former President of Indonesia. In [[sources/002-endgame-245-purbaya-sadewa|Endgame #245]], [[entities/purbaya-yudi-sadewa|Purbaya]] uses the SBY era as an example of growth driven by private business.
 
-## Role in the dual-engine thesis
+Purbaya describes this period as having high average money growth, a relatively relaxed government, and economic growth near 6%.
 
-Combine SBY-style private engine with Jokowi-style government push → claimed ~6.5% baseline without structural overhaul. See [[concepts/fdi-climate|FDI climate]] and [[concepts/money-supply-vs-interest-rates|money growth]].
+## Role in the two-engine idea
+
+Purbaya argues for combining an SBY-style private-business engine with a Jokowi-style government push. He claims that using both engines could produce a starting growth rate of about 6.5% without a major structural overhaul. See [[concepts/fdi-climate|FDI climate]] and [[concepts/money-supply-vs-interest-rates|money growth]].
 
 ## Missing
 
-Independent macro series for the era — stub.
+This page still needs independent economic data for the SBY era. It remains a stub.

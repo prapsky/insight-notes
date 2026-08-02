@@ -2,7 +2,7 @@
 title: Value Creation vs Value Capture
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [strategy, ai, business, innovation]
 sources: [sources/010-indrawan-perang-ai-china-vs-amerika, sources/011-indrawan-nvidia-ai-pc]
 status: active
@@ -10,25 +10,25 @@ status: active
 
 # Value Creation vs Value Capture
 
-Claim ([[entities/indrawan-nugroho|Indrawan Nugroho]], [[sources/010-indrawan-perang-ai-china-vs-amerika|#010]]): **creating** an industry-forcing innovation and **capturing** the lasting economic value are different games. Disrupters often do the first; incumbents with distribution and embedding often win the second.
+[[entities/indrawan-nugroho|Indrawan Nugroho]] argues that **creating** an innovation that forces an industry to change is different from **capturing** its lasting economic value. New challengers often create the change. Established companies often capture more value because they already have distribution and products embedded in customer operations. Source: [[sources/010-indrawan-perang-ai-china-vs-amerika|#010]].
 
-## Split
+## The difference
 
 | | Value creation | Value capture |
 |---|---|---|
-| What | Force the industry to rethink (cost, paradigm) | Turn the shift into distribution, monetization, loyal users, durable profit |
-| DeepSeek (#010) | Cheap competitive AI under chip limits | Thin — shock faded; efficiency became baseline |
-| OpenAI / Anthropic (#010) | Frontier models | Enterprise embed, Copilot/workflows, switching costs |
+| What | Force the industry to rethink its costs or basic approach | Turn the change into distribution, revenue, loyal users, and lasting profit |
+| DeepSeek (#010) | Competitive low-cost AI despite chip limits | Limited capture; the shock faded and efficiency became a basic expectation |
+| OpenAI / Anthropic (#010) | Advanced frontier models | Integration into companies, Copilot and workflows, and costs that make switching difficult |
 
 ## Why it compounds here
 
-- Pairs with [[concepts/ai-commoditization-and-enterprise-lock-in]]: once tech edge expires, capture lives in software/cloud/workflow integration
-- Hardware twin: Nvidia extending [[concepts/platform-leadership-and-ecosystem-expansion|CUDA → AI PC]] is capture of the *platform* layer as models commoditize
-- Complements Keyu’s [[concepts/process-and-diffusion-innovation]]: diffusion/cost-cut *creates* global surplus; who *captures* rents is a separate question (US enterprise vs China mass distribution)
+- This pairs with [[concepts/ai-commoditization-and-enterprise-lock-in]]. When a technical advantage disappears, value is captured through software, cloud services, and integration into work processes.
+- There is a hardware version of the same strategy. Nvidia is extending CUDA, its software platform for graphics-processor developers, from data centers into AI personal computers. It is doing so to capture the *platform* layer as AI models become widely available ([[concepts/platform-leadership-and-ecosystem-expansion]]).
+- This complements Keyu’s [[concepts/process-and-diffusion-innovation]]. Spreading technology and cutting costs *creates* benefits for the world. Who *captures* the profits is a separate question. The United States emphasizes enterprise systems, while China emphasizes mass distribution.
 
 ## Lesson he stresses
 
-Shocking an industry opens the door; owning the room behind it requires patient ecosystem building — not a single breakthrough moment.
+A breakthrough can open the door to an industry. Owning the room behind that door requires patient work to build an ecosystem. One dramatic moment is not enough.
 
 ## Related
 

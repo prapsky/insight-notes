@@ -2,7 +2,7 @@
 title: Expectation Management (Self-Fulfilling Prophecy)
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [macro, policy-design, psychology]
 sources: [sources/002-endgame-245-purbaya-sadewa]
 status: active
@@ -10,21 +10,21 @@ status: active
 
 # Expectation Management
 
-Policy design idea used by [[entities/purbaya-yudi-sadewa|Purbaya]]: create a **self-fulfilling optimistic prophecy**, then continuously add instruments so the prophecy does not die.
+[[entities/purbaya-yudi-sadewa|Purbaya]] uses this policy idea: create an **optimistic belief that helps make itself come true**. Then keep supporting that belief with real policy tools so it does not collapse.
 
-He cites Farmer’s *microeconomics of self-fulfilling prophecy* as the mental model that “still stuck.”
+He says Farmer’s *microeconomics of self-fulfilling prophecy* is the model that stayed with him.
 
-## Sequence he describes
+## The sequence he describes
 
-1. Public mood deeply pessimistic (demos, bleak outlook).
-2. **Credible swagger** — “I can / I will” — to flip narrative (including before DPR).
-3. Within days, **tools**: liquidity relocation, spending push (center + regions), monitoring.
-4. Without tools, expectations “runtuh” in ~1–2 weeks.
-5. Feedback loops: consumer confidence / trust-in-government surveys; if M0 growth slips below target, inject again.
+1. The public mood is deeply pessimistic, with demonstrations and a bleak outlook.
+2. Leaders show **credible confidence** by saying, “I can” and “I will,” including before the DPR.
+3. Within days, they use real tools. These include moving liquidity, increasing central and regional spending, and monitoring results.
+4. Without those tools, expectations can collapse in about 1–2 weeks.
+5. Leaders watch consumer-confidence and trust-in-government surveys. If M0 money growth falls below target, they inject money again.
 
 ## Why it matters here
 
-Links psychology of markets/politics to [[concepts/money-supply-vs-interest-rates|money ops]] and social stability under [[entities/prabowo-subianto|Prabowo]]. Confidence is treated as an early-warning instrument, not PR garnish.
+This idea links market and political psychology to [[concepts/money-supply-vs-interest-rates|money ops]] and social stability under [[entities/prabowo-subianto|Prabowo]]. Confidence is an early-warning measure, not merely public relations.
 
 ## Related
 

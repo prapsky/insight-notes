@@ -2,7 +2,7 @@
 title: Jiang Xueqin
 type: entity
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [person, education, geopolitics, journalism, china]
 sources: [sources/008-endgame-259-jiang-xueqin]
 status: active
@@ -10,29 +10,29 @@ status: active
 
 # Jiang Xueqin
 
-Educator, former journalist, and geopolitical/cultural commentator. Guest on [[entities/endgame-podcast|Endgame]] #259 with [[entities/gita-wirjawan|Gita Wirjawan]] ([[sources/008-endgame-259-jiang-xueqin]]).
+Jiang Xueqin is an educator, former journalist, and commentator on geopolitics and culture. He was a guest on [[entities/endgame-podcast|Endgame]] #259 with [[entities/gita-wirjawan|Gita Wirjawan]] ([[sources/008-endgame-259-jiang-xueqin]]).
 
-## Formation (self-narrated)
+## Background (as he tells it)
 
-- Chinese immigrant childhood in Toronto: poor household, father dishwasher (ex–high-school teacher, Cultural Revolution exit); trauma, racism, depression/anger
-- Yale class of 1999 — self-packaged admission; switched particle physics → English poetry (Milton breakthrough)
-- Outsider to Skull and Bones / boarding-school social hierarchy; believed idea-meritocracy until post-Yale guanxi shock
-- 1999 Beijing: translator/apprentice to Gay Talese; idealized golden-age journalism
-- Later: journalism disillusionment post-2016; teaching Great Books; public analysis of elites, AI, geopolitics
+Jiang grew up in Toronto as a Chinese immigrant. His family was poor. His father had been a high-school teacher, left China after the Cultural Revolution, and worked as a dishwasher. Jiang describes childhood trauma, racism, depression, and anger.
 
-## Theses he carries in this vault
+He graduated from Yale in 1999 after managing his own application. He began in particle physics, then moved to English poetry after a breakthrough while reading Milton.
 
-| Thesis | Hub |
-|--------|-----|
-| Wealth = attention / consciousness | [[concepts/attention-as-wealth]] |
-| AI companions + tokens → Techno-Marxism | [[concepts/techno-marxism]] |
-| Elite overproduction: finance elite vs SV/AI elite | [[concepts/elite-overproduction]] |
-| Journalism fracture; individual truth-seeking | [[concepts/journalism-fracture]] |
-| Great Books + “You matter” | [[concepts/soft-infrastructure-teachers]] (bridge) |
+At Yale, he felt outside the social world of boarding-school graduates and groups such as Skull and Bones. He believed that ideas would succeed on merit. After Yale, he was shocked by the importance of *guanxi*, or personal connections.
+
+In Beijing in 1999, he worked as a translator and apprentice to journalist Gay Talese. He idealized an earlier golden age of journalism. After 2016, he became disillusioned with journalism. He later taught the Great Books and publicly analyzed elites, AI, and geopolitics.
+
+## Main ideas in this wiki
+
+- [[concepts/attention-as-wealth]] presents wealth as control of attention or consciousness.
+- [[concepts/techno-marxism]] examines a possible system in which AI companions and digital tokens lead people toward compliance.
+- [[concepts/elite-overproduction]] describes conflict between too many aspiring elites, including financial elites and Silicon Valley or AI elites.
+- [[concepts/journalism-fracture]] covers the breakdown of shared journalism and the need for individuals to seek truth.
+- [[concepts/soft-infrastructure-teachers]] connects his Great Books teaching and the message “You matter” to the wider role of teachers.
 
 ## Caution
 
-Heavy speculative geopolitics in #259 (Iran eschatology, election integrity, secret societies) are **attributed speculation** on the source page — not standing claims about Jiang-as-oracle. Prefer his consciousness/elite/media stack for compounding.
+Episode #259 includes highly speculative geopolitics, including claims about Iranian end-times beliefs, election integrity, and secret societies. The source page records these as **attributed speculation**. They are not accepted here as established truths or proof that Jiang is an oracle. His ideas about consciousness, elites, and media are more useful for building the wiki.
 
 ## Related
 

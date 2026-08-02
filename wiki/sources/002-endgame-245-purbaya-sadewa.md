@@ -2,7 +2,7 @@
 title: Endgame #245 — Purbaya Yudi Sadewa
 type: source
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [indonesia, macro, fiscal-policy, interview, endgame]
 sources: []
 status: active
@@ -22,33 +22,33 @@ status: active
 
 ## Summary
 
-Long-form conversation on why Indonesia’s recent social-economic strain was, in his view, driven by **domestic money-growth failure** (near-zero M0), not “global uncertainty”; how he used **expectation management + liquidity relocation** as Finance Minister; and a growth path from ~5% → ~6.5% (dual engines) → **8%** via FDI after [[concepts/investment-debottlenecking|debottlenecking]], [[concepts/uncertainty-to-risk-translation|pricing risk]], and a thicker [[concepts/stem-talent-pipeline|STEM talent pipeline]].
+Purbaya argues that Indonesia’s recent social and economic strain came mainly from a domestic problem: M0, or the narrowest measure of money in circulation, barely grew. He rejects “global uncertainty” as the main cause. As Finance Minister, he says he tried to change public expectations and move idle government money into commercial banks. His growth path starts at about 5%, rises to about 6.5% by combining private and government activity, and reaches **8%** with foreign direct investment (FDI). Before that can happen, Indonesia must remove investment barriers through [[concepts/investment-debottlenecking|debottlenecking]], improve how it handles [[concepts/uncertainty-to-risk-translation|pricing risk]], and expand the [[concepts/stem-talent-pipeline|STEM talent pipeline]].
 
 ## Core claims (attributed)
 
-1. **Domestic policy, not global noise** — Near-zero money growth (esp. mid-2025 stretch cited) “choked” the economy; unrest was mainly economic, not primarily political or external. ([[concepts/money-supply-vs-interest-rates|Money growth vs rates]])
-2. **Banks can have “ample liquidity” while the *system* is dry** — Idle government funds at the central bank don’t count as circulating system liquidity.
-3. **Self-fulfilling prophecy as design** — Flip pessimism with credible swagger, then immediately back it with instruments; without tools, expectations collapse in 1–2 weeks. ([[concepts/expectation-management|Expectation management]])
-4. **Operational move** — Relocate unused government money from BI to commercial banks (~Rp200T of ~Rp400+T cited; later another ~Rp76T inject). Prefer double-digit M0 growth (aim toward ~20%+), monitor consumer confidence / trust in government.
-5. **Path to 8%** — SBY-era private-driven growth (~6%, high M0) + Jokowi-era government push (~5%, weak private/M0) → combine engines for ~6.5% without structural change; **8% requires external capital** once domestic engines work — don’t beg; fix climate so capital arrives. ([[concepts/fdi-climate|FDI climate]])
-6. **Debottlenecking is the binding constraint** — Paper rules look clean; field is blocked. 2016–19 satgas experience: hundreds of cases heard, ~193 finished, ~Rp830T investment impact. Budget withholding as **credible threat**. ([[concepts/investment-debottlenecking|Debottlenecking]])
-7. **Two FDI prerequisites** — Rule of law + capacity to **translate uncertainty into priced risk**. STEM scale is part of that capacity. ([[concepts/uncertainty-to-risk-translation|Uncertainty → risk]])
-8. **Talent / LPDP** — Indonesia produces ~250k STEM grads/yr vs China ~4.5M, India ~2–2.5M. Prefer wholesale endowments (professorships) over retail-only scholarships; growth creates demand for engineers (Pegatron / Yadea anecdotes).
-9. **Electrification as outcome** — Per-capita kWh and GW build are results of richer demanders, not standalone MoF targets; PLN “oversupply” reflects years of ~5% growth below plan assumptions.
-10. **1998 lesson** — Simultaneous rate spike (~60%) crushing the real sector *and* exploding money growth crushing the rupiah/inflation = contradictory policy. Prefer consistency: if tight, tighten money; if loose, expand money — and watch M0, not rates alone.
-11. **Closing message** — Future wealth is a domestic choice; 8% is ambitious but not impossible; “kaya bersama.”
+1. **Domestic policy mattered more than global events.** He says near-zero money growth, especially during the cited period in mid-2025, “choked” the economy. In his view, the unrest was mainly economic rather than political or foreign-driven. ([[concepts/money-supply-vs-interest-rates|Money growth vs rates]])
+2. **Banks can have “ample liquidity” while the wider system lacks money.** Government funds sitting idle at the central bank are not circulating through the economy.
+3. **Expectations can become self-fulfilling.** A leader can reverse pessimism with credible confidence, but must immediately support the message with policy tools. Without those tools, confidence can collapse within 1–2 weeks. ([[concepts/expectation-management|Expectation management]])
+4. **His practical move was to relocate government money.** He cites moving about Rp200T out of more than Rp400T in unused funds from BI to commercial banks, followed later by another injection of about Rp76T. He prefers double-digit M0 growth, aiming toward about 20% or more, while monitoring consumer confidence and trust in government.
+5. **The path to 8% has stages.** The SBY era had about 6% growth led by the private sector and high M0 growth. The Jokowi era had about 5% growth, with a stronger government role but weak private activity and M0. Combining both engines could produce about 6.5% growth without structural change. Reaching **8% requires foreign capital** after the domestic engines work. Indonesia should improve its investment climate so capital comes willingly, rather than begging for it. ([[concepts/fdi-climate|FDI climate]])
+6. **Removing practical barriers is the main constraint.** Rules may look clear on paper while projects remain blocked in practice. He says a 2016–19 task force heard hundreds of cases, completed about 193, and affected about Rp830T in investment. Withholding budgets gave the task force a **credible threat** against agencies that would not cooperate. ([[concepts/investment-debottlenecking|Debottlenecking]])
+7. **Foreign direct investment needs two things.** Indonesia needs the rule of law and the ability to **turn uncertainty into risks that investors can estimate and include in prices**. A larger workforce in science, technology, engineering, and mathematics helps build that ability. ([[concepts/uncertainty-to-risk-translation|Turning uncertainty into risk]])
+8. **Indonesia needs more STEM talent and a broader LPDP strategy.** Indonesia produces about 250,000 STEM graduates per year, compared with about 4.5 million in China and 2–2.5 million in India. He prefers large institutional endowments, such as funded professorships, instead of relying only on individual scholarships. He also argues that growth creates demand for engineers, citing Pegatron and Yadea.
+9. **Electrification is an outcome of higher incomes.** Electricity use per person and new generation capacity result from richer consumers demanding more power. They should not be treated only as separate Ministry of Finance targets. PLN’s “oversupply” reflects years when growth stayed near 5%, below earlier planning assumptions.
+10. **The 1998 response used conflicting policies.** Interest rates rose to about 60%, hurting the real economy, while money growth also surged, weakening the rupiah and increasing inflation. He argues for consistency: a tight policy should reduce money, while a loose policy should expand it. Policymakers should watch M0, not only interest rates.
+11. **His closing message is optimistic.** Indonesia can choose a wealthier future. Growth of 8% is ambitious but not impossible. The goal is “kaya bersama.”
 
 ## Notable quotes / framings
 
 - Social turmoil “bukan karena politik utamanya… tapi karena kita mengerem pertumbuhan ekonomi karena tidak cukup uang di sistem.”
 - On idle funds at BI: “Uangnya enggak dipakai. Saya cuman pindahin uang saya dari BI ke perbankan.”
 - On FDI: “Kalau sudah sampai 6,5 pasti luar masuk. Saya enggak akan mengemis-ngemis mereka.”
-- On investment theses: climate need not be perfect today — outsiders enter when the **trajectory** of improvement is credible.
-- On QE: ordinary monetary ops at larger scale — “bukan hal yang haram” if monitored for inflation/velocity.
+- On investment: the climate does not need to be perfect today. Foreign investors may enter when they believe the **direction** of improvement is credible.
+- On quantitative easing (large-scale money operations): it is “bukan hal yang haram” if inflation and the speed of money circulation are monitored.
 
 ## Biography thread (compressed)
 
-ITB electrical engineering → Schlumberger field work → PhD economics Purdue (wife-driven pivot) → Danareksa Research → advisor orbits (SBY, then Jokowi/Luhut) → LPS during financial stress → Finance Minister (instead of planned retirement).
+Purbaya studied electrical engineering at the Bandung Institute of Technology and then did field work for Schlumberger. Encouraged by his wife, he changed direction and earned a doctorate in economics at Purdue. He worked at Danareksa Research and later advised circles around Susilo Bambang Yudhoyono, followed by Joko Widodo and Luhut. He served at the Indonesia Deposit Insurance Corporation during a period of financial stress and became Finance Minister instead of entering his planned retirement.
 
 ## Entities & concepts touched
 
@@ -58,7 +58,7 @@ ITB electrical engineering → Schlumberger field work → PhD economics Purdue 
 
 ## Open questions
 
-- Which money-growth and confidence figures can be corroborated from BI / LPS / official releases?
-- How durable is “budget as stick” for cross-ministry debottlenecking without institutionalizing the satgas?
-- Gen-Z scholarship uptake failure — psychology vs selection design vs career risk?
-- Geothermal (Geo Dipa) and 100 GW solar plan: timing, offtake, and subsidy implications under a demand-led view?
+- Which money-growth and confidence figures can be corroborated through Bank Indonesia, the Indonesia Deposit Insurance Corporation, or other official releases?
+- How durable is the use of the budget as a threat for removing bottlenecks across ministries if the task force is not made permanent?
+- Does low scholarship uptake among Generation Z result from psychology, selection design, or career risk?
+- Under a demand-led view of electricity, what are the timing, guaranteed-purchase, and subsidy implications of Geo Dipa geothermal projects and the 100-gigawatt solar plan?

@@ -2,7 +2,7 @@
 title: AI Commoditization and Enterprise Lock-In
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [ai, strategy, enterprise, china, us]
 sources: [sources/010-indrawan-perang-ai-china-vs-amerika]
 status: active
@@ -10,26 +10,28 @@ status: active
 
 # AI Commoditization and Enterprise Lock-In
 
-Claim ([[entities/indrawan-nugroho|Indrawan]], [[sources/010-indrawan-perang-ai-china-vs-amerika|#010]]): in fast AI markets, a revolutionary tech edge ages into **table stakes** quickly; industry value then migrates to **distribution, enterprise software, workflows, cloud, and system integration** — where switching costs live.
+[[entities/indrawan-nugroho|Indrawan]] argues that a revolutionary advantage can quickly become a basic requirement in fast-moving AI markets. This is **commoditization**: a capability becomes widely available and no longer makes one company special.
 
-## Mechanism (his telling)
+Value then moves toward **distribution, business software, work processes, cloud services, and system integration**. These areas create switching costs, which are the costs and difficulties a customer faces when moving to another provider. Source: [[sources/010-indrawan-perang-ai-china-vs-amerika|#010]].
 
-1. DeepSeek proves cheap competitive AI → competitors (Qwen, Kimi, OSS) copy the cost/efficiency approach
-2. Market stops treating “cheap/efficient” as exclusive → **commoditization**
-3. Buyers need frontier less for daily work if “good enough + cheap” exists
-4. Winners deepen **embedding** (Copilot, Agentforce, coding/finance agents) so leaving hurts
-5. Race becomes **mass industrialization** (inference/deployment cost) as much as frontier demos
+## How it happens
+
+1. DeepSeek proves that competitive AI can be cheap. Competitors such as Qwen, Kimi, and open-source software copy its cost and efficiency methods.
+2. The market stops treating “cheap and efficient” as a unique advantage. The capability becomes a **commodity**.
+3. Customers need fewer frontier capabilities for daily work when a “good enough and cheap” option exists.
+4. Winners embed products such as Copilot, Agentforce, and coding or finance agents deeply into daily work. Leaving then becomes painful.
+5. The race becomes **mass industrialization**. The cost of running and deploying models matters as much as impressive frontier demonstrations.
 
 ## Two distribution logics
 
-- **US (capture via lock-in):** enterprise workflows, cloud, software foundation before alternatives harden
-- **China (capture via reach):** app ecosystems (Alibaba, ByteDance, Tencent…), state push into education/manufacturing/EVs/public services, cheap OSS for price- and sovereignty-sensitive developing countries
+- **United States, capture through lock-in:** Embed AI in business workflows, cloud services, and software before alternatives become established.
+- **China, capture through reach:** Use app ecosystems such as Alibaba, ByteDance, and Tencent. The state pushes AI into education, manufacturing, electric vehicles, and public services. Cheap open-source software also appeals to developing countries that care about price and sovereignty.
 
 ## Vault bridges
 
-- Aftershock to Keyu’s DeepSeek-as-[[concepts/crisis-innovation-and-tech-restrictions|crisis innovation]] signal: the *shock* created value; *ownership* of industry rents is the capture game
-- Reinforces [[concepts/copy-with-pride-application-layer]]: SEA can ride cheap diffused stacks without national-frontier vanity
-- Tension with [[concepts/ai-electrification-threshold]]: mass inference still needs electrons — cheap models don’t erase power constraints
+- This follows Keyu’s view of DeepSeek as a signal of [[concepts/crisis-innovation-and-tech-restrictions|crisis innovation]]. The *shock* created value. Ownership of long-term industry profits is a separate capture problem.
+- It reinforces [[concepts/copy-with-pride-application-layer]]. Southeast Asia can use cheap and widely available technology stacks without building national frontier models for prestige.
+- It is in tension with [[concepts/ai-electrification-threshold]]. Running models at mass scale still needs electricity. Cheap models do not remove power constraints.
 
 ## Related
 

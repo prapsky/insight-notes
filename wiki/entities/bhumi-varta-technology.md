@@ -2,7 +2,7 @@
 title: Bhumi Varta Technology
 type: entity
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [company, deep-tech, indonesia, geospatial]
 sources: [sources/005-endgame-272-martyn-terpilowski]
 status: stub
@@ -10,18 +10,22 @@ status: stub
 
 # Bhumi Varta Technology
 
-Indonesian deep-tech company founded/led by [[entities/martyn-terpilowski|Martyn Terpilowski]]. Appears in [[sources/005-endgame-272-martyn-terpilowski|Endgame #272]] as a **counterexample** to consumer-app / TAM short-termism: engineering-heavy product business funded with own capital, selling B2B, expanding regionally.
+Bhumi Varta Technology is an Indonesian deep-technology company founded and led by [[entities/martyn-terpilowski|Martyn Terpilowski]]. Deep technology is based on difficult engineering or science. In [[sources/005-endgame-272-martyn-terpilowski|Endgame #272]], the company is presented as an alternative to short-term thinking about consumer apps and total addressable market, or TAM.
 
-## Claims from the interview (attributed)
+The company builds engineering-heavy products. It was funded with the founder's own money, sells to other businesses, and is expanding across the region.
 
-- Deep-tech / geospatial-style product (AI + engineering core; not marketing-budget tech)
-- Work with large clients/distributors (e.g. Pertamina station management mentioned; Microsoft, Metrodata as sales partners after initial “we don’t sell Indonesian technology” resistance)
-- Claimed largest in Vietnam in its category; Japan expansion via founder’s prior network (Asia product for Japanese corporates, not Japan-only)
-- Hired returnee STEM talent (e.g. Cambridge PhD data lead with London AI/data years) precisely because few local deep-tech homes exist
+## Claims from the interview
+
+The following claims are attributed to the interview:
+
+- The company makes a deep-technology product with a geospatial focus. AI and engineering are central. It is not a technology business defined mainly by its marketing budget.
+- It works with large clients and distributors. The interview mentions management of Pertamina stations. It also names Microsoft and Metrodata as sales partners after initial resistance expressed as “we don't sell Indonesian technology.”
+- Martyn claims that the company is the largest in its category in Vietnam. It is expanding to Japan through his earlier network. The product is designed in Asia for Japanese companies, rather than only for the Japanese market.
+- The company hires Indonesian science and engineering talent returning from abroad. One example is a data leader with a Cambridge PhD and years of AI and data experience in London. Martyn says this is possible because Indonesia has few local deep-technology employers.
 
 ## Missing
 
-Independent product description, founding date, funding history, and verification of market-share claims — stub until company materials or further sources are ingested.
+This page still needs an independent product description, founding date, funding history, and verification of the market-share claims. It remains a stub until company materials or more sources are added.
 
 ## Related
 

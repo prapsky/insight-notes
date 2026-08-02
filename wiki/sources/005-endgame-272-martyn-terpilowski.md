@@ -2,7 +2,7 @@
 title: Endgame #272 — Martyn Terpilowski
 type: source
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [indonesia, technocracy, meritocracy, fdi, deep-tech, venture-capital, interview, endgame]
 sources: []
 status: active
@@ -23,40 +23,40 @@ status: active
 
 ## Summary
 
-Blunt founder/operator critique of Indonesia’s business and tech ecosystem: the binding constraint is not raw ability but **lack of meritocracy** (second-name insulation, circular VC funding, celebrity-founder culture). Fix path = open FDI and foreign/returnee talent like Vietnam/China/Japan-as-sponge; build **exportable deep tech** over decade horizons instead of TAM/consumer-app get-rich-quick; raise STEM conversion and accessible universities. Gita bridges to money-supply scarcity as elite-narrative enabler and to four national talent models (brain train / gain / circulation / linkage).
+Martyn gives a direct critique of Indonesia’s business and technology system. He says the main problem is not a lack of ability. It is a **lack of meritocracy**, meaning that jobs and funding do not always go to the most capable people. Family names can protect poor performers, venture-capital funding can circulate among connected people, and founders can be treated like celebrities. His proposed path is to welcome FDI (foreign direct investment) and experienced foreign or returning talent, as Vietnam, China, and Japan have done. Indonesia should build **deep technology that can be exported** over ten-year periods, instead of chasing quick wealth through consumer apps and large TAM claims (estimates of the total market). It should also increase the share of STEM students and make universities more accessible. Gita connects this argument to scarce money, elite control over economic stories, and four ways countries manage talent: brain train, brain gain, brain circulation, and brain linkage.
 
 ## Core claims (attributed)
 
 ### Meritocracy vs patronage
 
-1. **Wrong people in wrong jobs** — Skill gap overstated; problem is placement and accountability. Famous second names can “blow things up” and move on; hedge-fund / listed-market worlds don’t allow that. ([[concepts/meritocracy-vs-patronage|Meritocracy vs patronage]])
-2. **MBA-as-signal of wealth, not ability** — “Having an MBA here means you’ve got wealthy parents.” David Beckham’s son can’t play for United if not good enough.
-3. **Returnee refusal** — Indonesians with 20 years at Goldman / PE overseas won’t report to less-qualified family-connected locals; real talent stays abroad where ability beats connections.
-4. **Self-made scarcity** — Claims hardly any self-made multi-millionaires in his Indonesia network vs Japan/HK self-made peers; UK rich-list anecdote (e.g. BlueCrest / Michael Platt from Preston) as meritocratic contrast.
-5. **Sickofan / photo culture** — Events as celebrity meet-and-greets kill competitive edge; he wanted to *beat* seniors, not photograph them. Politics-as-aspiration vs private-sector indifference to politicians in UK/Japan.
+1. **The wrong people hold the wrong jobs.** The skills gap is exaggerated. The deeper problems are poor placement and weak accountability. People with famous family names can “blow things up” and move on, while hedge funds and public markets punish such failure. ([[concepts/meritocracy-vs-patronage|Meritocracy vs patronage]])
+2. **An MBA can signal wealth rather than ability.** Martyn says, “Having an MBA here means you’ve got wealthy parents.” He compares this with football: David Beckham’s son cannot play for Manchester United if he is not good enough.
+3. **Experienced returnees may refuse subordinate roles based on connections.** Indonesians with 20 years at Goldman Sachs or in private equity abroad will not report to less-qualified local people who have family connections. Strong talent stays in countries where ability matters more than connections.
+4. **He sees few self-made wealthy people in his Indonesian network.** He contrasts this with self-made peers in Japan and Hong Kong. As a British example, he cites rich-list figures such as BlueCrest founder Michael Platt, who came from Preston.
+5. **He criticizes a culture of seeking photographs with famous people.** Events organized as celebrity meetings weaken the desire to compete. Martyn wanted to *beat* senior figures, not photograph them. He contrasts political office as an aspiration in Indonesia with the private sector’s relative indifference to politicians in the United Kingdom and Japan.
 
 ### Talent models & FDI sponge
 
-6. **Gita’s four illustrations** — Japan *brain train* (indigenous Nobel path); Australia *brain gain*; China *brain circulation* (~9M STEM abroad, many return); India *brain linkage* (diaspora exchange without full return). Indonesia needs more gain + circulation. ([[concepts/brain-gain-and-circulation|Brain gain & circulation]])
-7. **Study abroad ≠ enough** — Need overseas *work* experience; many well-named grads return immediately because connections work here and names don’t abroad.
-8. **Vietnam / China / Japan as sponges** — Vietnam 2005: Intel 100% FDI, then FPT / TMA / VinFast from returnees + spinoffs. Japan finance: Wall Street expats → Japanese-run hedge funds later. China EV / geospatial: host then copy (Esri → SuperMap story). Local-content rules that police Japanese ACs in a local tech firm are “ludicrous.”
-9. **STEM conversion pressure** — Gita cites Malaysia ~40–43% STEM of uni students, Singapore ~36%, Indonesia ~22%, Vietnam lecture site ~50%; target Indonesia ≥~40% to attract tech capital. Nvidia/Intel → Malaysia as STEM-hunger signal. ([[concepts/stem-talent-pipeline|STEM talent pipeline]])
+6. **Gita describes four talent models.** Japan uses *brain train* by developing talent at home. Australia uses *brain gain* by attracting talent. China uses *brain circulation*, with about 9 million STEM students abroad and many returning. India uses *brain linkage*, where the diaspora shares knowledge without fully returning. Indonesia needs more brain gain and circulation. ([[concepts/brain-gain-and-circulation|Brain gain & circulation]])
+7. **Studying abroad is not enough.** People also need overseas *work* experience. Many graduates with prominent family names return immediately because their connections work in Indonesia but their names provide no advantage abroad.
+8. **Vietnam, China, and Japan absorbed foreign knowledge like sponges.** In 2005, Vietnam hosted a fully foreign-owned Intel investment. Firms such as FPT, TMA, and VinFast later grew from returnees and spin-offs. Japan first used Wall Street expatriates in finance and later developed Japanese-run hedge funds. In electric vehicles and geospatial technology, China hosted foreign companies and then copied what worked, illustrated by the move from Esri to SuperMap. Martyn calls local-content rules “ludicrous” when they police Japanese air conditioners used by a local technology company.
+9. **Indonesia needs a larger share of university students in STEM.** Gita cites about 40–43% in Malaysia, 36% in Singapore, 22% in Indonesia, and 50% at the Vietnamese institution where he was speaking. He proposes a target of at least about 40% for Indonesia to attract technology capital. Nvidia and Intel choosing Malaysia signals their search for science, technology, engineering, and mathematics talent. ([[concepts/stem-talent-pipeline|STEM talent pipeline]])
 
 ### Tech winter, short-termism, deep tech
 
-10. **House of cards** — VC round as friends investing in wives’/sisters’ companies; follow bigger-name rounds; weak data-room discipline; paid revenue; failed operators become advisers/VCs — no accountability.
-11. **Consumer apps / TAM / MSME tech** — Little exportable IP; “280 million people” as business plan; race-to-bottom copies of US models; financial-inclusion pitch doubted (richest already banked). Deep tech dismissed as “won’t work in Indonesia” while 100 copycats race.
-12. **Sell-on-the-way-up culture** — Founders/VCs get rich while companies lose money; exits and government pivots over generational companies. Grandparents built over decades; bubble cohort wanted 6-month McKinsey → unicorn.
-13. **Money ≠ panacea** — Too much capital into wrong ideas/connections; $500M illiquid tickets hard to place without waste; PE minimum tickets can skew healthy firms. Government shouldn’t throw scarce fiscal capacity at startups (his opinion). ([[concepts/deep-tech-long-termism|Deep-tech long-termism]])
-14. **Bhumi Varta as counterexample** — Own capital, no salary; engineering-heavy (Cambridge PhD data lead, Canada/SV/Singapore returnees); B2B geospatial/deep tech; already largest in Vietnam claim; Japan expansion via prior network; distributors (Microsoft, Metrodata) now sell Indonesian tech after initial refusal.
-15. **Tech bloodshed → hope for pivot** — Short-termism to long-termism *if* will exists; noses out of joint when self-made outliers appear — may be why meritocracy is under-supported.
+10. **He calls the startup system a house of cards.** Friends invest in companies owned by one another’s wives or sisters. Investors copy rounds led by famous names. Financial records receive weak review, some revenue is paid for, and failed operators become advisers or venture capitalists. Accountability is missing.
+11. **He sees consumer applications for micro, small, and medium enterprises as a weak strategy.** These businesses create little intellectual property that can be exported. They use “280 million people” as the business plan, copy US models in a race to the bottom, and make a financial-inclusion claim that he doubts because the richest customers already have bank accounts. Deep technology is dismissed as something that “won’t work in Indonesia” while 100 copycats pursue the same idea. TAM means total addressable market, or an estimate of all potential demand. MSME means micro, small, and medium enterprise.
+12. **He criticizes a culture of selling while valuations rise.** Founders and venture capitalists become rich while their companies lose money. They prioritize exits and moves into government over building companies that last for generations. Their grandparents built businesses over decades, while the bubble generation wanted to spend six months at McKinsey and then create a unicorn.
+13. **Money is not a cure for every problem.** Too much capital can flow into weak ideas and connected networks. Illiquid investment tickets of $500 million are difficult to place without waste, and minimum private-equity ticket sizes can distort healthy firms. In Martyn’s opinion, the government should not spend its limited fiscal capacity on startups. ([[concepts/deep-tech-long-termism|Deep-tech long-termism]])
+14. **Bhumi Varta is his counterexample.** He invested his own capital and took no salary. The company is engineering-heavy, with a Cambridge doctorate leading data work and returnees from Canada, Silicon Valley, and Singapore. It sells business-to-business geospatial deep technology. He claims it is already the largest company of its kind in Vietnam and is expanding into Japan through his previous network. Distributors including Microsoft and Metrodata now sell Indonesian technology after initially refusing.
+15. **A painful technology downturn could encourage a longer-term approach.** Martyn sees a possible shift from short-termism to long-termism, but only if the political and business will exists. He suggests that self-made outliers unsettle established elites, which may help explain why meritocracy receives limited support.
 
 ### Macro / narrative / climate bridges
 
-16. **M/GDP elite-narrative thesis (Gita)** — Indonesia money-supply/GDP ~42–43% vs Japan/HK ~200%+ → finite elites control economic narrative; higher M/GDP would let irregular last names attach ideas to capital. Martyn: startup inflows sounded large but tiny vs peers; wouldn’t move M/GDP much. ([[concepts/money-supply-vs-interest-rates|Money supply vs rates]])
-17. **Local narrative ≠ foreign investability** — Golden visa / “Bali → Singapore” rhetoric laughed at by foreigners; Franklin Templeton EM equities contact: mostly uninvestable; golden-share / forced local-partner talk scares political-exposure-constrained LPs. ([[concepts/fdi-climate|FDI climate]])
-18. **SOE weight vs innovation** — Too much government ownership (~50–70% framing) blocks innovation; private sector pays more than politics in healthy markets; everyone wanting government jobs is a red flag.
-19. **Not cursed on value chain** — Problems “quite easy to fix” if will: become a sponge, raise accessible STEM (not only elite MBA pipelines), hire best-for-job foreigners where they add value (Mark Carney / football-manager analogies), build exportable goods not only natural-resources storytelling.
+16. **Gita connects a low money-to-GDP ratio with elite control of the economic narrative.** Indonesia’s money supply is about 42–43% of gross domestic product, compared with more than 200% in Japan and Hong Kong. He argues that a limited group of elites therefore controls the economic story. A higher ratio would let people without prominent family names connect their ideas to capital. Martyn replies that startup inflows sounded large but were small compared with other countries and would not change the money-to-GDP ratio much. ([[concepts/money-supply-vs-interest-rates|Money supply vs rates]])
+17. **An appealing domestic narrative does not automatically make a country investable to foreigners.** Martyn says foreign audiences laugh at golden-visa promotions and claims that Bali could become another Singapore. He cites a contact in Franklin Templeton’s emerging-market equities business who considered most local opportunities uninvestable. Proposals for golden shares or mandatory local partners also deter limited partners that are required to avoid political exposure. ([[concepts/fdi-climate|FDI climate]])
+18. **Heavy state ownership can obstruct innovation.** In the interview’s rough framing, state-owned enterprises account for about 50–70% of the economy. Martyn argues that healthy markets allow the private sector to pay more than political careers do, and that widespread preference for government jobs is a warning sign.
+19. **Indonesia is not condemned to remain at one position in the value chain.** Martyn calls the problems “quite easy to fix” if the country has the will. It can absorb foreign knowledge, expand accessible STEM education beyond elite MBA pipelines, hire the best-qualified foreigners where they add value, and build exportable goods rather than relying only on stories about natural resources. He illustrates the hiring point with comparisons to Mark Carney and foreign football managers.
 
 ## Notable quotes / framings
 
@@ -67,11 +67,11 @@ Blunt founder/operator critique of Indonesia’s business and tech ecosystem: th
 - “China was a sponge… Japan was a sponge in finance.”
 - “Getting rich should come like it has for Jensen [Huang] — after years of building a product that’s globally required.”
 - “Money is not a panacea if the management’s not good and the due diligence is not good.”
-- Natural resources + 280M people “doesn’t solve anything” without exportable build.
+- Natural resources and 280 million people “doesn’t solve anything” unless Indonesia builds products it can export.
 
 ## Biography thread (compressed)
 
-Small-town north England (near Barrow-in-Furness) → local uni (cost/awareness of scholarships low) → London junior broker ~8 months → Tokyo equity/investment sales (early 2000s; “sliding doors” network via Japanese banker friend; whistleblower credibility) → ~12 years Japan → Hong Kong/Singapore shift post-quake/tax/reg → semi-retire ~38 → Indonesia to build deep-tech company ([[entities/bhumi-varta-technology|Bhumi Varta Technology]]); still expanding to Japan/Vietnam.
+Martyn grew up in a small town in northern England near Barrow-in-Furness. He attended a local university because of cost and limited awareness of scholarships. After about eight months as a junior broker in London, he moved to Tokyo for equity and investment sales in the early 2000s. A Japanese banker friend created what he calls a “sliding doors” network, and whistleblowing gave him credibility. He spent about 12 years in Japan, then moved toward Hong Kong and Singapore after an earthquake and changes in tax and regulation. He semi-retired at about 38 and then moved to Indonesia to build [[entities/bhumi-varta-technology|Bhumi Varta Technology]], which continues to expand in Japan and Vietnam.
 
 ## Entities & concepts touched
 
@@ -81,7 +81,7 @@ Small-town north England (near Barrow-in-Furness) → local uni (cost/awareness 
 
 ## Open questions
 
-- Corroborate M/GDP (~42%), STEM conversion shares (MY/SG/ID/VN), and patent counts Gita cites from official series.
-- How far does “hardly any self-made multi-millionaires” hold beyond his network selection?
-- Bhumi Varta product/market claims (Vietnam #1, Pertamina stations, Japan push) — company materials if filed later.
-- Natural comparison: Martyn’s meritocracy/FDI-sponge vs Tom’s teachers/ownership-society vs Purbaya’s liquidity/satgas — three levers, one growth problem.
+- Official series should be used to corroborate the money-to-GDP ratio of about 42%, the shares of students entering STEM in Malaysia, Singapore, Indonesia, and Vietnam, and the patent counts Gita cites.
+- It remains unclear whether the claim that there are “hardly any self-made multi-millionaires” holds beyond Martyn’s selected network.
+- Bhumi Varta’s claims about leading its category in Vietnam, serving Pertamina stations, and expanding in Japan should be checked against company materials if the topic is developed further.
+- A useful comparison would examine Martyn’s meritocracy and FDI-sponge model, Tom’s teachers and ownership society, and Purbaya’s liquidity and task-force approach as three levers addressing the same growth problem.

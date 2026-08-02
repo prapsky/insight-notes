@@ -2,7 +2,7 @@
 title: AI Electrification Threshold
 type: concept
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [ai, energy, indonesia, infrastructure]
 sources: [sources/007-bravo-500-ai-panel, sources/006-endgame-216-chatib-basri, sources/008-endgame-259-jiang-xueqin, sources/009-endgame-239-keyu-jin, sources/010-indrawan-perang-ai-china-vs-amerika, sources/011-indrawan-nvidia-ai-pc]
 status: active
@@ -10,9 +10,9 @@ status: active
 
 # AI Electrification Threshold
 
-Claim ([[entities/gita-wirjawan|Gita]], [[sources/007-bravo-500-ai-panel|Bravo 500 panel]]): a nation becomes **AI-capable as creator** (not only consumer/enabler) when electrification reaches roughly **~10,000 kWh per capita** — the order of China/US intensity — because modern AI workloads are energy-hungry relative to classic search.
+[[entities/gita-wirjawan|Gita]] argues that a country needs about **10,000 kilowatt-hours of electricity per person** to become an **AI creator**, rather than only an AI consumer or enabler. China and the United States operate at roughly this level. Modern AI tasks use much more energy than traditional web searches. Source: [[sources/007-bravo-500-ai-panel|Bravo 500 panel]].
 
-## Snapshot figures (panel / interview framing)
+## Figures stated in the panel and interviews
 
 | Place | Generation capacity (stated) | kWh / capita (stated) |
 |-------|------------------------------|------------------------|
@@ -21,17 +21,21 @@ Claim ([[entities/gita-wirjawan|Gita]], [[sources/007-bravo-500-ai-panel|Bravo 5
 | Indonesia | ~100 GW | ~1,300 |
 | SEA at ~10k | Singapore, Brunei | — |
 
-Indonesia path to ~10k kWh/capita framed as needing ~**600 GW** (~7×). At ~**5 GW/yr** additions → century-scale (~120 years in Gita’s lay arithmetic). [[entities/budi-gunadi-sadikin|Budi]]: new 1 GW plant lead time ~**7 years** (was ~4); power **wheeling** to deliver green hydro to DCs via leased PLN capacity was proposed and rejected.
+The speakers estimate that Indonesia would need about **600 GW**, or around **seven times** its current capacity, to reach roughly 10,000 kWh per person. If Indonesia adds only about **5 GW each year**, Gita’s simple calculation gives a timeline of about 120 years.
+
+[[entities/budi-gunadi-sadikin|Budi]] says a new 1 GW power plant now takes about **7 years** to build, up from around 4 years. A proposal for power **wheeling** was rejected. Wheeling would have allowed green hydropower to reach data centers by leasing capacity from PLN’s electricity network.
 
 ## Why it binds sovereignty
 
-Without power, “data sovereignty” collapses into **data dependence** — onshoring rules without electrons. Complements [[concepts/physical-vs-cryptographic-sovereignty]]: physical local hyperscale waits on this threshold; cryptographic controls can proceed sooner.
+Without enough electricity, “data sovereignty” becomes **data dependence**. Rules that require data to stay inside the country do not help if the country lacks the power to run the infrastructure.
+
+This complements [[concepts/physical-vs-cryptographic-sovereignty]]. Large local data centers must wait for sufficient electricity, while cryptographic controls can begin sooner.
 
 ## Cross-links
 
-- [[sources/006-endgame-216-chatib-basri|Chatib #216]]: similar ~1,300 kWh baseline, ~$1T-scale generation finance, century-scale if build rates stay low; **incentives ≠ legal certainty** for energy FDI
-- Jensen stack (Budi): energy is layer 1 before chips, DC, models, apps
-- [[entities/sinarmas|Sinarmas]] / Franky: private coal/geo/solar + ~40+ MW DC as partial private contribution
+- [[sources/006-endgame-216-chatib-basri|Chatib #216]] gives a similar baseline of about 1,300 kWh per person. He estimates electricity-generation financing on the scale of about $1 trillion. At low construction rates, the timeline remains about a century. He also argues that **investment incentives are not the same as legal certainty** for foreign investment in energy.
+- In Budi’s version of Jensen’s technology stack, energy is the first layer. Chips, data centers, models, and applications depend on it.
+- [[entities/sinarmas|Sinarmas]] and Franky describe private investments in coal, geothermal, solar, and a data center of more than 40 MW as a partial private-sector contribution.
 
 ## Contested / verify
 
@@ -41,11 +45,15 @@ Without power, “data sovereignty” collapses into **data dependence** — ons
 
 ## Keyu (#009): energy race + China delivery
 
-Agrees with Gita that inadequate electrification in the Global South **elitizes** AI access; expects another energy race among big powers. Hope: human ingenuity finds alternatives when dependence bites (OPEC analogy); China may deliver capacity/tech because “prosperity begets prosperity.” Complements panel GW math with a **supplier geopolitics** lens — still does not lower Indonesia’s kWh/capita bind.
+Keyu agrees with Gita that inadequate electricity in the Global South makes AI access available mainly to elites. She expects another energy race among major powers.
+
+She hopes human ingenuity will find alternatives when dependence becomes painful, using OPEC as an analogy. China may provide energy capacity and technology because “prosperity begets prosperity.” This adds a **supplier geopolitics** view to the panel’s electricity calculations. It does not reduce Indonesia’s need for more electricity per person.
 
 ## Indrawan (#010–#011): inference cost + edge compute
 
-Mass-industrial AI and cheap inference (#010) still burn electrons at scale — cost pressure ≠ power abundance. Nvidia’s AI PC / edge push (#011) aligns with Sai’s distributed/agentic note: not all workloads stay in hyperscale DCs, but devices and local AI still sit inside the same energy constraint and [[concepts/platform-leadership-and-ecosystem-expansion|platform]] fight.
+Mass-produced AI and cheap inference, meaning cheaper operation of trained models, still use large amounts of electricity (#010). Lower costs do not mean abundant power.
+
+Nvidia’s AI PC and edge-computing strategy (#011) fits Sai’s point about distributed and agent-based computing. Not every AI task will run in a very large data center. However, personal devices and local AI still face the same energy limits and the same [[concepts/platform-leadership-and-ecosystem-expansion|platform]] competition.
 
 ## Related
 

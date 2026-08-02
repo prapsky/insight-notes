@@ -2,7 +2,7 @@
 title: Indrawan — Perang AI China vs Amerika
 type: source
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [ai, geopolitics, china, us, strategy, deepseek, youtube]
 sources: []
 status: active
@@ -21,65 +21,65 @@ status: active
 
 ## Summary
 
-Narrative arc: **DeepSeek R1 (early 2025)** as market shock under US chip restrictions → by **V4 (2026)** the efficiency shock is commoditized (Qwen, Kimi, OSS catching up) → industry focus shifts from frontier demos to **who embeds AI in real workflows**. Hub concepts: [[concepts/value-creation-vs-value-capture]], [[concepts/ai-commoditization-and-enterprise-lock-in]]. US retains frontier + enterprise lock-in; China presses mass distribution, price, and state-backed adoption — especially in price-sensitive developing markets.
+The story begins with **DeepSeek R1 in early 2025**. It shocked markets because it performed well despite US chip restrictions. By **DeepSeek V4 in 2026**, efficient AI had become common. Qwen, Kimi, and open-source software (OSS) were catching up, so efficiency was no longer a unique advantage. The industry’s attention moved from impressive demonstrations to a practical question: **who can place AI inside real work processes?** Hub concepts: [[concepts/value-creation-vs-value-capture]], [[concepts/ai-commoditization-and-enterprise-lock-in]]. The US still leads in frontier models and makes enterprise customers costly to lose. China competes through broad distribution, low prices, and government-supported adoption, especially in developing countries where price matters.
 
 ## Core claims (attributed)
 
 ### DeepSeek arc
 
-1. **Shock** — DeepSeek blamed for ~**$593B** Nvidia market-value drop in one day (early 2025); App Store download surge in the US; first moment many treated Chinese AI as shaping global direction, not only catching up.
-2. **Under embargo** — Competitive models despite US chip restrictions → signal that geopolitical pressure need not slow China as intended ([[concepts/crisis-innovation-and-tech-restrictions]], [[concepts/weaponized-interdependence-and-substitutes]]).
-3. **Fade** — V4 (2026) strong/efficient but flat market reaction; efficiency became **new baseline**, not exclusive edge. Qwen (Alibaba), Kimi (Moonshot) and Chinese OSS dilute DeepSeek’s uniqueness *inside* China too.
+1. **Shock** — In early 2025, DeepSeek was blamed for about **$593B** of Nvidia market value vanishing in one day. US App Store downloads also jumped. For many people, this was the first time Chinese AI seemed to set the global direction, not only catch up.
+2. **Under embargo** — China still built competitive models despite US chip restrictions. That suggested geopolitical pressure may not slow China as intended. See [[concepts/crisis-innovation-and-tech-restrictions]] and [[concepts/weaponized-interdependence-and-substitutes]].
+3. **Fade** — By DeepSeek V4 in 2026, the model was still strong and efficient, but markets barely reacted. Efficiency had become the **new baseline**, not a unique edge. Qwen (Alibaba), Kimi (Moonshot), and Chinese open-source software also reduced DeepSeek’s uniqueness *inside* China.
 
 ### US response — embed, don’t just demo
 
-4. OpenAI pushes into large-enterprise software; Anthropic (Claude 4.5) coding / financial analysis / enterprise, Microsoft 365 Copilot integration; Salesforce Agentforce into operational systems.
-5. Game shifts: not “most impressive model” but **fastest real-world use and business value**.
+4. OpenAI pushed into large-company software. Anthropic (Claude 4.5) targeted coding, financial analysis, and enterprise work, including Microsoft 365 Copilot. Salesforce Agentforce moved into day-to-day operational systems.
+5. The contest shifted. The winner is not the “most impressive model,” but the company that gets **real-world use and business value** fastest.
 
 ### Value creation vs value capture
 
-6. **[[concepts/value-creation-vs-value-capture|Value creation]]** — DeepSeek forced industry rethink on cost; paradigm shift.
-7. **Value capture** — Distribution, monetization, loyal users, long-term profit. Disrupter ≠ winner of the spoils.
-8. **Commoditization** — Tech edge ages into table stakes; differentiation thins; industry value migrates to distribution, enterprise software, workflows, cloud, system integration ([[concepts/ai-commoditization-and-enterprise-lock-in]]).
-9. US edge = **switching costs** from deep embedding — ecosystem hardest to leave, not only smartest model.
+6. **[[concepts/value-creation-vs-value-capture|Value creation]]** — DeepSeek forced the industry to rethink cost. That changed the basic way people thought about AI.
+7. **Value capture** — Capture means distribution, monetization, loyal users, and long-term profit. The company that disrupts the industry is not automatically the one that keeps the gains.
+8. **Technology becomes a commodity over time.** A technical advantage eventually becomes a basic requirement that everyone can offer. Differences between models shrink. Value then moves to distribution, business software, work processes, cloud services, and system integration. See [[concepts/ai-commoditization-and-enterprise-lock-in]].
+9. The US edge is **switching costs** from deep embedding. Customers stay because the ecosystem is hard to leave, not only because the model is smartest.
 
 ### Permanent cost pressure + China’s distribution
 
-10. Shock faded; **permanent** focus on cheap inference/deployment. Mass industrialization of AI, not only innovation race.
-11. China distribution: DeepSeek, Alibaba/Qwen, ByteDance, Tencent — hundreds of millions of users + app ecosystems; state push into education, manufacturing, EVs, public services; cheap/modifiable OSS hard to contain in developing countries (price + tech-sovereignty sensitivity).
+10. After the shock faded, the industry kept a **permanent** focus on cheap inference and deployment. The race became mass industrialization of AI, not only breakthrough innovation.
+11. China’s distribution advantage runs through DeepSeek, Alibaba/Qwen, ByteDance, and Tencent. These firms reach hundreds of millions of users through app ecosystems. The state also pushes AI into education, manufacturing, electric vehicles, and public services. Cheap, modifiable open-source software is hard to contain in developing countries that care about price and technical independence.
 
 ### Three US battlefields (his prescription)
 
-12. **Hold tech gap** — Nvidia GPUs, cloud, AI software stack, frontier talent; massive AI DCs + chip export controls. Fear: China catches frontier → US edge erodes fast (solar / EV analogy: US innovated early, China took mass production + global distribution).
-13. **Win ecosystem war** — Agents, software integration, workflows; Anthropic as “stable/safe/trusted” enterprise play — lock AI as foundation of coding, finance, cyber, research, digital infra *before* Chinese alternatives scale.
-14. **Cohesive policy** — China integrated (smart city, manufacturing, robotics, public services); US fragmented across Big Tech, startups, regulators, domestic politics → push for security standards, IP protection, AI diplomacy. Risk: US short-term monetization vs China long-horizon ecosystem → China as default in many developing countries.
+12. **Hold the tech gap** — Keep the lead in Nvidia GPUs, cloud, the AI software stack, and frontier talent. Build large AI data centers and keep chip export controls. The fear: if China reaches the frontier, the US edge could fade quickly. Solar panels and electric vehicles are the analogy: the US innovated early, then China took mass production and global distribution.
+13. **Win the ecosystem war** — Compete through agents, software integration, and work processes. Anthropic is framed as the “stable, safe, trusted” enterprise option. The goal is to make AI the foundation of coding, finance, cybersecurity, research, and digital infrastructure *before* Chinese alternatives scale.
+14. **Build cohesive policy** — China integrates AI across smart cities, manufacturing, robotics, and public services. The US is more fragmented across Big Tech, startups, regulators, and domestic politics. Indrawan wants stronger security standards, intellectual-property protection, and AI diplomacy. The risk: if the US prioritizes short-term monetization while China builds long-horizon ecosystems, China could become the default choice in many developing countries.
 
 ### Three lessons
 
-15. Shocking an industry ≠ owning it.
-16. Tech advantage has an expiry date; value migrates to software/distribution/workflow/enterprise.
-17. Create value **and** build systems to capture it.
+15. Shocking an industry is not the same as owning it.
+16. A tech advantage expires. Value moves to software, distribution, work processes, and enterprise embedding.
+17. Create value **and** build systems that capture it.
 
 ## Notable quotes / framings
 
 - “Mengguncang industri dan menguasai industri adalah dua hal yang berbeda.”
 - Value creation vs value capture as the strategic split after DeepSeek.
-- Solar/EV analogy for innovation → mass production handoff.
+- Solar panels and electric vehicles show how leadership can move from the first innovator to the country that masters mass production.
 - Closing prompt: are you only creating value, or also building capture systems?
 
 ## Contested / bridges
 
-> **Bridge (2026-08-01):** DeepSeek-under-embargo = same loop as Keyu’s [[concepts/crisis-innovation-and-tech-restrictions]] + [[concepts/weaponized-interdependence-and-substitutes]]; Indrawan adds the **aftershock**: creation without capture → US enterprise reasserts.
+> **Bridge (2026-08-01):** DeepSeek under chip restrictions follows the same pattern as Keyu’s [[concepts/crisis-innovation-and-tech-restrictions]] and [[concepts/weaponized-interdependence-and-substitutes]]. Indrawan adds the **aftershock**: creating value without capturing it let US enterprise software reassert control.
 
-> **Bridge (2026-08-01):** China’s cheap/OSS + developing-country pull reinforces [[concepts/process-and-diffusion-innovation]] and [[concepts/copy-with-pride-application-layer]] for Indonesia — use affordable stacks; don’t confuse shock with ownership of the industry.
+> **Bridge (2026-08-01):** China’s cheap open-source software and its pull in developing countries reinforce [[concepts/process-and-diffusion-innovation]] and [[concepts/copy-with-pride-application-layer]] for Indonesia. Use affordable technology stacks. Do not confuse an industry shock with ownership of the industry.
 
-> **Bridge (2026-08-01):** “Mass industrialization / inference cost” pressure sits next to Bravo’s [[concepts/ai-electrification-threshold]] — electrons and cheap deployment are twin constraints on who can *use* AI at scale.
+> **Bridge (2026-08-01):** Pressure for “mass industrialization” and cheaper inference sits next to Bravo’s [[concepts/ai-electrification-threshold]]. Electricity and cheap deployment both limit who can *use* AI at scale.
 
 ## Open questions
 
-- Corroborate $593B Nvidia one-day figure, App Store rankings, and V4 market reaction narrative.
-- How durable is Anthropic/OpenAI enterprise switching-cost advantage vs Chinese OSS + local cloud in SEA?
-- Whether US “policy cohesion” is a real trajectory or aspiration relative to China’s state push.
+- Check the $593B Nvidia one-day figure, App Store rankings, and the claim that V4 produced little market reaction.
+- How lasting is the Anthropic/OpenAI advantage from high switching costs, compared with Chinese open-source software plus local cloud in Southeast Asia?
+- Is stronger US “policy cohesion” a real path forward, or mainly an aspiration compared with China’s state push?
 
 ## Related pages
 
